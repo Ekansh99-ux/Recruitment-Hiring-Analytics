@@ -1,0 +1,3050 @@
+interview_id,application_id,interview_date,interview_type,interview_round,interview_status,interview_score
+1,4,2025-06-20,Case Study,2,Passed,88.47
+2,7,2025-12-15,Case Study,2,Passed,98.69
+3,10,2025-09-15,HR,1,Passed,41.39
+4,13,2025-10-26,Managerial,1,Failed,89.68
+5,14,2025-12-01,Technical,1,Failed,84.38
+6,18,2025-04-29,Managerial,2,Failed,66.22
+7,20,2025-01-26,Technical,1,Passed,84.37
+8,25,2025-10-14,Managerial,3,Passed,44.86
+9,27,2025-10-01,Technical,2,Passed,51.12
+10,31,2025-12-08,Managerial,3,Failed,94.11
+11,35,2025-04-18,HR,1,Passed,50.17
+12,37,2025-10-22,Managerial,3,Passed,86.89
+13,38,2025-01-14,Managerial,1,Failed,47.4
+14,39,2025-02-12,Case Study,3,Passed,88.71
+15,40,2025-06-22,Managerial,1,Failed,82.23
+16,43,2025-06-27,Case Study,1,Passed,62.67
+17,44,2025-06-09,Technical,3,Passed,51.44
+18,46,2025-02-02,Case Study,3,Failed,68.12
+19,47,2025-06-15,Managerial,3,Passed,44.12
+20,52,2025-03-07,HR,1,Passed,80.24
+21,54,2025-09-20,Technical,1,Passed,75.75
+22,55,2025-03-23,Technical,3,Failed,75.72
+23,59,2025-12-03,Case Study,2,Passed,82.43
+24,62,2025-07-25,HR,2,Passed,71.07
+25,67,2025-05-24,Managerial,2,Failed,55.99
+26,72,2025-08-27,Managerial,1,Failed,48.38
+27,73,2025-10-01,Managerial,1,Passed,41.61
+28,78,2025-07-25,Case Study,1,Passed,44.93
+29,79,2025-03-26,Managerial,1,Failed,54.47
+30,81,2025-08-29,HR,3,Failed,44.81
+31,82,2025-06-12,HR,3,Passed,41.69
+32,85,2025-04-04,Technical,3,Passed,56.11
+33,88,2025-04-15,Case Study,2,Passed,75.14
+34,90,2025-06-02,Managerial,1,Passed,68.25
+35,93,2025-05-05,Technical,2,Passed,96.09
+36,94,2025-03-01,Managerial,2,Passed,40.06
+37,95,2025-12-05,HR,2,Passed,72.41
+38,99,2025-07-14,Managerial,2,Passed,77.28
+39,106,2025-04-28,Technical,2,Passed,89.1
+40,111,2025-03-29,Case Study,1,Passed,65.84
+41,112,2025-08-06,HR,3,Passed,62.9
+42,113,2025-03-03,Technical,2,Passed,66.04
+43,116,2025-03-22,Case Study,1,Failed,82.67
+44,123,2025-04-10,Case Study,1,Passed,42.98
+45,124,2025-07-01,HR,3,Passed,76.22
+46,129,2025-03-11,HR,3,Passed,57.8
+47,130,2025-03-13,Managerial,3,Passed,96.65
+48,139,2025-02-10,Case Study,1,Passed,48.73
+49,142,2025-01-15,Case Study,3,Failed,48.74
+50,147,2025-08-04,Technical,1,Failed,45.37
+51,150,2025-04-20,Managerial,1,Passed,40.66
+52,151,2025-06-25,Managerial,2,Passed,42.91
+53,152,2025-08-05,Technical,3,Failed,88.3
+54,153,2025-07-16,Case Study,1,Passed,50.28
+55,156,2025-05-27,Managerial,3,Passed,56.3
+56,158,2025-03-26,Case Study,2,Failed,86.45
+57,160,2025-10-09,Case Study,3,Failed,64.71
+58,161,2025-07-20,Case Study,2,Failed,74.1
+59,176,2025-04-06,Case Study,1,Passed,45.91
+60,177,2025-04-01,Managerial,1,Passed,85.06
+61,179,2025-04-28,Technical,2,Passed,80.27
+62,184,2025-09-26,HR,1,Failed,92.56
+63,187,2025-03-31,Technical,1,Failed,69.07
+64,195,2025-12-07,HR,2,Passed,73.75
+65,196,2025-02-03,Managerial,1,Failed,61.28
+66,199,2025-08-27,Technical,1,Failed,55.74
+67,207,2025-10-18,HR,2,Failed,43.81
+68,208,2025-12-17,Technical,1,Failed,53.6
+69,209,2025-11-07,Managerial,3,Passed,94.48
+70,213,2025-04-20,Case Study,2,Passed,66.99
+71,215,2025-09-29,Case Study,2,Passed,78.57
+72,218,2025-02-10,Technical,3,Passed,99.65
+73,223,2025-05-14,Managerial,3,Failed,77.49
+74,230,2025-07-15,Case Study,3,Passed,83.94
+75,231,2025-10-14,Managerial,3,Passed,40.8
+76,232,2025-06-18,HR,1,Passed,53.38
+77,237,2025-10-12,Case Study,2,Passed,67.1
+78,238,2025-08-09,Case Study,2,Passed,88.89
+79,240,2025-07-10,Technical,2,Failed,55.78
+80,242,2025-09-10,HR,1,Passed,42.2
+81,244,2025-04-19,Managerial,2,Passed,64.53
+82,248,2025-03-24,Managerial,2,Passed,55.63
+83,257,2025-07-12,Case Study,1,Failed,64.83
+84,259,2025-12-16,Case Study,1,Failed,63.84
+85,261,2025-05-17,Technical,3,Failed,50.42
+86,263,2025-05-19,Case Study,1,Failed,61.55
+87,265,2025-09-11,Managerial,1,Failed,40.76
+88,266,2025-10-21,Case Study,3,Failed,56.34
+89,267,2025-08-24,Managerial,2,Failed,87.89
+90,268,2026-01-13,Case Study,1,Failed,75.97
+91,272,2025-06-07,Case Study,2,Passed,96.13
+92,273,2025-03-18,Technical,1,Passed,51.56
+93,275,2025-02-03,Case Study,1,Passed,90.59
+94,279,2025-04-23,HR,1,Passed,98.43
+95,281,2025-03-15,HR,3,Passed,93.12
+96,282,2025-05-18,Managerial,3,Passed,99.56
+97,296,2025-09-29,Case Study,2,Passed,56.64
+98,298,2025-09-28,Managerial,2,Failed,85.41
+99,307,2025-11-29,HR,1,Failed,79.94
+100,313,2025-01-20,Technical,2,Passed,93.08
+101,314,2025-03-02,Case Study,2,Passed,62.57
+102,316,2025-04-23,Managerial,3,Passed,83.48
+103,317,2025-08-10,Managerial,1,Failed,61.96
+104,321,2025-09-30,Case Study,2,Passed,95.61
+105,322,2025-04-12,Technical,1,Passed,76.4
+106,323,2025-02-12,Managerial,3,Passed,78.73
+107,324,2025-02-05,HR,2,Passed,73.47
+108,326,2025-02-20,Managerial,3,Passed,86.58
+109,330,2025-06-06,HR,2,Passed,75.7
+110,331,2025-03-23,Managerial,2,Failed,83.6
+111,333,2025-09-25,Technical,1,Failed,72.51
+112,336,2026-01-18,Technical,3,Passed,97.73
+113,339,2025-01-20,Managerial,3,Passed,84.29
+114,340,2025-04-16,Managerial,3,Passed,85.75
+115,344,2025-06-23,Technical,3,Passed,62.2
+116,347,2025-02-16,Case Study,2,Passed,58.25
+117,349,2025-01-14,Case Study,2,Failed,40.89
+118,351,2025-07-18,HR,2,Failed,91.47
+119,352,2025-12-05,Technical,3,Passed,51.47
+120,353,2025-05-10,Managerial,3,Passed,97.71
+121,354,2025-05-07,Case Study,3,Failed,86.54
+122,357,2025-08-29,Technical,3,Passed,88.94
+123,359,2026-01-06,Technical,3,Failed,88.26
+124,367,2025-10-15,HR,1,Failed,57.17
+125,368,2025-11-07,Managerial,2,Passed,85.76
+126,375,2025-08-07,Managerial,3,Failed,56.95
+127,376,2025-08-27,Technical,3,Passed,65.22
+128,377,2025-06-26,Technical,1,Passed,74.39
+129,378,2025-09-24,Managerial,3,Passed,91.63
+130,385,2025-02-20,Technical,2,Passed,48.7
+131,389,2025-04-15,HR,2,Passed,48.19
+132,392,2025-09-07,HR,1,Passed,97.93
+133,397,2025-08-01,Case Study,2,Failed,54.74
+134,404,2025-10-12,Case Study,1,Passed,78.19
+135,406,2025-02-04,Case Study,1,Passed,51.29
+136,407,2025-07-08,Case Study,2,Failed,76.37
+137,415,2025-11-25,Case Study,1,Passed,58.66
+138,416,2025-01-16,HR,1,Passed,85.15
+139,418,2025-09-24,Managerial,3,Failed,66.23
+140,420,2025-10-08,Case Study,2,Passed,96.33
+141,422,2025-12-12,Managerial,3,Passed,97.63
+142,431,2025-04-18,HR,3,Passed,93.9
+143,432,2025-06-13,HR,1,Passed,57.64
+144,435,2025-03-15,Case Study,1,Passed,40.13
+145,442,2026-01-04,HR,2,Passed,56.04
+146,444,2025-03-04,Managerial,2,Passed,70.05
+147,445,2025-05-04,HR,3,Passed,45.14
+148,450,2025-01-23,Managerial,2,Passed,50.0
+149,451,2025-09-22,Managerial,2,Failed,68.65
+150,454,2025-05-23,Case Study,3,Passed,75.42
+151,455,2025-05-15,Managerial,2,Passed,67.43
+152,459,2025-03-20,Technical,3,Passed,64.96
+153,460,2025-06-05,Technical,2,Passed,68.71
+154,463,2025-08-11,Case Study,3,Passed,87.02
+155,465,2025-12-24,Managerial,2,Passed,62.02
+156,469,2025-03-26,Technical,1,Passed,75.12
+157,473,2025-11-05,Case Study,2,Passed,84.47
+158,475,2025-01-19,HR,2,Passed,81.67
+159,480,2025-11-17,HR,1,Passed,55.36
+160,487,2025-10-01,HR,2,Passed,71.05
+161,489,2025-10-04,Technical,3,Failed,44.1
+162,490,2025-10-24,Case Study,1,Passed,54.38
+163,500,2025-12-12,Technical,2,Passed,98.41
+164,502,2025-09-05,HR,2,Passed,45.7
+165,516,2025-03-03,Case Study,1,Passed,41.18
+166,518,2025-04-19,HR,1,Passed,92.91
+167,522,2025-05-08,HR,3,Passed,49.22
+168,524,2025-12-19,Case Study,1,Failed,58.7
+169,526,2025-02-27,Managerial,1,Passed,76.48
+170,527,2025-04-04,Case Study,1,Passed,88.64
+171,529,2025-09-18,HR,3,Passed,46.53
+172,532,2025-04-27,Case Study,1,Passed,45.73
+173,535,2025-09-04,Managerial,3,Passed,63.06
+174,538,2025-05-09,Technical,3,Passed,49.67
+175,539,2025-12-05,Technical,2,Failed,64.33
+176,544,2025-10-21,Managerial,1,Failed,82.8
+177,546,2025-03-21,Case Study,3,Passed,84.46
+178,548,2025-09-16,Managerial,2,Passed,62.87
+179,550,2025-08-31,Case Study,3,Passed,99.14
+180,551,2025-03-13,Managerial,1,Failed,55.5
+181,553,2025-11-18,Technical,1,Failed,63.93
+182,554,2025-04-12,HR,2,Passed,54.49
+183,556,2025-08-07,Technical,3,Passed,53.88
+184,558,2025-12-23,Managerial,3,Passed,94.18
+185,561,2025-08-24,HR,2,Passed,85.93
+186,562,2025-11-29,Managerial,2,Passed,52.57
+187,564,2025-04-02,Case Study,1,Passed,40.15
+188,566,2026-01-10,Managerial,3,Passed,98.02
+189,568,2025-09-29,HR,2,Failed,99.11
+190,572,2025-03-31,Technical,2,Passed,55.59
+191,576,2025-04-05,Managerial,2,Passed,43.89
+192,578,2025-04-02,Managerial,2,Failed,92.28
+193,583,2025-06-02,Case Study,2,Passed,85.25
+194,586,2025-03-11,Managerial,1,Passed,75.71
+195,589,2025-03-12,Managerial,1,Failed,41.57
+196,594,2025-07-16,Managerial,3,Passed,67.78
+197,600,2026-01-03,Case Study,1,Failed,60.02
+198,601,2026-01-11,Technical,3,Passed,99.93
+199,602,2025-08-20,Managerial,3,Failed,57.21
+200,604,2025-06-14,Technical,3,Failed,64.0
+201,611,2025-10-04,HR,3,Passed,97.09
+202,613,2025-09-25,Managerial,2,Failed,95.03
+203,614,2025-03-25,Managerial,2,Failed,94.97
+204,617,2025-07-03,HR,3,Passed,85.66
+205,618,2025-08-30,Managerial,3,Failed,82.15
+206,621,2025-03-08,Managerial,3,Failed,61.06
+207,622,2025-02-24,Case Study,2,Failed,68.69
+208,625,2025-12-31,Managerial,3,Passed,41.58
+209,626,2025-08-31,Managerial,3,Failed,50.27
+210,630,2025-04-15,Case Study,2,Passed,69.67
+211,643,2025-10-27,HR,3,Passed,95.72
+212,649,2025-11-22,Technical,3,Passed,81.1
+213,650,2025-07-20,Managerial,2,Passed,91.54
+214,655,2025-04-03,Technical,2,Passed,77.31
+215,656,2025-02-10,Technical,2,Failed,89.49
+216,658,2025-12-30,Technical,2,Passed,76.01
+217,659,2025-07-20,HR,2,Failed,88.76
+218,660,2025-08-02,Managerial,1,Passed,42.29
+219,666,2025-08-17,HR,2,Failed,52.13
+220,667,2025-08-07,HR,3,Failed,66.44
+221,669,2025-08-20,Managerial,1,Passed,99.65
+222,670,2025-08-02,Managerial,3,Failed,83.31
+223,671,2025-11-04,HR,3,Passed,56.71
+224,674,2025-09-28,Technical,1,Passed,93.22
+225,677,2025-06-09,Technical,2,Passed,92.41
+226,681,2025-07-22,HR,3,Passed,92.88
+227,682,2025-03-15,Managerial,3,Passed,79.35
+228,684,2025-12-12,Case Study,2,Failed,69.75
+229,687,2025-12-15,Technical,3,Passed,67.21
+230,691,2025-09-30,Case Study,3,Failed,70.06
+231,696,2025-07-25,Technical,1,Failed,72.5
+232,700,2025-03-27,Case Study,1,Passed,61.88
+233,702,2025-02-11,Managerial,1,Failed,94.04
+234,710,2025-09-15,HR,1,Passed,79.15
+235,715,2025-03-04,Managerial,2,Passed,77.96
+236,717,2026-01-21,Technical,3,Passed,75.46
+237,719,2025-12-28,Technical,2,Failed,98.88
+238,720,2025-11-01,Managerial,2,Passed,43.42
+239,721,2025-03-25,Technical,3,Passed,71.51
+240,726,2025-07-12,HR,3,Passed,96.06
+241,729,2025-06-25,HR,3,Failed,85.05
+242,733,2026-01-09,Case Study,1,Passed,74.49
+243,735,2025-06-15,HR,2,Passed,77.62
+244,736,2025-06-06,HR,3,Failed,83.85
+245,738,2025-07-18,Technical,3,Passed,69.96
+246,739,2026-01-08,Technical,2,Failed,88.51
+247,742,2025-12-16,Technical,2,Passed,44.34
+248,743,2025-05-15,HR,2,Failed,95.12
+249,749,2025-07-24,Managerial,3,Passed,80.83
+250,755,2025-09-14,Technical,2,Passed,88.17
+251,759,2025-08-23,Technical,3,Failed,40.72
+252,763,2025-08-17,Case Study,3,Failed,44.64
+253,767,2025-12-04,Case Study,2,Passed,44.44
+254,769,2025-02-09,Technical,1,Failed,70.59
+255,773,2025-03-09,Case Study,2,Failed,70.09
+256,776,2025-10-16,Case Study,3,Passed,87.55
+257,777,2026-01-12,Managerial,1,Failed,45.04
+258,784,2025-08-30,Case Study,3,Failed,83.04
+259,789,2025-12-18,Technical,3,Passed,77.21
+260,793,2025-01-30,Case Study,3,Passed,53.11
+261,794,2025-08-08,HR,3,Passed,61.84
+262,800,2025-07-16,Case Study,1,Failed,72.57
+263,804,2025-07-09,Technical,1,Passed,48.26
+264,808,2025-02-19,Managerial,1,Failed,53.0
+265,810,2025-02-03,Technical,3,Passed,68.7
+266,815,2025-10-27,HR,2,Passed,95.88
+267,816,2025-03-20,Managerial,2,Passed,63.72
+268,818,2025-04-28,Technical,2,Failed,58.68
+269,819,2025-12-24,Managerial,1,Failed,93.68
+270,823,2025-09-19,Managerial,1,Passed,53.18
+271,827,2025-08-22,Managerial,2,Passed,87.02
+272,830,2025-06-19,Case Study,2,Passed,93.61
+273,831,2025-03-06,HR,3,Failed,64.86
+274,834,2025-12-03,Technical,1,Passed,86.01
+275,835,2025-11-08,HR,1,Passed,87.54
+276,840,2025-04-21,Case Study,1,Failed,62.97
+277,843,2025-09-03,Managerial,3,Passed,89.48
+278,844,2025-05-17,Case Study,3,Failed,57.26
+279,847,2025-08-15,HR,1,Passed,57.71
+280,849,2025-02-23,Case Study,1,Failed,69.45
+281,851,2025-02-12,HR,2,Passed,64.03
+282,854,2025-05-01,Technical,3,Passed,46.36
+283,856,2025-02-03,Technical,3,Passed,94.07
+284,857,2025-10-26,Case Study,3,Failed,47.72
+285,859,2025-02-04,Technical,2,Passed,57.03
+286,864,2025-07-12,HR,3,Passed,55.75
+287,867,2025-06-15,HR,2,Failed,98.39
+288,870,2025-11-07,Case Study,1,Failed,94.84
+289,875,2026-01-01,Technical,3,Passed,52.74
+290,884,2025-09-18,Case Study,1,Passed,73.31
+291,885,2025-02-24,HR,1,Passed,76.71
+292,888,2025-12-29,Technical,3,Failed,54.57
+293,889,2025-08-21,HR,2,Passed,79.97
+294,894,2025-07-05,Case Study,1,Passed,58.3
+295,895,2026-01-10,Managerial,3,Passed,62.57
+296,900,2025-12-03,Managerial,3,Failed,67.08
+297,902,2025-02-04,Technical,3,Failed,83.73
+298,904,2025-04-19,Case Study,2,Passed,54.33
+299,906,2025-07-20,Case Study,1,Failed,83.94
+300,909,2025-11-14,Case Study,3,Failed,41.43
+301,913,2026-01-19,Technical,1,Passed,81.68
+302,917,2025-03-18,Case Study,2,Passed,45.68
+303,919,2025-04-24,Technical,3,Passed,70.63
+304,920,2025-12-13,Case Study,1,Passed,62.69
+305,927,2025-12-26,HR,1,Passed,74.61
+306,931,2025-10-04,Technical,2,Passed,58.79
+307,935,2025-12-05,Managerial,2,Passed,73.38
+308,937,2025-10-15,Technical,2,Failed,63.67
+309,941,2025-03-12,HR,1,Passed,83.26
+310,942,2025-05-09,Case Study,3,Passed,75.05
+311,944,2025-04-27,Case Study,1,Passed,45.5
+312,945,2025-10-29,Technical,1,Passed,85.55
+313,946,2025-10-22,Case Study,1,Passed,98.9
+314,948,2025-09-07,Technical,2,Passed,44.54
+315,952,2025-05-11,Managerial,2,Passed,85.94
+316,954,2025-01-30,HR,1,Passed,42.9
+317,955,2026-01-14,Managerial,1,Passed,84.01
+318,958,2026-01-21,Technical,2,Passed,57.66
+319,959,2025-02-09,Technical,2,Passed,57.51
+320,961,2025-04-27,HR,1,Failed,72.27
+321,963,2025-12-25,Case Study,1,Failed,52.13
+322,964,2026-01-15,Technical,1,Passed,43.31
+323,965,2025-10-11,Managerial,3,Passed,65.8
+324,972,2025-10-24,Managerial,2,Failed,72.38
+325,981,2025-01-12,HR,2,Passed,83.47
+326,985,2025-05-22,Technical,1,Failed,57.74
+327,990,2025-04-09,Managerial,1,Passed,78.2
+328,997,2025-04-22,Managerial,1,Failed,50.57
+329,999,2025-04-18,Technical,1,Passed,69.66
+330,1000,2025-07-28,Managerial,3,Passed,75.5
+331,1004,2025-08-08,HR,3,Passed,89.73
+332,1005,2025-03-23,Managerial,2,Failed,55.29
+333,1011,2025-12-14,Managerial,2,Passed,47.0
+334,1013,2025-08-24,Managerial,3,Passed,57.61
+335,1017,2025-11-17,HR,2,Passed,98.98
+336,1023,2025-08-15,Case Study,1,Passed,61.54
+337,1030,2025-05-08,Case Study,1,Failed,97.12
+338,1032,2026-01-03,Managerial,3,Failed,49.66
+339,1037,2025-09-08,Managerial,1,Passed,96.96
+340,1038,2025-03-08,Case Study,3,Passed,70.82
+341,1042,2025-08-28,HR,1,Passed,84.83
+342,1043,2025-04-26,Managerial,2,Passed,77.88
+343,1048,2025-10-22,Technical,2,Failed,56.95
+344,1051,2025-12-22,Technical,1,Failed,43.55
+345,1053,2025-08-29,Case Study,3,Passed,76.69
+346,1054,2025-12-02,Technical,2,Failed,93.29
+347,1056,2025-12-16,HR,1,Failed,68.16
+348,1057,2025-06-10,Managerial,1,Passed,55.43
+349,1063,2025-06-09,Case Study,3,Passed,79.58
+350,1066,2025-08-10,Technical,3,Failed,72.29
+351,1067,2025-06-12,Managerial,1,Passed,55.29
+352,1068,2025-04-26,HR,3,Failed,52.83
+353,1069,2025-12-26,Case Study,2,Passed,98.29
+354,1075,2025-06-20,Technical,1,Failed,71.43
+355,1080,2025-08-11,Case Study,2,Failed,84.52
+356,1084,2025-05-15,HR,1,Passed,90.05
+357,1086,2026-01-04,Managerial,3,Failed,46.53
+358,1090,2025-09-22,Managerial,3,Failed,83.5
+359,1091,2025-03-28,Technical,1,Passed,57.41
+360,1092,2025-11-03,Technical,2,Passed,97.08
+361,1093,2025-08-03,Managerial,1,Failed,75.23
+362,1094,2025-05-04,Managerial,1,Passed,66.5
+363,1098,2025-03-10,HR,3,Passed,81.0
+364,1102,2025-06-23,Case Study,2,Passed,84.08
+365,1104,2025-04-10,Case Study,1,Passed,69.54
+366,1109,2025-06-18,Case Study,2,Passed,83.52
+367,1110,2025-05-05,Technical,3,Failed,47.63
+368,1113,2025-09-05,Technical,2,Passed,67.14
+369,1114,2025-04-22,Technical,1,Passed,51.62
+370,1115,2025-10-30,HR,3,Passed,52.87
+371,1119,2025-12-16,Technical,2,Failed,42.8
+372,1120,2025-12-30,Case Study,3,Passed,57.84
+373,1122,2025-10-12,Case Study,2,Passed,86.4
+374,1123,2025-09-12,Managerial,1,Passed,45.96
+375,1126,2025-02-19,Technical,3,Passed,98.32
+376,1128,2025-11-01,Technical,3,Passed,40.84
+377,1132,2025-04-29,Case Study,3,Passed,65.47
+378,1137,2025-11-01,Technical,3,Passed,99.57
+379,1144,2025-09-21,Managerial,3,Failed,87.99
+380,1145,2025-11-30,Managerial,3,Passed,43.96
+381,1152,2025-10-09,Case Study,1,Passed,83.93
+382,1157,2025-01-17,Technical,2,Passed,44.89
+383,1159,2025-01-13,Technical,1,Failed,55.94
+384,1160,2025-05-05,Technical,3,Passed,40.29
+385,1161,2025-11-06,HR,3,Failed,93.19
+386,1169,2025-06-12,Case Study,1,Passed,89.68
+387,1171,2025-05-19,Managerial,1,Passed,95.88
+388,1172,2025-06-22,Managerial,3,Passed,90.72
+389,1177,2025-08-29,Technical,1,Passed,97.15
+390,1181,2025-11-02,Managerial,3,Failed,79.89
+391,1184,2025-08-09,HR,2,Passed,68.94
+392,1186,2026-01-19,Technical,3,Passed,41.76
+393,1187,2025-03-06,HR,2,Failed,81.72
+394,1189,2025-04-29,HR,2,Passed,64.25
+395,1191,2025-10-12,HR,2,Passed,85.66
+396,1195,2025-01-24,HR,2,Passed,42.33
+397,1196,2025-07-16,Managerial,3,Failed,84.12
+398,1205,2025-01-31,Managerial,3,Passed,52.7
+399,1208,2025-01-30,Case Study,3,Passed,59.48
+400,1220,2025-12-01,Technical,3,Failed,63.06
+401,1221,2025-12-27,Technical,3,Failed,96.15
+402,1224,2025-12-18,Technical,3,Passed,56.34
+403,1225,2025-06-13,Managerial,1,Failed,71.68
+404,1226,2025-06-10,Technical,2,Passed,60.07
+405,1232,2025-06-28,Case Study,3,Failed,95.27
+406,1233,2025-01-26,Technical,2,Passed,41.76
+407,1234,2025-10-31,Managerial,3,Failed,83.18
+408,1237,2025-01-12,Case Study,2,Passed,94.46
+409,1246,2025-06-07,HR,3,Passed,87.46
+410,1248,2025-07-02,Managerial,2,Failed,47.48
+411,1253,2025-04-11,HR,2,Failed,56.09
+412,1258,2025-10-20,Technical,2,Failed,50.16
+413,1264,2025-06-19,Case Study,2,Failed,65.31
+414,1267,2025-12-03,Case Study,2,Passed,83.61
+415,1272,2025-04-19,Managerial,2,Failed,50.15
+416,1274,2025-12-14,Technical,1,Failed,59.55
+417,1276,2025-04-06,Managerial,2,Failed,57.11
+418,1278,2025-12-15,Case Study,1,Failed,94.13
+419,1279,2025-06-19,Managerial,1,Passed,87.34
+420,1283,2026-01-07,Case Study,2,Passed,53.48
+421,1285,2025-02-01,Technical,2,Passed,71.05
+422,1286,2025-12-14,Managerial,1,Passed,52.3
+423,1289,2025-03-14,Case Study,1,Passed,82.64
+424,1290,2025-11-15,Managerial,2,Failed,53.45
+425,1294,2025-03-09,Managerial,3,Failed,77.1
+426,1299,2025-12-03,HR,3,Passed,95.16
+427,1302,2025-11-10,Technical,2,Passed,58.09
+428,1305,2026-01-09,HR,1,Passed,98.84
+429,1308,2025-11-26,Technical,1,Passed,48.53
+430,1315,2025-02-25,HR,2,Passed,77.96
+431,1319,2025-06-10,Technical,2,Failed,85.77
+432,1322,2025-11-29,Managerial,2,Passed,58.9
+433,1323,2025-03-19,Case Study,3,Passed,50.34
+434,1328,2025-04-22,Managerial,2,Failed,50.34
+435,1335,2025-10-17,Managerial,1,Failed,60.81
+436,1336,2025-06-17,Technical,1,Failed,88.92
+437,1348,2025-03-05,HR,2,Passed,60.8
+438,1350,2025-04-06,Case Study,2,Passed,79.69
+439,1351,2025-10-23,Case Study,2,Passed,52.21
+440,1352,2025-01-14,Technical,2,Failed,98.11
+441,1355,2025-03-29,Managerial,1,Passed,45.78
+442,1357,2025-12-17,Case Study,1,Failed,97.97
+443,1360,2025-08-03,Case Study,2,Passed,96.32
+444,1366,2025-12-25,Case Study,3,Failed,67.79
+445,1368,2026-01-03,Technical,2,Failed,86.27
+446,1370,2025-12-30,HR,1,Passed,92.53
+447,1376,2025-05-20,Managerial,3,Passed,80.21
+448,1377,2025-03-31,Case Study,2,Passed,83.13
+449,1378,2025-05-10,HR,3,Passed,45.08
+450,1383,2025-01-24,Technical,3,Passed,65.78
+451,1386,2025-10-15,Technical,3,Failed,56.78
+452,1390,2025-01-17,Case Study,3,Failed,84.44
+453,1392,2025-01-26,Case Study,3,Failed,50.26
+454,1393,2025-07-15,Technical,3,Failed,68.0
+455,1396,2025-10-02,Managerial,2,Passed,87.89
+456,1397,2025-03-27,Case Study,1,Passed,92.56
+457,1399,2025-02-01,Managerial,3,Passed,53.89
+458,1402,2025-01-18,Case Study,3,Passed,81.82
+459,1411,2025-07-06,HR,1,Failed,57.13
+460,1412,2025-04-13,Technical,1,Passed,71.89
+461,1415,2025-01-28,Technical,1,Failed,57.6
+462,1420,2025-03-31,Case Study,3,Passed,45.19
+463,1421,2025-06-28,Case Study,2,Failed,82.32
+464,1430,2025-12-02,Managerial,1,Passed,51.79
+465,1431,2025-04-08,Case Study,3,Failed,71.67
+466,1452,2025-09-12,Managerial,2,Passed,43.61
+467,1453,2025-04-13,Case Study,2,Failed,67.38
+468,1454,2025-10-13,Case Study,1,Passed,65.14
+469,1458,2025-04-24,Technical,2,Failed,78.38
+470,1462,2025-06-11,Technical,1,Passed,65.42
+471,1470,2025-06-29,Case Study,2,Failed,79.69
+472,1471,2026-01-03,Managerial,1,Failed,41.44
+473,1474,2025-02-25,Case Study,1,Passed,48.82
+474,1478,2025-04-26,Technical,2,Failed,68.56
+475,1483,2025-10-18,Managerial,3,Passed,91.13
+476,1486,2025-04-13,HR,2,Failed,45.04
+477,1494,2025-05-13,HR,3,Passed,66.97
+478,1499,2025-12-26,Managerial,2,Passed,74.64
+479,1501,2025-03-25,HR,1,Passed,89.93
+480,1502,2025-10-08,Case Study,1,Failed,66.02
+481,1503,2025-06-11,Managerial,2,Failed,91.37
+482,1505,2025-01-22,Managerial,3,Passed,51.99
+483,1510,2025-08-17,Technical,2,Passed,66.13
+484,1521,2025-09-17,HR,3,Passed,86.19
+485,1528,2025-03-31,Managerial,1,Passed,87.77
+486,1533,2025-07-14,Technical,3,Passed,77.21
+487,1536,2025-08-19,Managerial,2,Passed,44.79
+488,1540,2025-03-24,HR,1,Passed,52.52
+489,1547,2025-07-04,Managerial,3,Passed,64.07
+490,1557,2025-11-06,Case Study,3,Passed,64.87
+491,1561,2025-04-16,Technical,1,Passed,47.27
+492,1562,2025-10-15,Technical,3,Failed,42.26
+493,1564,2025-07-02,HR,1,Failed,92.4
+494,1566,2025-12-26,Managerial,2,Failed,92.42
+495,1569,2025-12-30,Case Study,2,Failed,75.8
+496,1575,2025-06-22,Technical,1,Failed,59.84
+497,1577,2025-11-24,Case Study,2,Passed,47.48
+498,1579,2025-10-16,HR,3,Passed,90.99
+499,1582,2025-12-12,Managerial,1,Passed,41.1
+500,1592,2025-04-30,HR,2,Failed,59.94
+501,1597,2025-05-22,Case Study,1,Passed,55.56
+502,1598,2025-05-09,Managerial,2,Passed,45.94
+503,1602,2025-07-12,Technical,1,Failed,54.87
+504,1603,2025-09-16,Technical,2,Failed,53.53
+505,1604,2025-09-17,Managerial,1,Failed,71.36
+506,1606,2025-02-21,HR,2,Passed,58.32
+507,1608,2025-11-06,Managerial,3,Passed,76.06
+508,1610,2025-07-16,HR,3,Passed,76.41
+509,1615,2025-06-17,Case Study,3,Passed,54.47
+510,1617,2025-02-22,Case Study,3,Passed,52.9
+511,1622,2025-07-14,Case Study,1,Failed,57.61
+512,1623,2025-08-23,HR,1,Failed,93.4
+513,1626,2025-01-29,Managerial,2,Passed,58.83
+514,1628,2025-07-07,HR,3,Passed,64.38
+515,1631,2026-01-14,HR,3,Passed,69.72
+516,1632,2025-06-29,Technical,1,Passed,57.98
+517,1635,2025-02-14,Managerial,1,Passed,59.24
+518,1636,2025-05-11,HR,3,Passed,44.76
+519,1637,2025-10-25,Managerial,1,Passed,65.97
+520,1639,2025-10-04,Case Study,1,Passed,58.92
+521,1640,2025-10-18,Case Study,2,Passed,43.33
+522,1644,2026-01-06,Managerial,2,Failed,90.58
+523,1652,2025-12-19,Technical,2,Passed,52.75
+524,1656,2025-07-29,HR,2,Passed,52.59
+525,1658,2025-06-15,Case Study,3,Passed,40.13
+526,1659,2026-01-05,HR,1,Failed,89.63
+527,1661,2025-09-05,Managerial,1,Failed,55.71
+528,1671,2025-08-19,HR,2,Passed,74.95
+529,1672,2026-01-10,Technical,3,Passed,79.61
+530,1673,2025-12-25,Technical,2,Passed,66.7
+531,1675,2025-10-20,Case Study,1,Failed,63.7
+532,1678,2025-04-11,HR,3,Passed,89.17
+533,1691,2025-05-12,Case Study,2,Passed,56.59
+534,1704,2025-11-17,HR,2,Passed,78.54
+535,1705,2025-03-08,Managerial,3,Passed,92.26
+536,1707,2025-10-03,HR,1,Passed,54.23
+537,1714,2026-01-07,Technical,2,Failed,48.99
+538,1722,2025-11-15,Technical,3,Passed,72.1
+539,1723,2025-07-30,HR,2,Passed,94.54
+540,1738,2025-08-01,Case Study,3,Passed,98.41
+541,1742,2025-05-06,Technical,1,Passed,65.72
+542,1743,2025-11-18,Case Study,2,Passed,57.77
+543,1744,2025-04-30,Managerial,3,Passed,51.46
+544,1750,2025-02-13,Managerial,2,Passed,80.93
+545,1754,2025-12-16,Case Study,3,Passed,43.0
+546,1764,2025-09-06,Managerial,2,Passed,80.77
+547,1770,2025-06-21,Technical,3,Passed,92.99
+548,1772,2025-07-22,Managerial,2,Passed,80.34
+549,1775,2026-01-02,HR,1,Passed,70.94
+550,1779,2025-02-26,Technical,1,Passed,67.62
+551,1780,2025-08-31,Managerial,2,Passed,71.36
+552,1781,2026-01-15,Case Study,2,Failed,76.1
+553,1785,2025-03-23,Managerial,1,Passed,90.88
+554,1787,2026-01-22,Managerial,1,Passed,65.4
+555,1790,2025-09-12,Managerial,3,Passed,57.21
+556,1791,2025-06-24,HR,1,Failed,55.95
+557,1792,2025-05-04,Managerial,1,Passed,51.18
+558,1793,2025-06-04,HR,1,Passed,49.37
+559,1799,2025-02-26,HR,2,Passed,71.88
+560,1801,2025-03-12,Technical,1,Passed,48.99
+561,1802,2025-09-24,Technical,1,Failed,87.15
+562,1806,2025-03-06,Managerial,1,Passed,49.69
+563,1807,2025-12-28,Case Study,2,Passed,91.46
+564,1815,2025-04-09,Managerial,2,Passed,80.13
+565,1816,2025-04-06,Technical,2,Passed,45.24
+566,1818,2025-12-19,Managerial,2,Failed,99.05
+567,1826,2025-05-13,Managerial,3,Passed,77.59
+568,1827,2025-12-04,Case Study,1,Passed,95.02
+569,1828,2025-09-18,HR,3,Passed,77.65
+570,1831,2025-11-28,Case Study,2,Passed,66.87
+571,1838,2025-08-25,Technical,3,Failed,56.65
+572,1839,2025-01-28,Technical,2,Passed,78.84
+573,1841,2025-03-12,Managerial,1,Failed,78.23
+574,1852,2025-01-07,HR,1,Failed,53.09
+575,1854,2025-07-14,Managerial,1,Passed,75.16
+576,1855,2025-01-23,Case Study,3,Failed,47.9
+577,1857,2025-05-31,Technical,3,Failed,47.33
+578,1863,2025-12-21,HR,3,Failed,86.1
+579,1866,2025-07-06,HR,1,Failed,77.9
+580,1868,2025-04-26,Managerial,2,Passed,99.98
+581,1870,2025-10-02,Managerial,1,Passed,41.56
+582,1881,2025-10-06,Case Study,2,Failed,70.44
+583,1885,2025-11-12,Managerial,2,Passed,86.36
+584,1888,2025-05-20,Case Study,3,Failed,54.4
+585,1891,2025-07-15,HR,1,Passed,68.3
+586,1903,2025-08-15,Technical,3,Passed,66.32
+587,1905,2025-06-12,Managerial,1,Failed,83.71
+588,1909,2025-12-22,Technical,2,Passed,65.42
+589,1911,2025-01-21,Managerial,2,Passed,52.98
+590,1913,2025-04-14,HR,2,Failed,60.4
+591,1917,2025-06-02,HR,1,Passed,68.44
+592,1920,2025-06-27,Technical,3,Failed,63.72
+593,1922,2025-02-11,Managerial,2,Passed,71.92
+594,1928,2025-12-25,Case Study,2,Failed,58.66
+595,1930,2025-07-28,Technical,1,Failed,54.41
+596,1938,2025-01-28,Managerial,2,Failed,74.67
+597,1940,2025-12-01,Technical,1,Failed,44.15
+598,1941,2025-11-24,Technical,3,Passed,61.55
+599,1942,2025-04-11,Managerial,3,Passed,94.34
+600,1950,2025-03-03,Case Study,2,Passed,86.27
+601,1953,2025-06-16,HR,2,Passed,87.06
+602,1954,2025-03-02,Managerial,2,Passed,76.35
+603,1955,2025-07-28,Case Study,3,Failed,77.21
+604,1956,2025-05-28,Managerial,2,Passed,73.02
+605,1959,2025-01-31,Technical,1,Passed,60.1
+606,1961,2025-02-21,Technical,1,Failed,98.21
+607,1962,2025-07-03,Technical,2,Passed,59.87
+608,1963,2025-04-20,HR,3,Failed,98.98
+609,1964,2025-03-16,Managerial,1,Failed,93.21
+610,1967,2025-03-04,Technical,3,Passed,73.63
+611,1969,2025-04-03,HR,1,Failed,71.68
+612,1972,2025-09-26,Case Study,1,Failed,41.35
+613,1976,2025-07-15,Technical,1,Passed,47.29
+614,1978,2025-08-22,Technical,1,Passed,44.27
+615,1979,2025-06-19,Case Study,1,Failed,71.0
+616,1981,2025-11-11,Case Study,2,Passed,51.04
+617,1986,2025-05-24,Managerial,3,Passed,57.47
+618,1989,2025-05-23,Managerial,1,Passed,91.77
+619,1999,2025-08-29,Technical,2,Failed,81.81
+620,2000,2025-08-10,Technical,1,Passed,75.31
+621,2004,2025-09-10,HR,3,Passed,69.65
+622,2006,2025-09-14,Managerial,3,Passed,71.21
+623,2007,2025-04-28,Technical,3,Passed,44.33
+624,2009,2025-09-25,Managerial,2,Failed,62.84
+625,2018,2025-10-06,Managerial,2,Failed,41.65
+626,2021,2025-06-06,HR,1,Passed,85.34
+627,2024,2025-07-04,Case Study,3,Passed,55.46
+628,2027,2025-03-22,Technical,1,Failed,46.0
+629,2028,2025-11-04,Technical,2,Passed,87.3
+630,2033,2025-12-16,Case Study,3,Passed,84.28
+631,2035,2025-08-04,Managerial,3,Passed,76.65
+632,2038,2025-10-31,Technical,2,Passed,89.94
+633,2039,2025-08-12,HR,3,Passed,85.73
+634,2040,2025-04-28,Technical,1,Passed,51.16
+635,2042,2025-05-07,Case Study,2,Passed,42.81
+636,2045,2025-07-26,HR,3,Passed,98.52
+637,2047,2025-08-16,HR,3,Passed,51.07
+638,2050,2025-10-10,HR,2,Passed,47.86
+639,2052,2025-11-20,HR,1,Failed,46.59
+640,2056,2025-11-17,Managerial,3,Passed,50.27
+641,2060,2025-05-03,Technical,3,Failed,98.71
+642,2061,2025-03-31,HR,2,Passed,83.68
+643,2067,2025-02-11,Technical,1,Passed,49.47
+644,2079,2025-03-27,Case Study,3,Failed,67.16
+645,2081,2025-06-05,Managerial,2,Failed,72.12
+646,2083,2025-01-17,Technical,1,Failed,93.9
+647,2085,2025-10-07,Managerial,2,Passed,67.43
+648,2088,2025-10-13,Managerial,2,Passed,48.27
+649,2090,2025-10-07,HR,3,Passed,68.65
+650,2091,2025-08-28,Case Study,2,Passed,64.42
+651,2093,2025-07-24,Managerial,3,Passed,55.65
+652,2095,2025-08-03,HR,3,Failed,50.17
+653,2105,2025-07-20,HR,3,Failed,57.27
+654,2108,2025-07-06,HR,2,Passed,68.21
+655,2111,2025-06-25,Technical,3,Failed,80.06
+656,2112,2025-07-24,Managerial,3,Passed,50.26
+657,2114,2025-06-15,Technical,2,Passed,88.55
+658,2115,2025-06-22,Case Study,2,Passed,50.46
+659,2117,2025-06-20,Case Study,1,Failed,82.59
+660,2126,2025-11-11,Technical,3,Failed,86.33
+661,2127,2025-08-27,HR,2,Passed,99.55
+662,2132,2025-07-21,HR,1,Passed,67.83
+663,2133,2025-08-25,Managerial,2,Failed,99.91
+664,2135,2025-01-11,Case Study,2,Failed,72.96
+665,2141,2025-04-01,Technical,1,Failed,95.12
+666,2142,2025-11-05,Managerial,3,Failed,77.39
+667,2143,2025-03-01,Managerial,1,Passed,44.31
+668,2144,2025-06-15,Managerial,1,Failed,92.42
+669,2145,2025-07-15,Managerial,3,Passed,45.6
+670,2148,2025-09-22,Case Study,2,Passed,61.77
+671,2150,2025-05-11,HR,2,Passed,68.33
+672,2152,2025-10-05,Case Study,2,Failed,93.07
+673,2155,2025-01-31,Case Study,2,Passed,61.37
+674,2157,2025-07-04,Managerial,3,Passed,71.92
+675,2166,2025-12-24,Managerial,1,Passed,50.62
+676,2170,2025-02-18,Technical,2,Passed,91.11
+677,2175,2025-05-22,HR,3,Passed,97.63
+678,2181,2026-01-01,Managerial,2,Passed,50.86
+679,2184,2025-06-07,Case Study,2,Passed,65.65
+680,2188,2025-11-26,HR,3,Failed,49.32
+681,2189,2025-01-30,HR,3,Passed,97.46
+682,2191,2025-05-09,Managerial,1,Passed,70.62
+683,2194,2025-10-15,HR,3,Failed,82.32
+684,2197,2025-02-19,Managerial,3,Failed,79.44
+685,2198,2025-07-21,Managerial,3,Passed,66.23
+686,2201,2025-10-22,HR,1,Passed,63.67
+687,2209,2025-08-25,Managerial,2,Passed,79.87
+688,2210,2025-09-27,HR,1,Passed,93.69
+689,2221,2025-10-14,HR,1,Passed,56.34
+690,2222,2025-03-12,Managerial,3,Passed,75.29
+691,2226,2026-01-01,Case Study,2,Passed,46.91
+692,2231,2025-04-13,HR,2,Passed,81.59
+693,2233,2025-02-22,Managerial,2,Passed,91.15
+694,2235,2025-08-16,HR,3,Passed,61.93
+695,2237,2025-09-29,Technical,3,Passed,46.17
+696,2238,2025-01-21,HR,1,Passed,85.78
+697,2242,2025-06-06,Technical,3,Passed,64.14
+698,2246,2025-11-02,Managerial,2,Passed,61.26
+699,2248,2025-04-18,Managerial,2,Passed,43.91
+700,2249,2025-10-05,Technical,1,Passed,46.41
+701,2252,2025-05-11,Managerial,1,Passed,57.93
+702,2254,2025-02-04,Case Study,1,Passed,99.67
+703,2257,2025-11-23,Managerial,3,Passed,88.75
+704,2261,2025-03-30,Technical,1,Failed,51.06
+705,2262,2025-05-18,HR,2,Passed,90.69
+706,2268,2025-09-25,Managerial,2,Passed,85.0
+707,2276,2025-11-22,Managerial,1,Failed,73.59
+708,2282,2025-09-19,Technical,1,Failed,63.54
+709,2284,2025-03-17,Case Study,2,Passed,53.55
+710,2286,2025-08-08,Managerial,2,Passed,77.72
+711,2288,2026-01-17,Technical,3,Passed,67.63
+712,2292,2026-01-18,Managerial,2,Failed,59.71
+713,2297,2025-07-05,Technical,2,Passed,95.21
+714,2302,2025-09-13,Managerial,3,Passed,59.68
+715,2303,2025-12-31,HR,1,Passed,55.43
+716,2304,2025-03-30,Case Study,1,Failed,93.77
+717,2308,2025-07-19,Managerial,1,Passed,61.52
+718,2311,2025-11-01,Case Study,3,Failed,43.66
+719,2312,2025-12-11,Case Study,3,Failed,59.39
+720,2313,2025-04-03,Technical,1,Failed,76.95
+721,2317,2025-02-08,Case Study,1,Passed,67.67
+722,2319,2025-10-09,Technical,1,Passed,68.29
+723,2320,2025-02-23,Case Study,2,Passed,40.15
+724,2321,2025-02-16,Technical,1,Failed,69.52
+725,2328,2025-08-10,Technical,1,Failed,63.38
+726,2329,2025-07-20,HR,1,Passed,63.82
+727,2331,2025-11-26,HR,1,Failed,40.03
+728,2332,2025-04-22,HR,1,Passed,80.09
+729,2333,2025-02-15,Case Study,3,Failed,95.04
+730,2336,2025-08-18,Technical,3,Failed,50.06
+731,2340,2025-08-12,Technical,2,Failed,42.61
+732,2345,2025-09-07,HR,1,Passed,57.67
+733,2347,2025-11-12,Technical,1,Failed,75.13
+734,2352,2025-07-01,Case Study,2,Passed,86.71
+735,2354,2025-03-06,Managerial,2,Passed,83.58
+736,2358,2025-09-13,HR,3,Passed,66.16
+737,2365,2025-09-24,Case Study,2,Failed,80.39
+738,2370,2026-01-21,Technical,1,Failed,43.25
+739,2371,2025-10-22,Technical,3,Passed,94.18
+740,2374,2025-06-21,Managerial,1,Passed,97.66
+741,2379,2025-12-07,Technical,1,Passed,91.2
+742,2381,2025-08-30,Managerial,3,Passed,83.24
+743,2382,2025-10-01,Case Study,1,Failed,81.29
+744,2384,2025-11-17,Case Study,3,Failed,95.3
+745,2392,2025-07-29,Managerial,1,Passed,73.8
+746,2404,2025-02-19,HR,2,Passed,99.73
+747,2405,2025-09-21,HR,3,Failed,99.99
+748,2409,2025-01-30,Technical,3,Failed,66.65
+749,2410,2025-12-10,HR,1,Passed,80.63
+750,2414,2025-06-01,HR,1,Failed,50.14
+751,2415,2026-01-16,Technical,3,Failed,60.0
+752,2417,2025-05-10,Managerial,2,Passed,97.92
+753,2426,2025-02-06,HR,3,Failed,80.16
+754,2434,2025-02-11,HR,1,Passed,65.51
+755,2441,2025-07-04,HR,1,Passed,95.05
+756,2443,2025-10-22,Case Study,3,Passed,91.1
+757,2445,2025-07-31,Managerial,2,Passed,47.78
+758,2459,2025-07-15,HR,2,Passed,44.59
+759,2460,2025-12-22,HR,1,Passed,68.13
+760,2462,2025-03-01,Case Study,2,Passed,95.04
+761,2463,2025-08-21,Case Study,1,Passed,67.45
+762,2465,2025-11-10,HR,1,Passed,77.93
+763,2468,2025-04-22,Technical,3,Passed,52.06
+764,2469,2025-12-08,Managerial,1,Passed,77.46
+765,2475,2025-12-09,Managerial,3,Passed,86.6
+766,2476,2025-12-28,HR,2,Passed,54.34
+767,2477,2025-03-21,Case Study,2,Failed,93.24
+768,2480,2025-05-29,Managerial,1,Passed,91.3
+769,2483,2025-08-12,Managerial,1,Failed,98.18
+770,2486,2025-05-06,Technical,3,Passed,72.8
+771,2489,2025-09-25,HR,1,Passed,73.4
+772,2491,2025-07-25,Technical,3,Failed,81.04
+773,2494,2025-11-07,Technical,2,Passed,92.45
+774,2495,2025-03-16,HR,3,Failed,78.92
+775,2499,2025-10-12,Managerial,3,Passed,67.89
+776,2501,2025-08-07,Technical,2,Failed,48.17
+777,2508,2025-11-19,Case Study,1,Failed,98.23
+778,2509,2025-03-05,Technical,1,Failed,92.54
+779,2511,2025-05-16,Case Study,1,Failed,47.44
+780,2512,2025-10-04,HR,2,Passed,94.06
+781,2521,2025-07-05,Technical,3,Failed,70.96
+782,2524,2025-03-01,Case Study,1,Passed,57.95
+783,2528,2025-05-09,HR,1,Passed,44.96
+784,2530,2025-08-02,Managerial,1,Passed,80.89
+785,2532,2025-09-14,Technical,3,Passed,51.66
+786,2533,2025-09-13,Case Study,3,Failed,52.81
+787,2534,2025-12-31,Case Study,2,Passed,85.23
+788,2540,2025-02-17,HR,2,Passed,86.32
+789,2544,2025-01-20,Technical,1,Passed,90.56
+790,2558,2025-08-04,HR,2,Failed,73.72
+791,2569,2025-07-21,Technical,1,Failed,43.06
+792,2573,2025-11-03,Technical,1,Passed,94.62
+793,2574,2025-04-23,Case Study,3,Passed,70.48
+794,2575,2025-07-11,Technical,1,Failed,47.45
+795,2580,2025-09-25,Managerial,1,Failed,85.94
+796,2588,2025-03-11,Technical,2,Passed,55.81
+797,2590,2025-01-13,Technical,1,Passed,59.39
+798,2594,2025-09-14,Managerial,2,Passed,81.68
+799,2595,2025-09-01,Technical,1,Passed,79.74
+800,2597,2026-01-05,Technical,3,Failed,95.98
+801,2602,2025-10-10,Case Study,2,Passed,56.88
+802,2605,2025-05-16,Case Study,3,Passed,48.27
+803,2609,2025-03-16,Managerial,2,Failed,52.15
+804,2611,2025-01-26,Technical,1,Failed,60.06
+805,2613,2025-03-25,HR,1,Failed,91.11
+806,2617,2025-05-08,Case Study,2,Failed,61.08
+807,2620,2025-06-28,HR,1,Failed,55.05
+808,2621,2025-09-23,Technical,2,Passed,74.7
+809,2622,2025-07-12,Technical,2,Passed,65.62
+810,2624,2025-11-02,Case Study,1,Failed,96.93
+811,2627,2025-09-10,Case Study,1,Failed,71.74
+812,2628,2025-10-28,Technical,2,Failed,70.9
+813,2629,2025-05-28,Managerial,1,Failed,55.94
+814,2632,2025-07-14,HR,3,Passed,97.86
+815,2634,2025-06-20,Case Study,3,Passed,89.71
+816,2637,2025-02-10,HR,2,Passed,71.59
+817,2643,2025-12-08,Managerial,3,Passed,58.27
+818,2647,2025-05-17,Technical,3,Passed,65.24
+819,2648,2025-07-29,HR,3,Passed,46.84
+820,2655,2025-07-01,HR,1,Passed,66.91
+821,2657,2025-01-13,Managerial,2,Failed,59.34
+822,2662,2025-08-09,HR,3,Passed,65.68
+823,2667,2025-07-25,Managerial,2,Failed,83.21
+824,2671,2025-07-04,HR,2,Passed,89.17
+825,2678,2025-02-25,HR,2,Passed,65.52
+826,2681,2025-08-16,Technical,3,Passed,45.83
+827,2685,2025-03-02,Case Study,2,Passed,79.83
+828,2694,2025-06-17,Managerial,3,Passed,52.55
+829,2697,2025-11-30,Technical,2,Passed,95.33
+830,2699,2025-12-09,Managerial,1,Passed,60.57
+831,2700,2025-06-25,Technical,3,Passed,76.74
+832,2706,2025-05-15,HR,3,Passed,93.37
+833,2715,2026-01-18,Technical,2,Passed,61.45
+834,2718,2025-12-04,Case Study,3,Passed,52.77
+835,2719,2025-12-05,Case Study,3,Passed,59.94
+836,2723,2025-02-20,Technical,3,Passed,62.93
+837,2726,2025-09-09,Managerial,1,Passed,52.1
+838,2728,2025-03-10,Case Study,2,Passed,43.86
+839,2731,2025-03-20,Technical,3,Passed,42.11
+840,2732,2025-06-22,Case Study,2,Failed,84.69
+841,2736,2025-04-16,Technical,2,Passed,70.83
+842,2737,2025-10-11,Technical,2,Passed,51.09
+843,2743,2025-07-25,HR,2,Failed,64.81
+844,2744,2025-10-27,HR,3,Passed,61.7
+845,2745,2025-12-02,Technical,3,Passed,64.05
+846,2746,2026-01-03,Managerial,1,Passed,47.12
+847,2750,2025-08-24,Technical,3,Failed,75.12
+848,2751,2025-02-07,Technical,1,Passed,42.91
+849,2752,2025-05-26,Managerial,2,Passed,74.73
+850,2753,2025-04-03,HR,2,Passed,69.01
+851,2755,2025-09-22,Case Study,2,Failed,67.7
+852,2756,2025-02-13,Technical,2,Passed,47.55
+853,2757,2025-10-31,Technical,3,Passed,70.24
+854,2758,2025-05-13,Managerial,2,Failed,81.35
+855,2759,2025-04-16,HR,3,Failed,51.86
+856,2763,2025-04-30,HR,1,Passed,83.61
+857,2771,2025-03-21,HR,3,Failed,83.13
+858,2772,2025-11-05,HR,1,Passed,74.73
+859,2773,2025-01-29,Case Study,3,Failed,71.6
+860,2774,2025-11-21,Managerial,3,Failed,54.91
+861,2779,2025-05-26,Technical,3,Passed,97.74
+862,2782,2025-08-29,Case Study,3,Passed,99.46
+863,2783,2025-06-14,Case Study,2,Passed,80.38
+864,2790,2025-03-08,Technical,3,Failed,98.25
+865,2791,2025-11-27,HR,2,Passed,67.25
+866,2793,2025-05-19,Managerial,3,Passed,61.17
+867,2795,2025-05-12,HR,1,Failed,74.25
+868,2798,2025-09-13,Managerial,2,Failed,40.34
+869,2799,2025-06-21,HR,3,Passed,93.3
+870,2805,2025-05-09,HR,1,Failed,55.9
+871,2809,2025-08-18,Managerial,2,Failed,42.08
+872,2813,2025-09-09,Case Study,2,Passed,55.1
+873,2814,2025-03-07,Technical,2,Passed,49.48
+874,2823,2025-07-31,Case Study,2,Failed,61.88
+875,2826,2025-07-24,Managerial,3,Passed,69.49
+876,2828,2025-04-14,Technical,1,Failed,63.37
+877,2830,2026-01-24,HR,3,Passed,55.74
+878,2833,2025-03-01,Technical,2,Passed,94.44
+879,2835,2025-06-18,Case Study,2,Passed,58.24
+880,2839,2025-11-11,Technical,2,Passed,85.15
+881,2845,2025-11-03,HR,2,Passed,96.6
+882,2847,2025-05-23,Managerial,1,Failed,98.4
+883,2852,2025-01-22,Technical,2,Passed,85.87
+884,2860,2025-08-26,HR,1,Failed,88.19
+885,2867,2025-07-09,Managerial,1,Passed,48.61
+886,2870,2025-07-28,HR,3,Failed,61.74
+887,2874,2025-08-14,HR,2,Failed,57.53
+888,2879,2025-05-12,Case Study,1,Failed,73.38
+889,2880,2025-09-07,HR,1,Failed,74.44
+890,2883,2025-04-19,Managerial,1,Failed,45.45
+891,2890,2025-10-31,Case Study,1,Failed,99.54
+892,2891,2025-05-09,Technical,2,Failed,90.35
+893,2898,2025-05-07,HR,3,Passed,51.66
+894,2900,2025-09-25,Case Study,3,Failed,93.07
+895,2914,2025-03-10,Managerial,2,Passed,70.8
+896,2915,2025-08-04,Technical,3,Passed,85.84
+897,2919,2025-11-18,HR,1,Failed,43.33
+898,2921,2025-07-12,Managerial,3,Failed,80.92
+899,2922,2025-09-02,Case Study,3,Passed,54.33
+900,2927,2026-01-06,Technical,2,Failed,97.24
+901,2928,2025-04-08,Case Study,2,Passed,83.66
+902,2932,2025-10-31,Technical,2,Passed,84.89
+903,2937,2025-12-29,Technical,3,Passed,96.98
+904,2938,2026-01-16,HR,1,Passed,62.64
+905,2939,2025-12-16,Technical,1,Failed,82.16
+906,2943,2025-10-05,Case Study,2,Passed,83.94
+907,2948,2025-03-22,HR,1,Failed,70.49
+908,2957,2025-07-12,Case Study,2,Passed,77.83
+909,2964,2025-05-27,Technical,1,Passed,76.03
+910,2967,2025-05-03,HR,2,Failed,83.92
+911,2969,2025-03-08,Managerial,2,Passed,46.04
+912,2970,2025-05-27,Case Study,2,Passed,96.23
+913,2971,2025-02-04,Case Study,2,Passed,76.56
+914,2975,2025-08-27,Managerial,2,Passed,68.33
+915,2981,2025-01-16,Technical,2,Passed,79.16
+916,2982,2026-01-02,Managerial,1,Failed,51.59
+917,2990,2025-06-15,Case Study,2,Passed,41.56
+918,2993,2025-06-03,Technical,1,Passed,54.05
+919,2994,2025-07-12,Case Study,1,Failed,50.24
+920,3000,2025-03-10,Technical,2,Failed,53.3
+921,3008,2025-05-18,HR,3,Passed,79.9
+922,3020,2025-05-29,Technical,2,Passed,95.02
+923,3021,2025-02-03,Case Study,2,Failed,51.0
+924,3023,2025-11-09,HR,1,Failed,60.22
+925,3027,2025-06-01,Managerial,2,Passed,77.08
+926,3028,2025-11-16,HR,1,Failed,77.96
+927,3031,2025-11-27,Technical,3,Passed,97.64
+928,3041,2025-05-12,HR,2,Passed,96.31
+929,3044,2025-04-18,Managerial,2,Passed,59.77
+930,3049,2025-10-24,Technical,1,Failed,73.02
+931,3052,2025-02-04,Case Study,1,Passed,58.89
+932,3053,2025-03-08,HR,2,Passed,75.06
+933,3055,2026-01-10,HR,2,Passed,59.68
+934,3056,2025-04-02,HR,3,Passed,45.21
+935,3057,2025-05-06,Managerial,2,Passed,50.72
+936,3059,2025-09-27,Case Study,3,Failed,63.48
+937,3063,2025-10-18,Case Study,2,Failed,87.48
+938,3067,2025-05-30,Technical,3,Failed,59.72
+939,3068,2025-10-09,Technical,3,Passed,65.19
+940,3069,2025-11-05,Technical,2,Passed,95.4
+941,3071,2025-04-26,Managerial,2,Passed,43.16
+942,3072,2025-09-07,HR,2,Passed,50.69
+943,3073,2025-05-12,Managerial,1,Passed,53.43
+944,3075,2025-05-28,Technical,2,Passed,79.53
+945,3076,2025-08-26,Case Study,1,Failed,64.66
+946,3079,2025-12-06,HR,2,Passed,66.98
+947,3080,2025-07-16,HR,1,Passed,92.31
+948,3088,2025-06-22,Technical,1,Passed,66.09
+949,3089,2025-08-18,Technical,1,Failed,84.21
+950,3090,2025-11-22,HR,1,Failed,79.3
+951,3091,2025-06-13,Case Study,2,Passed,70.22
+952,3093,2025-08-31,HR,2,Passed,57.9
+953,3095,2025-06-17,Technical,1,Passed,95.25
+954,3096,2025-01-26,HR,2,Passed,81.62
+955,3101,2025-03-02,Case Study,2,Failed,48.88
+956,3107,2025-12-20,Case Study,2,Failed,84.47
+957,3108,2025-07-04,Technical,2,Failed,48.48
+958,3109,2025-07-09,Technical,3,Passed,91.14
+959,3114,2025-10-28,Case Study,3,Passed,99.18
+960,3115,2025-03-22,HR,1,Passed,42.52
+961,3116,2025-05-12,HR,2,Failed,92.19
+962,3121,2025-10-27,Case Study,2,Passed,59.94
+963,3126,2025-06-09,HR,1,Failed,58.45
+964,3127,2025-01-25,Managerial,2,Passed,92.18
+965,3135,2025-04-02,Technical,2,Failed,93.94
+966,3137,2025-10-23,HR,3,Failed,85.75
+967,3139,2025-01-15,Managerial,2,Passed,69.36
+968,3141,2025-01-17,HR,2,Failed,58.38
+969,3149,2025-02-08,HR,2,Failed,41.9
+970,3152,2025-11-05,Managerial,1,Passed,97.58
+971,3157,2025-03-11,HR,2,Failed,59.46
+972,3159,2025-01-27,Managerial,2,Passed,90.86
+973,3166,2025-10-15,Case Study,1,Passed,99.38
+974,3168,2025-10-23,Managerial,2,Failed,40.85
+975,3174,2025-09-25,HR,1,Passed,57.58
+976,3175,2025-04-16,HR,3,Passed,48.91
+977,3181,2025-01-28,Case Study,1,Passed,41.43
+978,3184,2025-03-01,Technical,2,Passed,57.93
+979,3188,2025-08-14,HR,1,Passed,79.0
+980,3189,2025-01-28,Managerial,3,Failed,98.46
+981,3195,2025-09-17,HR,2,Passed,72.44
+982,3201,2025-01-30,Technical,3,Passed,48.6
+983,3205,2025-11-27,Technical,1,Failed,59.13
+984,3207,2025-10-07,Technical,2,Failed,46.02
+985,3209,2025-08-06,HR,1,Passed,94.96
+986,3215,2025-07-13,Technical,1,Passed,98.02
+987,3216,2025-02-16,Technical,3,Failed,44.48
+988,3218,2025-02-18,HR,2,Passed,78.98
+989,3220,2025-06-26,Case Study,3,Passed,96.4
+990,3224,2025-07-10,HR,1,Failed,78.48
+991,3225,2025-04-23,Case Study,3,Failed,58.02
+992,3226,2025-05-31,HR,3,Passed,84.57
+993,3229,2025-04-05,HR,3,Passed,66.44
+994,3231,2025-09-27,Technical,2,Passed,50.83
+995,3233,2025-09-19,HR,2,Passed,47.02
+996,3236,2025-04-11,HR,3,Passed,96.27
+997,3237,2025-12-14,Case Study,3,Failed,62.33
+998,3238,2025-11-27,Managerial,3,Failed,64.1
+999,3239,2025-05-25,Technical,2,Failed,51.14
+1000,3240,2025-09-14,Technical,3,Passed,54.75
+1001,3241,2025-04-18,Case Study,3,Passed,51.54
+1002,3243,2025-02-12,Case Study,1,Passed,87.67
+1003,3248,2025-06-19,HR,2,Passed,49.38
+1004,3250,2025-01-21,Case Study,1,Failed,79.44
+1005,3255,2025-03-01,HR,2,Passed,57.65
+1006,3256,2025-05-25,Case Study,3,Passed,68.09
+1007,3266,2025-12-03,Case Study,3,Failed,74.93
+1008,3271,2025-09-13,Managerial,1,Passed,65.63
+1009,3272,2025-07-10,Managerial,3,Passed,44.55
+1010,3276,2025-09-10,Case Study,1,Passed,88.65
+1011,3278,2025-07-27,Managerial,1,Failed,99.14
+1012,3281,2025-07-02,Managerial,2,Failed,46.11
+1013,3286,2025-09-13,HR,2,Failed,75.86
+1014,3289,2025-04-06,Case Study,2,Passed,48.55
+1015,3294,2025-08-10,HR,1,Passed,92.38
+1016,3296,2025-08-18,HR,1,Failed,43.2
+1017,3298,2025-06-14,HR,1,Passed,99.32
+1018,3300,2025-10-23,Technical,2,Failed,57.54
+1019,3312,2025-04-27,Case Study,1,Passed,82.05
+1020,3316,2025-03-24,Managerial,1,Passed,56.75
+1021,3317,2025-10-12,Case Study,1,Passed,91.5
+1022,3320,2025-06-22,HR,2,Passed,63.99
+1023,3321,2025-11-08,Technical,1,Passed,66.97
+1024,3332,2025-01-14,Case Study,3,Passed,48.65
+1025,3334,2025-08-02,Case Study,1,Passed,52.23
+1026,3335,2025-04-08,HR,1,Passed,43.71
+1027,3336,2025-09-18,Case Study,3,Failed,50.37
+1028,3338,2025-10-27,HR,1,Failed,72.13
+1029,3340,2025-10-26,Case Study,2,Passed,46.87
+1030,3342,2025-10-25,Case Study,3,Passed,48.73
+1031,3344,2025-03-12,Managerial,3,Passed,46.64
+1032,3348,2025-02-27,Managerial,2,Failed,43.19
+1033,3349,2025-12-11,Managerial,3,Failed,40.86
+1034,3351,2025-11-15,Managerial,3,Passed,56.49
+1035,3355,2025-08-22,Case Study,2,Failed,50.09
+1036,3360,2025-04-19,Managerial,2,Passed,65.41
+1037,3367,2025-06-20,Managerial,3,Passed,96.1
+1038,3371,2025-05-29,Case Study,2,Failed,92.4
+1039,3377,2025-01-08,Managerial,2,Passed,70.72
+1040,3381,2025-08-13,Case Study,3,Failed,87.94
+1041,3383,2025-09-13,Case Study,1,Passed,91.64
+1042,3384,2025-08-31,Case Study,3,Passed,42.22
+1043,3385,2025-12-08,HR,3,Passed,71.16
+1044,3387,2025-04-07,HR,1,Passed,51.64
+1045,3389,2025-05-10,Case Study,2,Passed,90.05
+1046,3392,2025-09-29,Technical,1,Passed,58.11
+1047,3397,2025-08-04,Managerial,2,Passed,84.74
+1048,3398,2025-07-20,HR,3,Failed,42.32
+1049,3417,2025-07-31,HR,3,Passed,68.5
+1050,3421,2025-12-08,HR,1,Passed,76.11
+1051,3424,2025-04-03,Managerial,2,Failed,71.35
+1052,3426,2025-09-20,Managerial,3,Failed,73.05
+1053,3431,2026-01-02,HR,3,Passed,42.03
+1054,3432,2025-12-01,Managerial,1,Passed,51.85
+1055,3437,2025-03-30,HR,2,Failed,59.39
+1056,3443,2025-10-28,Technical,2,Failed,45.26
+1057,3444,2025-12-12,Managerial,2,Passed,89.96
+1058,3445,2025-06-06,Case Study,1,Failed,72.39
+1059,3446,2025-04-24,HR,1,Failed,44.49
+1060,3447,2025-04-24,Technical,3,Passed,92.09
+1061,3452,2025-03-25,Managerial,1,Passed,54.99
+1062,3455,2025-03-03,Managerial,3,Failed,86.84
+1063,3458,2025-10-30,HR,3,Passed,98.45
+1064,3461,2025-08-04,Technical,3,Passed,45.61
+1065,3467,2025-09-24,Case Study,1,Failed,98.21
+1066,3470,2025-03-13,HR,3,Failed,95.21
+1067,3482,2025-02-16,Case Study,3,Passed,85.04
+1068,3486,2025-01-20,HR,2,Failed,60.88
+1069,3487,2026-01-20,HR,1,Passed,85.5
+1070,3495,2025-11-01,HR,3,Passed,69.76
+1071,3496,2025-08-06,Managerial,1,Passed,48.97
+1072,3498,2026-01-06,Technical,1,Failed,65.86
+1073,3502,2025-06-18,Technical,2,Passed,66.03
+1074,3504,2025-05-04,Managerial,1,Failed,69.63
+1075,3505,2025-03-10,Technical,2,Passed,47.87
+1076,3508,2025-02-09,Managerial,3,Failed,60.37
+1077,3512,2025-05-09,HR,2,Passed,59.99
+1078,3517,2025-12-24,Technical,3,Passed,72.47
+1079,3518,2025-04-24,Case Study,1,Failed,65.01
+1080,3519,2025-02-08,Technical,1,Passed,92.83
+1081,3525,2025-02-04,Case Study,1,Passed,58.18
+1082,3529,2025-07-29,HR,1,Passed,57.03
+1083,3530,2025-01-31,Technical,3,Passed,50.9
+1084,3531,2025-12-27,Technical,1,Failed,76.47
+1085,3535,2025-02-19,Technical,1,Failed,92.2
+1086,3539,2025-09-20,Managerial,2,Failed,44.19
+1087,3543,2025-09-12,HR,2,Passed,68.43
+1088,3544,2025-09-14,Case Study,3,Failed,56.15
+1089,3546,2025-02-28,Managerial,2,Passed,43.33
+1090,3548,2025-05-24,Case Study,2,Passed,93.67
+1091,3550,2025-09-07,Case Study,1,Failed,97.57
+1092,3552,2025-06-20,HR,3,Failed,94.9
+1093,3556,2025-11-10,Managerial,1,Failed,42.17
+1094,3563,2025-05-11,Technical,1,Passed,50.33
+1095,3566,2025-07-03,Case Study,3,Passed,48.7
+1096,3568,2025-09-06,HR,2,Failed,94.84
+1097,3572,2025-02-22,Case Study,1,Failed,94.1
+1098,3576,2025-02-08,Technical,3,Failed,94.96
+1099,3577,2025-11-29,Managerial,2,Failed,89.14
+1100,3583,2025-05-29,Technical,2,Passed,53.32
+1101,3589,2025-12-06,HR,2,Passed,60.62
+1102,3592,2025-11-27,Technical,3,Passed,93.23
+1103,3593,2025-10-10,Technical,1,Passed,96.08
+1104,3595,2025-01-09,Technical,1,Failed,93.6
+1105,3597,2025-05-12,Case Study,3,Passed,98.16
+1106,3604,2025-06-18,Managerial,2,Failed,86.98
+1107,3611,2026-01-06,Case Study,1,Passed,80.59
+1108,3615,2025-11-07,Case Study,3,Failed,73.19
+1109,3616,2025-02-21,Case Study,1,Failed,95.4
+1110,3617,2025-02-10,Technical,2,Failed,87.14
+1111,3619,2025-06-14,Technical,3,Passed,41.99
+1112,3620,2025-06-13,Managerial,3,Passed,48.22
+1113,3623,2025-09-05,Case Study,3,Passed,86.13
+1114,3624,2025-11-27,HR,2,Failed,56.45
+1115,3630,2025-03-15,HR,2,Passed,81.34
+1116,3632,2025-06-10,Managerial,3,Failed,60.81
+1117,3633,2025-04-07,Case Study,1,Failed,59.16
+1118,3637,2025-07-05,Technical,3,Failed,54.1
+1119,3638,2025-05-07,Managerial,3,Passed,95.98
+1120,3643,2025-09-11,Case Study,1,Passed,92.86
+1121,3645,2025-12-01,HR,2,Failed,41.33
+1122,3647,2025-12-25,Case Study,3,Failed,47.31
+1123,3648,2025-07-16,Case Study,3,Passed,52.83
+1124,3656,2025-09-20,Technical,1,Failed,86.44
+1125,3658,2025-09-20,Technical,1,Failed,48.19
+1126,3660,2025-07-17,Technical,3,Passed,64.92
+1127,3664,2025-10-16,HR,3,Failed,63.25
+1128,3667,2025-12-25,HR,2,Failed,78.07
+1129,3671,2025-03-12,HR,1,Passed,95.36
+1130,3672,2025-09-23,HR,2,Failed,41.15
+1131,3674,2025-02-21,Case Study,1,Passed,66.48
+1132,3679,2025-03-09,HR,1,Failed,60.14
+1133,3681,2025-12-31,Technical,1,Passed,80.26
+1134,3682,2025-10-20,Case Study,3,Passed,45.29
+1135,3686,2025-04-06,Case Study,2,Failed,95.53
+1136,3687,2025-04-25,Technical,2,Passed,91.72
+1137,3689,2025-10-26,Case Study,1,Passed,64.8
+1138,3690,2025-02-21,Case Study,2,Passed,71.66
+1139,3694,2025-12-05,Managerial,1,Passed,94.87
+1140,3698,2025-02-21,Managerial,2,Failed,69.67
+1141,3700,2025-05-05,Managerial,2,Failed,92.94
+1142,3701,2025-10-30,Technical,2,Failed,49.58
+1143,3702,2025-10-29,HR,1,Passed,46.3
+1144,3703,2025-09-21,Technical,3,Failed,63.62
+1145,3706,2025-09-19,Managerial,2,Passed,90.49
+1146,3713,2025-10-28,Case Study,3,Passed,69.62
+1147,3715,2025-10-24,Case Study,3,Failed,62.34
+1148,3738,2025-09-11,Managerial,3,Failed,60.52
+1149,3741,2025-06-14,HR,2,Passed,56.93
+1150,3752,2025-04-01,HR,3,Failed,88.52
+1151,3757,2025-07-31,Technical,1,Passed,93.86
+1152,3760,2025-07-04,Managerial,3,Failed,73.26
+1153,3765,2025-04-06,Managerial,2,Failed,58.88
+1154,3767,2026-01-07,Case Study,1,Passed,52.28
+1155,3776,2025-04-11,HR,1,Passed,78.15
+1156,3782,2025-06-23,HR,1,Failed,45.89
+1157,3786,2025-01-26,Case Study,3,Passed,50.82
+1158,3788,2025-06-25,Technical,3,Failed,97.51
+1159,3795,2025-09-16,HR,2,Failed,88.33
+1160,3796,2025-07-19,HR,2,Passed,45.44
+1161,3801,2025-06-10,Case Study,3,Passed,62.42
+1162,3808,2025-09-30,HR,2,Failed,94.81
+1163,3810,2025-08-27,Technical,2,Passed,69.5
+1164,3811,2025-07-16,Case Study,2,Failed,60.48
+1165,3812,2026-01-20,HR,1,Passed,80.19
+1166,3815,2025-05-31,HR,2,Passed,47.36
+1167,3816,2025-09-25,HR,2,Passed,90.46
+1168,3818,2025-05-14,HR,1,Passed,63.16
+1169,3827,2025-05-06,Case Study,1,Passed,75.29
+1170,3829,2025-08-05,HR,1,Failed,76.53
+1171,3834,2025-05-24,Managerial,1,Failed,57.71
+1172,3837,2025-06-18,Technical,1,Failed,83.16
+1173,3841,2026-01-06,Managerial,3,Passed,48.77
+1174,3844,2025-04-30,Technical,2,Passed,83.13
+1175,3846,2025-02-10,Managerial,1,Passed,64.9
+1176,3850,2025-09-16,Case Study,3,Failed,44.12
+1177,3859,2025-03-27,Case Study,3,Passed,84.46
+1178,3862,2025-07-29,Managerial,1,Passed,54.03
+1179,3867,2025-04-21,HR,1,Passed,80.05
+1180,3871,2025-07-01,Case Study,1,Passed,99.59
+1181,3872,2025-08-17,Case Study,2,Failed,99.45
+1182,3875,2025-09-09,Managerial,2,Passed,59.83
+1183,3876,2025-02-23,Case Study,3,Passed,93.49
+1184,3878,2025-03-05,HR,3,Passed,79.4
+1185,3881,2025-09-29,HR,2,Passed,74.89
+1186,3883,2025-08-21,Technical,1,Failed,96.01
+1187,3887,2026-01-16,Technical,1,Passed,67.47
+1188,3890,2025-10-26,HR,1,Passed,78.32
+1189,3891,2025-04-24,HR,2,Failed,41.41
+1190,3893,2025-07-16,HR,2,Passed,86.87
+1191,3896,2025-06-07,Case Study,1,Failed,63.9
+1192,3899,2025-10-07,Technical,1,Passed,46.04
+1193,3900,2025-11-06,HR,2,Failed,78.31
+1194,3903,2025-07-18,Technical,3,Passed,65.34
+1195,3906,2025-11-28,Managerial,2,Failed,75.03
+1196,3919,2025-12-08,Case Study,1,Failed,85.4
+1197,3921,2025-11-09,HR,2,Passed,87.39
+1198,3922,2025-09-10,Managerial,3,Passed,60.34
+1199,3925,2025-06-20,Case Study,3,Passed,69.2
+1200,3930,2025-11-07,Case Study,3,Passed,77.15
+1201,3932,2025-11-01,Case Study,1,Passed,70.1
+1202,3934,2025-02-17,Managerial,1,Passed,45.15
+1203,3935,2025-02-07,Case Study,3,Passed,95.52
+1204,3949,2025-06-24,Managerial,3,Failed,68.69
+1205,3951,2025-04-18,HR,3,Passed,87.58
+1206,3953,2025-10-23,Technical,1,Passed,77.97
+1207,3957,2025-07-05,Case Study,2,Failed,56.31
+1208,3964,2025-08-28,Managerial,2,Passed,91.78
+1209,3968,2025-06-03,Technical,3,Passed,66.78
+1210,3969,2025-07-24,HR,2,Passed,71.59
+1211,3973,2025-04-08,HR,3,Passed,57.18
+1212,3975,2025-12-07,Technical,1,Passed,87.81
+1213,3976,2025-04-24,Technical,1,Passed,78.07
+1214,3977,2025-12-02,Case Study,3,Passed,64.14
+1215,3978,2025-09-09,Case Study,1,Passed,79.87
+1216,3986,2025-11-29,HR,3,Failed,92.72
+1217,3990,2025-09-16,Case Study,1,Passed,83.27
+1218,3994,2025-10-18,Case Study,2,Passed,87.71
+1219,3996,2025-09-03,Case Study,2,Failed,57.96
+1220,3999,2025-09-02,Technical,3,Passed,70.57
+1221,4000,2025-02-23,Managerial,3,Failed,67.03
+1222,4001,2025-10-27,HR,2,Passed,76.88
+1223,4007,2025-02-01,Case Study,1,Failed,59.84
+1224,4009,2025-06-07,HR,3,Passed,97.07
+1225,4011,2025-06-04,HR,3,Passed,82.87
+1226,4024,2025-05-18,Managerial,1,Passed,58.12
+1227,4025,2025-04-27,Managerial,3,Failed,93.92
+1228,4026,2025-02-24,Technical,3,Passed,67.57
+1229,4029,2025-04-10,Managerial,1,Passed,71.92
+1230,4037,2026-01-14,HR,1,Passed,96.04
+1231,4038,2025-07-12,Technical,1,Passed,68.68
+1232,4042,2025-04-12,Case Study,2,Failed,87.5
+1233,4043,2025-05-09,Managerial,3,Failed,81.03
+1234,4046,2025-07-13,Case Study,1,Failed,94.36
+1235,4048,2025-07-14,Technical,1,Passed,74.25
+1236,4049,2025-02-22,HR,3,Passed,46.69
+1237,4051,2025-08-05,Managerial,2,Passed,76.21
+1238,4054,2025-01-30,Technical,1,Passed,89.57
+1239,4056,2025-09-08,Technical,2,Passed,59.16
+1240,4060,2025-03-15,Technical,3,Failed,70.23
+1241,4064,2025-05-05,Managerial,2,Failed,60.43
+1242,4065,2025-09-10,Case Study,3,Failed,64.77
+1243,4067,2025-09-10,Managerial,3,Failed,66.15
+1244,4070,2025-12-20,Managerial,2,Failed,68.23
+1245,4072,2025-07-13,Managerial,1,Failed,81.62
+1246,4075,2025-05-23,HR,2,Passed,77.04
+1247,4076,2025-07-08,HR,2,Passed,44.43
+1248,4079,2025-04-22,Technical,3,Failed,46.34
+1249,4083,2025-11-16,Case Study,2,Failed,40.44
+1250,4086,2025-07-03,HR,3,Passed,78.84
+1251,4093,2025-08-17,Case Study,3,Passed,76.39
+1252,4095,2025-02-14,Managerial,3,Passed,83.46
+1253,4109,2025-06-25,HR,1,Passed,77.0
+1254,4116,2025-03-19,Managerial,2,Passed,86.13
+1255,4117,2025-06-01,HR,2,Failed,91.52
+1256,4120,2025-02-15,Managerial,2,Passed,78.89
+1257,4121,2025-04-30,HR,3,Passed,87.98
+1258,4128,2025-11-27,Technical,1,Passed,98.11
+1259,4130,2025-09-17,Managerial,3,Failed,96.6
+1260,4131,2025-09-26,Technical,3,Failed,48.93
+1261,4136,2025-06-01,Managerial,3,Passed,73.84
+1262,4137,2025-06-20,HR,1,Failed,49.47
+1263,4138,2025-09-24,Managerial,1,Passed,73.2
+1264,4140,2025-06-30,Technical,3,Passed,43.7
+1265,4142,2025-02-23,HR,1,Passed,68.47
+1266,4147,2025-12-24,Managerial,3,Passed,97.29
+1267,4148,2026-01-11,HR,3,Passed,73.24
+1268,4149,2025-08-05,Case Study,3,Passed,90.24
+1269,4151,2025-03-31,Managerial,1,Failed,56.27
+1270,4152,2025-08-24,Case Study,1,Passed,72.92
+1271,4154,2025-02-18,Technical,1,Failed,89.21
+1272,4156,2025-05-21,HR,3,Passed,80.43
+1273,4157,2025-10-30,Technical,2,Failed,69.7
+1274,4162,2025-12-27,Case Study,1,Passed,56.78
+1275,4171,2025-09-05,Technical,3,Failed,84.02
+1276,4174,2025-11-23,Managerial,1,Passed,81.88
+1277,4175,2025-06-12,Case Study,1,Passed,99.13
+1278,4176,2025-05-14,Case Study,2,Passed,79.27
+1279,4177,2026-01-05,HR,3,Passed,78.99
+1280,4178,2025-05-16,HR,1,Passed,46.21
+1281,4182,2025-08-17,Case Study,3,Passed,57.49
+1282,4183,2025-07-18,Technical,3,Passed,56.84
+1283,4184,2025-04-24,Managerial,2,Passed,57.91
+1284,4187,2025-05-20,HR,2,Failed,78.51
+1285,4188,2025-08-31,Managerial,3,Passed,41.19
+1286,4193,2025-07-11,Managerial,2,Passed,66.71
+1287,4194,2025-07-16,Technical,3,Failed,51.11
+1288,4197,2025-02-25,Managerial,2,Passed,60.17
+1289,4200,2025-01-12,Technical,2,Passed,99.15
+1290,4210,2025-11-18,HR,2,Passed,77.48
+1291,4212,2025-06-17,Case Study,1,Passed,54.92
+1292,4217,2025-04-21,Case Study,3,Passed,54.32
+1293,4218,2025-10-29,Case Study,3,Passed,80.4
+1294,4223,2025-02-27,Case Study,2,Passed,46.98
+1295,4225,2025-11-11,Technical,2,Failed,69.24
+1296,4229,2025-10-11,HR,2,Passed,97.27
+1297,4233,2025-09-27,Managerial,1,Passed,91.89
+1298,4234,2025-11-22,HR,2,Passed,65.55
+1299,4235,2025-01-15,HR,1,Failed,93.99
+1300,4236,2025-09-23,Case Study,2,Passed,98.93
+1301,4237,2025-09-18,Case Study,1,Failed,96.38
+1302,4241,2025-06-20,Managerial,3,Failed,67.23
+1303,4246,2025-09-01,Managerial,2,Failed,73.98
+1304,4249,2025-10-31,Case Study,1,Failed,46.99
+1305,4250,2025-03-27,Technical,2,Passed,95.27
+1306,4253,2025-09-15,Case Study,2,Passed,49.0
+1307,4255,2025-12-03,Case Study,2,Passed,86.91
+1308,4256,2025-06-20,Case Study,2,Passed,64.75
+1309,4262,2025-12-15,HR,3,Passed,72.51
+1310,4264,2025-08-26,HR,2,Passed,75.85
+1311,4266,2025-08-18,Technical,2,Passed,88.93
+1312,4268,2025-11-25,Case Study,3,Passed,83.09
+1313,4269,2025-08-09,Managerial,3,Failed,88.06
+1314,4270,2025-12-29,Technical,2,Failed,93.93
+1315,4271,2025-12-08,HR,2,Passed,59.91
+1316,4272,2025-03-13,Managerial,2,Passed,74.13
+1317,4279,2025-06-18,Managerial,1,Passed,91.03
+1318,4284,2025-04-05,Technical,2,Failed,99.01
+1319,4285,2025-05-28,Technical,3,Passed,85.97
+1320,4288,2025-07-04,Managerial,1,Passed,48.47
+1321,4291,2025-12-03,Managerial,2,Passed,97.67
+1322,4292,2026-01-02,Technical,1,Passed,83.79
+1323,4294,2025-09-05,HR,1,Passed,59.36
+1324,4301,2025-10-06,HR,3,Passed,44.26
+1325,4304,2025-03-10,Managerial,2,Passed,40.07
+1326,4306,2025-02-12,Case Study,3,Passed,74.66
+1327,4315,2025-07-13,Case Study,1,Passed,43.19
+1328,4317,2025-10-10,Case Study,1,Passed,94.09
+1329,4319,2025-04-07,Technical,3,Failed,86.15
+1330,4322,2025-11-13,Case Study,1,Passed,45.02
+1331,4330,2025-07-17,HR,3,Failed,40.56
+1332,4332,2025-07-18,Case Study,3,Failed,93.11
+1333,4333,2025-02-04,Technical,1,Passed,56.08
+1334,4339,2025-07-29,Technical,2,Passed,80.52
+1335,4340,2025-05-20,Technical,1,Passed,61.5
+1336,4342,2025-07-08,HR,3,Failed,85.92
+1337,4343,2025-01-26,HR,1,Passed,50.56
+1338,4345,2025-09-19,Case Study,1,Passed,99.54
+1339,4349,2025-05-19,Case Study,3,Passed,90.21
+1340,4350,2025-07-18,HR,2,Failed,76.72
+1341,4351,2025-07-05,Case Study,2,Passed,42.87
+1342,4352,2025-10-11,HR,1,Passed,91.09
+1343,4353,2025-04-15,HR,3,Failed,67.22
+1344,4362,2025-04-04,Managerial,2,Passed,95.79
+1345,4363,2025-11-20,Technical,2,Failed,93.8
+1346,4364,2025-07-24,HR,1,Passed,81.04
+1347,4368,2025-07-03,Managerial,1,Failed,78.05
+1348,4377,2025-12-02,Technical,3,Passed,53.12
+1349,4378,2025-09-18,HR,3,Passed,99.73
+1350,4382,2025-07-20,Case Study,2,Passed,61.31
+1351,4383,2025-02-07,Technical,3,Passed,71.57
+1352,4384,2025-03-03,Technical,1,Passed,76.26
+1353,4389,2025-09-14,Case Study,1,Failed,51.72
+1354,4398,2025-11-07,HR,3,Failed,41.94
+1355,4401,2025-07-27,Case Study,1,Passed,42.77
+1356,4402,2025-01-30,Case Study,3,Passed,76.8
+1357,4413,2025-08-06,Technical,1,Failed,47.67
+1358,4414,2025-03-21,Case Study,1,Passed,57.36
+1359,4416,2025-12-17,Case Study,3,Passed,41.7
+1360,4417,2025-12-21,Case Study,2,Passed,91.62
+1361,4418,2025-08-26,Technical,2,Failed,41.8
+1362,4424,2025-07-01,Managerial,1,Passed,73.32
+1363,4435,2025-12-04,HR,1,Failed,80.18
+1364,4441,2025-05-07,Case Study,2,Passed,70.21
+1365,4444,2025-05-18,HR,3,Passed,86.03
+1366,4446,2025-12-06,Managerial,1,Failed,80.44
+1367,4447,2025-10-07,Technical,1,Passed,53.85
+1368,4449,2025-12-07,Managerial,3,Failed,66.99
+1369,4450,2025-05-28,Technical,3,Failed,94.93
+1370,4459,2025-10-08,Technical,1,Passed,91.48
+1371,4466,2025-06-07,HR,3,Passed,65.97
+1372,4472,2025-03-29,Managerial,2,Passed,83.91
+1373,4474,2025-09-16,Case Study,1,Passed,51.89
+1374,4479,2025-09-05,Case Study,3,Passed,90.08
+1375,4484,2025-09-02,HR,1,Passed,58.6
+1376,4486,2025-01-25,Case Study,3,Failed,43.7
+1377,4487,2025-02-17,Technical,1,Failed,61.22
+1378,4488,2025-05-03,Case Study,2,Passed,42.63
+1379,4493,2025-10-05,Technical,3,Failed,88.58
+1380,4496,2025-03-13,Case Study,1,Passed,70.08
+1381,4498,2025-05-26,HR,3,Passed,97.51
+1382,4499,2025-04-16,Technical,3,Failed,60.76
+1383,4501,2025-10-18,HR,1,Passed,70.2
+1384,4519,2025-02-08,Case Study,1,Passed,93.64
+1385,4520,2025-04-29,Managerial,2,Passed,95.94
+1386,4524,2025-09-15,Case Study,3,Passed,56.07
+1387,4536,2025-12-09,Case Study,3,Passed,58.98
+1388,4540,2025-06-06,Case Study,3,Failed,68.75
+1389,4554,2025-07-06,HR,1,Passed,44.95
+1390,4557,2025-07-21,Case Study,2,Passed,55.97
+1391,4569,2025-11-08,Case Study,1,Passed,47.57
+1392,4570,2025-04-02,HR,3,Passed,64.27
+1393,4574,2025-10-21,Case Study,1,Failed,96.87
+1394,4576,2025-10-05,HR,1,Passed,41.98
+1395,4579,2025-04-24,Technical,3,Passed,95.03
+1396,4580,2025-07-18,Technical,2,Failed,81.6
+1397,4581,2025-10-18,Technical,3,Failed,48.49
+1398,4582,2025-02-03,Technical,1,Passed,94.12
+1399,4586,2025-12-01,Managerial,2,Passed,78.84
+1400,4592,2025-02-04,Case Study,2,Passed,66.66
+1401,4596,2025-12-30,HR,2,Passed,44.69
+1402,4600,2025-08-25,Managerial,3,Passed,55.24
+1403,4603,2025-12-22,Technical,2,Failed,73.42
+1404,4606,2025-02-18,Technical,2,Passed,90.78
+1405,4607,2025-06-12,HR,1,Passed,66.81
+1406,4609,2025-08-04,HR,2,Passed,73.98
+1407,4610,2025-04-16,HR,1,Failed,48.47
+1408,4614,2025-05-27,Case Study,3,Passed,48.36
+1409,4617,2025-09-20,Case Study,3,Passed,92.64
+1410,4621,2025-09-14,Case Study,3,Passed,40.5
+1411,4625,2025-07-24,Case Study,3,Passed,68.54
+1412,4629,2025-04-16,Managerial,1,Passed,98.43
+1413,4632,2025-11-06,Technical,3,Failed,80.56
+1414,4633,2025-03-07,HR,1,Passed,47.21
+1415,4634,2025-10-25,Technical,3,Passed,93.07
+1416,4640,2025-12-01,Technical,3,Passed,76.28
+1417,4645,2025-12-27,Case Study,3,Passed,97.61
+1418,4647,2025-12-31,Case Study,1,Passed,80.17
+1419,4649,2025-05-31,HR,1,Passed,62.02
+1420,4656,2025-06-30,Technical,2,Failed,46.17
+1421,4661,2025-09-20,Technical,1,Passed,69.27
+1422,4663,2025-04-02,Managerial,2,Passed,56.36
+1423,4669,2025-06-10,Managerial,2,Passed,51.67
+1424,4674,2025-05-06,Managerial,3,Passed,40.44
+1425,4684,2025-09-03,Technical,2,Passed,48.82
+1426,4686,2025-10-25,Technical,2,Passed,69.85
+1427,4688,2025-03-29,Technical,1,Passed,49.0
+1428,4694,2025-09-14,HR,1,Passed,70.19
+1429,4698,2025-11-02,Managerial,3,Failed,89.46
+1430,4702,2025-10-20,HR,2,Passed,95.18
+1431,4706,2025-10-11,HR,3,Passed,61.85
+1432,4709,2025-05-21,Managerial,3,Failed,92.79
+1433,4717,2025-08-19,Case Study,2,Passed,63.15
+1434,4718,2025-02-15,Case Study,2,Failed,72.07
+1435,4721,2025-07-09,Case Study,3,Passed,84.29
+1436,4724,2025-05-20,HR,1,Passed,62.02
+1437,4730,2025-10-18,Technical,3,Passed,47.78
+1438,4734,2025-10-16,Technical,2,Failed,70.2
+1439,4736,2025-07-28,Managerial,2,Passed,96.19
+1440,4737,2025-07-21,Case Study,3,Passed,45.69
+1441,4738,2025-03-07,Managerial,3,Passed,97.78
+1442,4739,2025-09-21,Managerial,1,Passed,48.29
+1443,4740,2025-08-25,Managerial,1,Failed,91.65
+1444,4744,2025-04-09,HR,1,Passed,67.85
+1445,4757,2025-10-21,Technical,1,Passed,91.38
+1446,4764,2025-04-05,Technical,2,Passed,91.89
+1447,4765,2025-11-30,Case Study,1,Failed,52.03
+1448,4766,2025-08-17,Managerial,2,Passed,87.21
+1449,4767,2025-08-24,Technical,3,Passed,64.56
+1450,4774,2025-08-29,Managerial,2,Passed,71.08
+1451,4779,2025-06-15,Technical,3,Passed,97.06
+1452,4780,2025-07-11,Technical,3,Passed,79.76
+1453,4784,2026-01-04,HR,2,Passed,61.76
+1454,4787,2025-04-01,Managerial,3,Passed,65.61
+1455,4792,2025-09-27,Case Study,3,Passed,82.16
+1456,4793,2025-06-07,Case Study,2,Passed,83.07
+1457,4794,2025-07-11,Case Study,3,Failed,47.84
+1458,4796,2025-02-15,Technical,1,Failed,79.83
+1459,4797,2025-11-17,Technical,1,Passed,45.38
+1460,4800,2025-03-16,Case Study,1,Passed,48.28
+1461,4801,2025-10-06,Case Study,2,Passed,96.58
+1462,4803,2025-07-08,Technical,1,Failed,68.91
+1463,4807,2025-09-08,Managerial,1,Passed,64.75
+1464,4808,2025-12-13,HR,2,Passed,86.56
+1465,4810,2025-10-17,Case Study,1,Failed,80.43
+1466,4812,2025-12-01,HR,3,Passed,69.54
+1467,4813,2025-06-05,Technical,1,Passed,55.76
+1468,4815,2025-06-02,Case Study,3,Passed,54.45
+1469,4816,2025-09-05,Managerial,1,Passed,89.62
+1470,4817,2025-10-29,Managerial,2,Passed,69.87
+1471,4821,2025-05-27,Managerial,3,Failed,89.98
+1472,4823,2025-05-10,Case Study,3,Passed,62.43
+1473,4824,2025-04-07,Managerial,2,Failed,68.18
+1474,4827,2025-06-10,Technical,2,Passed,73.69
+1475,4834,2025-10-14,Case Study,1,Passed,85.7
+1476,4835,2025-02-13,HR,2,Passed,77.07
+1477,4838,2025-03-11,Managerial,1,Passed,92.22
+1478,4841,2025-05-31,Case Study,3,Passed,76.08
+1479,4845,2025-03-06,Technical,1,Passed,61.42
+1480,4846,2025-03-30,Managerial,2,Passed,43.7
+1481,4848,2025-07-16,Managerial,2,Passed,95.99
+1482,4855,2025-02-13,Technical,1,Passed,94.79
+1483,4858,2025-07-22,Technical,1,Passed,86.8
+1484,4864,2025-10-05,Case Study,1,Passed,68.76
+1485,4867,2025-05-20,Managerial,3,Failed,73.85
+1486,4873,2025-02-13,Case Study,2,Passed,44.05
+1487,4876,2025-08-02,Technical,3,Passed,67.05
+1488,4877,2025-09-10,Technical,1,Failed,96.71
+1489,4881,2025-01-25,Technical,1,Passed,40.63
+1490,4883,2025-11-05,Managerial,2,Failed,65.21
+1491,4891,2025-09-13,Case Study,1,Passed,44.42
+1492,4893,2025-07-26,Technical,3,Passed,72.36
+1493,4896,2026-01-07,Technical,3,Passed,79.88
+1494,4898,2025-03-28,Technical,3,Passed,59.87
+1495,4899,2025-06-20,Case Study,1,Passed,62.25
+1496,4902,2025-11-20,Managerial,3,Passed,80.57
+1497,4903,2025-05-07,Technical,2,Passed,72.34
+1498,4904,2025-05-08,HR,2,Passed,94.5
+1499,4906,2025-02-20,Managerial,3,Passed,52.42
+1500,4911,2025-04-01,Managerial,1,Passed,62.73
+1501,4921,2025-04-02,HR,3,Failed,63.42
+1502,4930,2025-03-11,Technical,2,Failed,59.98
+1503,4934,2025-06-28,HR,3,Failed,82.61
+1504,4936,2025-04-29,Managerial,1,Failed,81.82
+1505,4940,2025-08-21,Case Study,3,Passed,71.42
+1506,4945,2025-10-03,Case Study,3,Failed,82.49
+1507,4947,2025-12-07,Technical,2,Failed,91.2
+1508,4948,2025-09-11,Technical,3,Passed,56.27
+1509,4952,2025-03-01,Managerial,1,Failed,87.62
+1510,4955,2025-04-26,HR,2,Passed,41.46
+1511,4957,2025-02-15,Managerial,1,Passed,59.66
+1512,4962,2025-09-08,HR,3,Passed,85.51
+1513,4968,2025-02-17,Case Study,2,Passed,75.23
+1514,4985,2025-07-09,Managerial,2,Failed,98.69
+1515,4987,2025-05-13,Case Study,1,Passed,85.21
+1516,4991,2025-12-04,HR,2,Passed,91.97
+1517,4992,2025-09-11,Managerial,3,Passed,59.48
+1518,4995,2025-03-20,Case Study,1,Passed,74.87
+1519,4996,2025-06-15,HR,1,Failed,61.95
+1520,4997,2025-09-02,HR,2,Passed,90.86
+1521,4998,2025-06-06,Technical,2,Passed,43.96
+1522,5003,2025-04-06,Technical,3,Failed,88.09
+1523,5004,2025-10-03,Case Study,1,Failed,92.91
+1524,5005,2025-09-29,Managerial,2,Passed,68.57
+1525,5006,2025-03-15,Technical,1,Passed,60.43
+1526,5016,2025-12-08,Case Study,1,Passed,83.5
+1527,5018,2025-12-31,Technical,2,Passed,71.96
+1528,5022,2025-12-23,HR,1,Passed,93.3
+1529,5025,2026-01-24,HR,1,Passed,68.28
+1530,5030,2025-04-28,Technical,3,Passed,96.5
+1531,5031,2025-08-14,Case Study,2,Passed,67.69
+1532,5033,2025-03-08,Case Study,2,Passed,84.02
+1533,5039,2025-09-05,HR,3,Passed,57.76
+1534,5045,2025-02-24,Case Study,2,Passed,57.22
+1535,5046,2025-03-19,Managerial,2,Failed,42.47
+1536,5047,2025-05-16,Technical,3,Failed,49.86
+1537,5056,2025-09-24,Technical,3,Failed,44.31
+1538,5058,2025-04-23,HR,2,Passed,90.94
+1539,5065,2025-10-19,Case Study,3,Passed,68.75
+1540,5066,2025-02-24,Technical,2,Failed,99.78
+1541,5070,2025-06-29,Technical,3,Failed,84.23
+1542,5071,2025-04-14,Technical,3,Failed,54.79
+1543,5079,2025-04-18,Technical,3,Passed,98.86
+1544,5082,2025-09-09,Case Study,3,Passed,86.8
+1545,5084,2025-01-31,Case Study,1,Passed,51.19
+1546,5086,2025-04-24,Case Study,2,Passed,97.1
+1547,5091,2025-01-13,Managerial,1,Failed,60.74
+1548,5102,2025-09-05,Technical,1,Failed,97.63
+1549,5105,2025-03-17,Case Study,1,Passed,99.76
+1550,5106,2025-10-06,Case Study,2,Passed,44.23
+1551,5111,2025-03-25,Technical,2,Passed,99.01
+1552,5116,2025-12-09,Managerial,2,Failed,75.71
+1553,5118,2025-08-07,Case Study,3,Failed,56.89
+1554,5119,2025-10-24,Managerial,3,Failed,98.39
+1555,5134,2025-09-07,Managerial,3,Failed,63.34
+1556,5136,2025-05-17,Managerial,1,Passed,51.38
+1557,5137,2025-06-13,HR,3,Passed,94.91
+1558,5138,2025-07-09,HR,2,Passed,93.34
+1559,5140,2025-06-24,Technical,3,Failed,47.39
+1560,5141,2025-02-28,Case Study,1,Passed,99.83
+1561,5144,2025-04-13,HR,3,Failed,73.48
+1562,5145,2025-05-23,Managerial,3,Failed,97.63
+1563,5148,2025-03-14,Technical,1,Failed,42.91
+1564,5157,2025-11-27,Managerial,3,Failed,77.21
+1565,5159,2025-06-06,Case Study,2,Passed,77.53
+1566,5163,2025-03-20,Managerial,1,Passed,90.43
+1567,5169,2026-01-10,HR,1,Failed,69.8
+1568,5178,2025-10-02,Technical,2,Passed,89.66
+1569,5181,2025-12-21,Managerial,3,Passed,52.62
+1570,5188,2025-05-18,HR,1,Passed,76.5
+1571,5189,2025-12-10,HR,1,Passed,79.45
+1572,5196,2025-12-23,Case Study,3,Failed,45.35
+1573,5199,2025-06-08,Case Study,3,Passed,99.93
+1574,5201,2025-07-31,Technical,3,Passed,93.83
+1575,5202,2025-09-25,HR,3,Failed,51.1
+1576,5204,2025-10-06,Managerial,2,Passed,84.24
+1577,5207,2025-07-25,Managerial,1,Passed,62.45
+1578,5208,2025-07-25,HR,2,Failed,48.9
+1579,5215,2025-11-24,Technical,2,Passed,55.67
+1580,5216,2025-03-16,Case Study,1,Passed,48.78
+1581,5218,2025-02-27,Managerial,2,Failed,62.21
+1582,5220,2025-03-02,Technical,2,Failed,86.47
+1583,5221,2025-09-10,Case Study,1,Failed,63.62
+1584,5230,2025-03-30,HR,1,Failed,74.48
+1585,5231,2025-07-07,Managerial,2,Passed,73.44
+1586,5233,2025-07-23,HR,2,Failed,97.14
+1587,5234,2025-08-27,Technical,1,Passed,52.06
+1588,5244,2025-06-07,Technical,2,Passed,40.74
+1589,5247,2025-08-03,Case Study,2,Passed,86.38
+1590,5254,2025-01-19,Case Study,2,Passed,61.76
+1591,5255,2025-11-24,Technical,2,Passed,56.67
+1592,5258,2025-02-26,HR,1,Failed,83.69
+1593,5260,2025-06-13,Case Study,1,Passed,43.17
+1594,5263,2025-03-22,Technical,1,Failed,66.86
+1595,5269,2025-12-25,Case Study,3,Failed,46.53
+1596,5272,2025-05-06,HR,3,Passed,87.05
+1597,5273,2025-02-04,HR,3,Passed,75.21
+1598,5274,2025-08-01,HR,2,Passed,43.0
+1599,5275,2025-02-19,Case Study,2,Failed,88.6
+1600,5278,2025-02-10,HR,2,Passed,67.56
+1601,5280,2026-01-15,HR,1,Failed,70.7
+1602,5281,2025-04-09,Technical,1,Passed,51.51
+1603,5283,2025-08-24,Managerial,3,Passed,94.85
+1604,5284,2025-05-04,Technical,1,Passed,91.67
+1605,5287,2025-12-25,Managerial,1,Passed,59.99
+1606,5289,2025-12-05,Managerial,3,Failed,69.09
+1607,5292,2025-12-16,Case Study,3,Passed,77.27
+1608,5296,2025-05-22,Case Study,1,Passed,52.57
+1609,5298,2025-01-20,Case Study,3,Failed,91.57
+1610,5299,2025-05-31,Managerial,3,Passed,44.81
+1611,5300,2025-02-21,Case Study,2,Passed,92.2
+1612,5302,2025-06-20,Managerial,3,Passed,67.49
+1613,5305,2025-05-21,Case Study,3,Passed,90.35
+1614,5308,2025-03-11,HR,1,Passed,99.6
+1615,5310,2025-04-14,HR,3,Passed,84.72
+1616,5313,2025-02-17,HR,2,Failed,81.25
+1617,5315,2025-01-15,Case Study,3,Passed,79.91
+1618,5316,2025-09-20,Managerial,1,Passed,50.93
+1619,5321,2025-02-18,Managerial,3,Passed,73.16
+1620,5322,2025-10-23,HR,2,Failed,58.89
+1621,5325,2025-12-21,HR,3,Failed,57.02
+1622,5328,2025-05-04,Technical,2,Passed,47.9
+1623,5330,2025-02-02,Managerial,2,Passed,56.36
+1624,5334,2025-08-19,HR,3,Passed,77.6
+1625,5336,2025-08-31,Managerial,2,Failed,46.43
+1626,5339,2025-09-13,Technical,2,Passed,88.97
+1627,5341,2025-02-11,HR,2,Passed,41.85
+1628,5352,2025-03-26,Managerial,3,Passed,55.77
+1629,5362,2025-02-25,HR,2,Failed,45.44
+1630,5364,2025-02-15,Managerial,1,Failed,47.61
+1631,5377,2025-09-21,Case Study,3,Passed,68.29
+1632,5378,2025-09-09,HR,3,Passed,93.1
+1633,5379,2025-11-11,Case Study,1,Failed,71.98
+1634,5381,2025-03-01,HR,2,Passed,46.1
+1635,5383,2025-12-30,Managerial,3,Failed,43.01
+1636,5386,2025-11-19,Case Study,1,Failed,68.58
+1637,5390,2025-06-13,HR,2,Failed,71.73
+1638,5393,2025-05-24,Managerial,3,Failed,99.21
+1639,5395,2025-03-21,Managerial,3,Passed,71.39
+1640,5397,2025-05-29,HR,3,Passed,62.36
+1641,5400,2025-07-31,Technical,1,Passed,76.92
+1642,5402,2025-08-24,Managerial,1,Failed,64.11
+1643,5404,2025-04-29,HR,2,Passed,78.75
+1644,5411,2025-04-14,Managerial,1,Passed,49.35
+1645,5416,2025-06-21,Managerial,2,Failed,78.16
+1646,5418,2025-11-19,HR,1,Failed,61.21
+1647,5421,2025-04-15,Case Study,1,Passed,99.65
+1648,5430,2025-12-17,Case Study,2,Passed,69.96
+1649,5434,2025-01-09,Technical,1,Failed,65.36
+1650,5436,2025-09-08,HR,2,Passed,67.16
+1651,5440,2025-03-21,Technical,3,Failed,85.07
+1652,5443,2025-06-29,HR,3,Passed,63.59
+1653,5449,2025-05-06,HR,1,Passed,90.6
+1654,5451,2025-10-04,HR,2,Failed,53.11
+1655,5453,2025-07-17,Case Study,2,Passed,82.64
+1656,5454,2025-03-06,Technical,3,Passed,41.9
+1657,5457,2025-12-19,Case Study,2,Failed,75.08
+1658,5462,2025-08-31,Case Study,1,Passed,80.44
+1659,5476,2025-08-24,Managerial,1,Passed,57.37
+1660,5477,2025-09-29,Managerial,2,Passed,75.98
+1661,5481,2025-06-21,HR,1,Passed,66.02
+1662,5485,2025-09-24,Case Study,1,Passed,57.18
+1663,5486,2025-05-26,HR,3,Failed,68.06
+1664,5489,2025-06-05,HR,2,Passed,59.94
+1665,5490,2025-05-17,HR,2,Passed,75.44
+1666,5492,2025-03-03,Case Study,3,Failed,68.82
+1667,5494,2025-09-16,Technical,1,Passed,97.1
+1668,5495,2025-02-27,Case Study,3,Passed,98.37
+1669,5499,2025-04-02,Managerial,1,Failed,72.81
+1670,5502,2026-01-05,Managerial,3,Passed,72.17
+1671,5504,2025-06-02,Case Study,2,Failed,59.09
+1672,5506,2025-01-20,Case Study,3,Failed,67.58
+1673,5509,2025-07-02,Managerial,1,Failed,57.5
+1674,5516,2026-01-24,Case Study,1,Passed,44.48
+1675,5519,2025-12-08,Case Study,2,Failed,88.1
+1676,5521,2025-08-03,Managerial,2,Passed,42.74
+1677,5526,2025-07-25,Managerial,2,Failed,67.01
+1678,5528,2025-04-02,Managerial,1,Failed,62.52
+1679,5534,2025-07-22,Managerial,3,Failed,93.34
+1680,5535,2025-08-18,HR,3,Failed,71.67
+1681,5538,2025-08-24,HR,3,Failed,84.32
+1682,5545,2025-05-04,Technical,1,Failed,87.85
+1683,5554,2025-05-19,Case Study,3,Passed,90.16
+1684,5555,2025-02-02,Technical,3,Passed,95.13
+1685,5559,2025-11-01,Case Study,1,Passed,89.5
+1686,5562,2025-05-11,Managerial,2,Failed,45.57
+1687,5563,2025-03-07,HR,2,Passed,87.51
+1688,5566,2025-11-04,HR,1,Passed,87.61
+1689,5573,2025-12-24,Technical,2,Passed,97.88
+1690,5577,2025-10-24,Managerial,3,Passed,65.45
+1691,5579,2025-04-19,HR,3,Passed,70.27
+1692,5580,2026-01-08,Technical,2,Passed,44.45
+1693,5584,2025-04-26,Case Study,3,Failed,66.16
+1694,5593,2025-09-16,Managerial,1,Failed,93.3
+1695,5594,2025-07-06,Technical,1,Passed,66.43
+1696,5598,2025-07-06,HR,2,Failed,42.19
+1697,5605,2025-11-20,Managerial,3,Passed,67.12
+1698,5606,2025-12-21,Managerial,3,Passed,68.81
+1699,5607,2025-08-16,Technical,3,Passed,60.17
+1700,5619,2025-01-24,Technical,1,Failed,61.75
+1701,5622,2025-07-18,HR,1,Failed,79.96
+1702,5624,2025-12-22,Technical,1,Passed,71.14
+1703,5625,2025-11-09,Technical,3,Failed,84.79
+1704,5629,2025-11-11,Case Study,3,Failed,76.95
+1705,5633,2025-09-09,HR,1,Failed,54.11
+1706,5641,2025-08-17,Managerial,1,Failed,57.62
+1707,5642,2025-06-13,Managerial,2,Failed,64.5
+1708,5643,2025-12-19,HR,2,Passed,93.1
+1709,5645,2025-02-10,Technical,3,Failed,60.18
+1710,5649,2025-12-08,Technical,3,Passed,88.69
+1711,5651,2025-06-14,HR,1,Passed,61.84
+1712,5652,2025-07-30,Technical,1,Failed,76.16
+1713,5653,2025-01-28,Case Study,1,Failed,41.17
+1714,5655,2025-04-02,Managerial,2,Failed,57.7
+1715,5659,2025-03-22,HR,3,Failed,58.64
+1716,5661,2025-05-27,Case Study,3,Passed,50.09
+1717,5662,2025-10-29,Case Study,2,Passed,55.74
+1718,5663,2025-04-18,Technical,3,Failed,68.07
+1719,5666,2025-08-31,HR,3,Failed,58.43
+1720,5667,2025-11-07,Managerial,2,Passed,89.21
+1721,5669,2025-07-15,HR,3,Passed,54.49
+1722,5670,2025-10-26,HR,1,Failed,64.88
+1723,5676,2025-10-15,HR,1,Failed,95.39
+1724,5677,2025-11-14,HR,2,Failed,94.55
+1725,5680,2025-10-15,Technical,2,Passed,59.91
+1726,5683,2025-05-06,HR,1,Failed,66.43
+1727,5686,2025-09-28,Case Study,2,Failed,78.83
+1728,5687,2025-08-13,Case Study,2,Failed,73.25
+1729,5688,2025-04-03,HR,2,Passed,63.86
+1730,5691,2025-12-20,Technical,3,Passed,59.32
+1731,5700,2025-01-25,Managerial,3,Passed,59.75
+1732,5702,2025-03-24,Case Study,1,Passed,41.54
+1733,5703,2025-02-16,Managerial,1,Passed,47.82
+1734,5704,2025-10-25,HR,1,Passed,83.51
+1735,5708,2025-07-27,Managerial,3,Failed,50.72
+1736,5710,2025-05-21,HR,3,Failed,54.67
+1737,5720,2026-01-10,HR,1,Passed,79.6
+1738,5721,2025-04-16,Case Study,2,Failed,59.06
+1739,5724,2025-09-22,Case Study,1,Failed,84.41
+1740,5727,2025-04-11,Case Study,1,Failed,89.91
+1741,5731,2025-11-21,Managerial,3,Passed,86.61
+1742,5736,2025-11-26,Managerial,3,Failed,88.88
+1743,5741,2025-11-09,Managerial,1,Passed,98.74
+1744,5744,2025-05-26,HR,1,Failed,93.74
+1745,5745,2025-09-30,Case Study,2,Passed,87.25
+1746,5756,2025-03-20,Technical,2,Failed,53.57
+1747,5761,2025-06-08,Case Study,3,Passed,61.35
+1748,5766,2025-02-02,Technical,3,Failed,72.95
+1749,5769,2025-03-25,Technical,2,Passed,51.04
+1750,5774,2025-04-01,Technical,1,Passed,63.88
+1751,5777,2025-08-26,Case Study,2,Passed,57.06
+1752,5778,2025-07-06,HR,3,Passed,76.18
+1753,5782,2025-04-22,Technical,1,Passed,76.01
+1754,5785,2025-03-11,Managerial,2,Passed,88.91
+1755,5787,2025-11-13,HR,2,Passed,63.4
+1756,5788,2026-01-18,Technical,2,Passed,44.91
+1757,5791,2025-06-20,Managerial,1,Failed,46.46
+1758,5799,2025-06-12,Case Study,3,Passed,48.12
+1759,5805,2025-07-22,Case Study,1,Passed,47.31
+1760,5809,2026-01-05,HR,2,Passed,68.5
+1761,5810,2025-08-18,HR,3,Passed,97.04
+1762,5811,2025-06-11,Technical,2,Passed,49.89
+1763,5814,2025-08-14,Case Study,1,Passed,91.35
+1764,5816,2025-04-01,Case Study,1,Passed,63.41
+1765,5825,2025-08-06,HR,1,Passed,85.04
+1766,5832,2025-09-10,Case Study,2,Failed,47.35
+1767,5834,2025-03-16,Technical,1,Failed,81.75
+1768,5835,2025-03-04,HR,1,Failed,45.42
+1769,5836,2025-05-01,HR,2,Passed,76.29
+1770,5837,2025-03-20,Case Study,1,Passed,90.12
+1771,5839,2025-03-04,Managerial,3,Passed,55.72
+1772,5841,2025-10-05,Case Study,3,Passed,67.63
+1773,5843,2025-06-23,Managerial,2,Passed,86.37
+1774,5844,2025-07-04,Managerial,1,Passed,82.31
+1775,5849,2025-04-28,Case Study,1,Passed,72.46
+1776,5859,2025-11-01,Technical,1,Passed,87.84
+1777,5863,2025-07-13,Case Study,3,Failed,61.16
+1778,5872,2025-03-31,Technical,3,Passed,44.22
+1779,5873,2025-05-01,Case Study,3,Failed,40.94
+1780,5874,2025-08-17,HR,3,Passed,49.98
+1781,5875,2025-05-31,Managerial,2,Passed,55.6
+1782,5876,2025-05-26,Managerial,1,Passed,85.63
+1783,5883,2025-09-27,Technical,3,Passed,41.68
+1784,5889,2025-08-12,Managerial,3,Passed,86.26
+1785,5890,2025-12-12,HR,3,Failed,94.85
+1786,5891,2025-07-18,Technical,3,Passed,69.16
+1787,5892,2025-08-14,HR,3,Passed,71.06
+1788,5901,2025-11-09,HR,2,Passed,69.19
+1789,5903,2025-04-11,Managerial,3,Passed,92.11
+1790,5905,2025-06-25,Case Study,1,Failed,72.77
+1791,5921,2026-01-10,Technical,1,Failed,42.33
+1792,5922,2025-08-30,Technical,2,Failed,93.83
+1793,5924,2025-04-07,Case Study,3,Passed,42.64
+1794,5926,2025-10-24,Technical,1,Passed,81.16
+1795,5930,2025-08-27,Managerial,3,Failed,85.83
+1796,5931,2025-02-26,Technical,1,Passed,79.07
+1797,5932,2025-10-02,HR,2,Failed,80.93
+1798,5936,2025-10-09,Case Study,3,Passed,77.04
+1799,5940,2025-07-31,Technical,1,Passed,65.75
+1800,5941,2025-05-03,Technical,3,Passed,99.61
+1801,5944,2025-02-25,HR,1,Passed,90.19
+1802,5948,2025-05-05,Managerial,3,Failed,69.53
+1803,5950,2025-04-05,Managerial,3,Passed,74.18
+1804,5954,2025-08-03,Managerial,1,Passed,73.73
+1805,5956,2025-09-16,Managerial,2,Failed,82.01
+1806,5957,2025-02-09,Technical,1,Failed,42.75
+1807,5958,2025-03-26,HR,3,Failed,54.83
+1808,5961,2025-12-08,Managerial,2,Passed,68.25
+1809,5966,2025-03-09,Case Study,1,Passed,69.21
+1810,5969,2025-04-29,Case Study,1,Passed,71.01
+1811,5970,2025-07-08,HR,1,Failed,87.31
+1812,5971,2025-04-25,Technical,3,Failed,95.93
+1813,5972,2025-11-07,Technical,3,Passed,89.21
+1814,5974,2025-06-09,HR,3,Passed,86.77
+1815,5983,2025-08-26,Technical,1,Passed,93.32
+1816,5988,2025-11-23,Case Study,3,Failed,67.24
+1817,5989,2025-10-16,Technical,2,Passed,93.93
+1818,5991,2025-09-08,Technical,1,Passed,61.99
+1819,5995,2025-05-16,HR,3,Passed,79.67
+1820,5996,2025-06-02,HR,1,Failed,45.63
+1821,5997,2025-05-21,Technical,3,Passed,85.92
+1822,5999,2025-06-09,HR,2,Passed,98.57
+1823,6001,2025-02-25,Technical,1,Passed,99.29
+1824,6006,2025-03-04,HR,1,Failed,43.08
+1825,6013,2025-06-03,Technical,1,Passed,87.68
+1826,6014,2025-07-13,Managerial,1,Passed,98.27
+1827,6017,2025-04-24,Case Study,3,Passed,59.05
+1828,6019,2026-01-04,Technical,2,Passed,59.97
+1829,6022,2025-12-13,HR,3,Failed,81.21
+1830,6024,2025-04-23,Technical,3,Failed,51.21
+1831,6025,2025-09-28,Technical,1,Failed,72.33
+1832,6035,2025-11-04,Case Study,3,Failed,68.62
+1833,6036,2025-08-27,Case Study,2,Passed,87.49
+1834,6038,2025-02-10,HR,1,Passed,67.38
+1835,6040,2025-11-05,Case Study,1,Passed,52.13
+1836,6041,2025-11-20,Case Study,2,Passed,99.45
+1837,6044,2025-10-28,Technical,2,Passed,77.98
+1838,6055,2025-12-04,Managerial,1,Passed,99.32
+1839,6058,2025-03-21,HR,2,Failed,46.19
+1840,6060,2026-01-01,HR,1,Failed,85.18
+1841,6061,2025-08-06,HR,3,Passed,51.24
+1842,6064,2025-07-07,HR,3,Passed,91.92
+1843,6065,2025-09-10,Managerial,1,Passed,82.45
+1844,6067,2025-07-07,Technical,3,Passed,93.91
+1845,6071,2025-10-28,Technical,2,Failed,74.34
+1846,6072,2025-12-19,Technical,3,Failed,67.72
+1847,6076,2025-04-19,Case Study,1,Failed,87.39
+1848,6077,2025-12-21,Case Study,3,Passed,89.27
+1849,6079,2025-02-03,HR,3,Failed,56.79
+1850,6080,2025-06-16,Managerial,1,Passed,78.83
+1851,6083,2025-11-28,Technical,2,Passed,86.55
+1852,6088,2025-12-19,Technical,2,Passed,65.28
+1853,6089,2025-08-17,Case Study,1,Failed,88.94
+1854,6095,2025-12-09,HR,1,Passed,72.87
+1855,6096,2025-10-03,Case Study,2,Passed,68.79
+1856,6099,2025-10-16,Case Study,3,Passed,87.07
+1857,6100,2025-07-18,Case Study,1,Failed,75.67
+1858,6103,2025-10-20,Technical,1,Failed,62.01
+1859,6104,2025-12-01,Case Study,1,Passed,46.21
+1860,6108,2025-06-26,Managerial,2,Passed,92.23
+1861,6109,2026-01-21,Technical,2,Passed,65.09
+1862,6112,2025-11-08,HR,2,Failed,59.66
+1863,6115,2025-11-21,Technical,3,Failed,49.84
+1864,6116,2025-12-25,Case Study,1,Passed,91.49
+1865,6118,2025-03-30,Managerial,3,Passed,59.48
+1866,6126,2025-11-27,Managerial,2,Passed,91.09
+1867,6127,2025-10-27,Technical,2,Passed,43.06
+1868,6128,2025-04-11,Technical,3,Passed,85.0
+1869,6134,2025-06-24,Managerial,3,Passed,82.59
+1870,6136,2025-12-30,Technical,3,Passed,77.37
+1871,6138,2025-11-21,Case Study,2,Failed,64.02
+1872,6142,2025-01-26,Case Study,2,Passed,64.92
+1873,6146,2025-11-24,HR,3,Passed,96.97
+1874,6150,2025-04-08,HR,1,Failed,56.76
+1875,6152,2025-03-07,Managerial,3,Passed,75.79
+1876,6153,2025-04-24,Technical,1,Passed,87.72
+1877,6154,2025-05-20,Managerial,1,Failed,97.58
+1878,6157,2025-11-07,Technical,1,Passed,41.96
+1879,6159,2025-05-09,Case Study,1,Passed,94.08
+1880,6169,2025-10-27,Managerial,1,Passed,87.7
+1881,6170,2025-07-16,Technical,2,Passed,65.56
+1882,6178,2025-08-28,Managerial,1,Failed,99.59
+1883,6185,2025-04-08,Case Study,1,Passed,61.93
+1884,6187,2025-07-28,Managerial,2,Failed,95.16
+1885,6193,2025-09-01,HR,3,Passed,93.91
+1886,6197,2025-07-03,HR,1,Passed,55.54
+1887,6200,2025-06-08,HR,1,Passed,53.34
+1888,6204,2025-03-14,HR,3,Passed,60.96
+1889,6207,2025-10-29,Managerial,3,Passed,47.26
+1890,6210,2025-05-22,Case Study,3,Passed,67.32
+1891,6212,2025-06-29,Managerial,2,Failed,87.24
+1892,6218,2025-04-16,HR,1,Passed,98.41
+1893,6222,2025-04-01,Case Study,3,Passed,47.64
+1894,6228,2025-11-29,Technical,1,Failed,86.15
+1895,6230,2025-10-30,HR,1,Passed,68.95
+1896,6236,2025-02-14,Managerial,2,Passed,54.22
+1897,6237,2025-12-08,HR,3,Passed,59.98
+1898,6240,2026-01-01,HR,2,Failed,64.42
+1899,6241,2025-11-22,HR,1,Failed,48.05
+1900,6244,2025-12-17,Case Study,1,Passed,98.88
+1901,6245,2026-01-10,Case Study,1,Failed,80.99
+1902,6246,2025-10-30,Technical,2,Passed,68.33
+1903,6250,2025-08-01,Managerial,1,Failed,48.16
+1904,6251,2025-06-21,HR,2,Passed,67.5
+1905,6260,2025-11-29,Case Study,1,Failed,46.73
+1906,6261,2025-10-26,Managerial,2,Passed,58.39
+1907,6265,2025-06-02,HR,3,Passed,48.62
+1908,6266,2025-06-06,Case Study,3,Passed,49.38
+1909,6267,2025-07-19,Managerial,3,Passed,60.56
+1910,6270,2025-07-28,Managerial,2,Passed,69.74
+1911,6274,2025-10-01,Case Study,1,Passed,59.2
+1912,6283,2025-10-12,HR,1,Passed,86.42
+1913,6286,2025-12-11,Managerial,3,Passed,74.88
+1914,6287,2025-09-05,HR,3,Passed,61.14
+1915,6291,2025-04-30,HR,1,Passed,72.85
+1916,6294,2025-07-31,HR,3,Failed,45.46
+1917,6295,2025-11-08,Managerial,3,Passed,71.84
+1918,6297,2025-02-02,HR,3,Passed,93.6
+1919,6298,2025-06-05,Case Study,2,Passed,66.45
+1920,6301,2025-04-25,Case Study,2,Passed,48.47
+1921,6303,2025-09-30,Managerial,3,Passed,81.31
+1922,6305,2025-11-08,Technical,1,Passed,48.05
+1923,6309,2025-06-27,Case Study,2,Failed,82.25
+1924,6312,2025-03-18,Technical,1,Failed,59.77
+1925,6317,2025-03-03,Technical,1,Failed,58.7
+1926,6320,2025-03-11,Managerial,2,Passed,70.0
+1927,6326,2025-11-25,Case Study,1,Passed,61.01
+1928,6328,2025-07-28,Case Study,1,Passed,54.53
+1929,6331,2025-11-02,Technical,1,Passed,94.48
+1930,6332,2025-10-19,Case Study,3,Passed,42.97
+1931,6333,2025-10-15,Technical,2,Passed,73.96
+1932,6336,2025-06-05,Technical,3,Failed,69.02
+1933,6341,2025-09-04,HR,2,Passed,97.2
+1934,6343,2025-07-04,Technical,1,Passed,46.51
+1935,6349,2025-12-29,Technical,2,Passed,77.24
+1936,6350,2025-06-29,Managerial,3,Passed,66.76
+1937,6354,2025-12-27,Managerial,1,Failed,93.36
+1938,6357,2025-06-10,HR,1,Failed,54.42
+1939,6358,2025-08-10,Managerial,3,Passed,81.31
+1940,6360,2025-03-21,Technical,2,Passed,78.31
+1941,6362,2025-05-27,Technical,3,Failed,95.17
+1942,6365,2025-09-25,Case Study,2,Passed,49.99
+1943,6370,2025-12-05,HR,3,Failed,66.16
+1944,6372,2025-11-25,Managerial,2,Passed,97.0
+1945,6373,2025-09-10,Technical,2,Passed,52.35
+1946,6381,2025-10-08,HR,3,Passed,81.24
+1947,6384,2025-01-27,Technical,2,Passed,64.95
+1948,6388,2025-03-14,Managerial,1,Failed,82.11
+1949,6389,2025-08-31,Technical,2,Passed,47.72
+1950,6394,2025-02-02,Case Study,2,Failed,56.05
+1951,6395,2026-01-09,HR,1,Passed,53.42
+1952,6397,2025-02-15,Case Study,2,Passed,70.33
+1953,6398,2026-01-12,Case Study,3,Passed,41.38
+1954,6400,2025-08-26,Case Study,2,Failed,95.37
+1955,6404,2025-06-15,Managerial,2,Passed,69.07
+1956,6406,2025-09-01,Technical,1,Failed,60.1
+1957,6410,2025-01-30,Technical,3,Passed,73.29
+1958,6411,2025-06-06,Case Study,3,Failed,99.43
+1959,6414,2025-12-24,HR,1,Passed,82.34
+1960,6416,2025-01-15,HR,1,Passed,82.73
+1961,6421,2025-12-30,Technical,3,Passed,91.51
+1962,6422,2025-07-23,HR,3,Passed,59.13
+1963,6424,2025-01-29,Technical,3,Passed,55.47
+1964,6427,2025-01-26,Technical,2,Passed,79.58
+1965,6431,2025-02-08,Case Study,3,Failed,58.58
+1966,6433,2025-09-09,HR,1,Passed,44.52
+1967,6435,2025-12-03,Technical,1,Passed,60.96
+1968,6436,2025-04-22,HR,3,Failed,42.79
+1969,6437,2025-07-31,Managerial,1,Failed,89.08
+1970,6438,2025-06-06,Technical,3,Passed,46.72
+1971,6439,2025-05-21,Managerial,2,Passed,95.52
+1972,6442,2025-04-23,Technical,1,Passed,89.32
+1973,6445,2025-06-11,HR,1,Failed,40.94
+1974,6452,2025-12-03,Case Study,1,Passed,45.92
+1975,6453,2025-03-07,Managerial,2,Failed,42.58
+1976,6457,2025-08-27,Case Study,1,Passed,53.09
+1977,6459,2025-01-28,Managerial,2,Failed,48.77
+1978,6460,2025-02-06,HR,2,Passed,68.03
+1979,6462,2025-03-21,Case Study,3,Passed,98.45
+1980,6463,2025-08-30,Case Study,3,Passed,98.05
+1981,6464,2025-08-28,HR,3,Passed,49.42
+1982,6465,2025-04-17,Technical,2,Passed,80.79
+1983,6466,2025-09-04,Case Study,1,Passed,82.98
+1984,6467,2025-12-22,Case Study,2,Failed,82.72
+1985,6468,2025-12-31,HR,1,Passed,91.21
+1986,6473,2025-06-13,Managerial,3,Passed,88.86
+1987,6474,2025-04-26,Technical,2,Passed,66.72
+1988,6475,2025-06-18,Technical,1,Passed,89.13
+1989,6478,2025-05-27,Case Study,3,Passed,71.44
+1990,6482,2025-11-11,Technical,1,Passed,99.7
+1991,6484,2025-04-06,HR,2,Passed,61.16
+1992,6488,2025-02-10,Technical,1,Passed,46.33
+1993,6489,2025-05-28,Technical,3,Passed,79.52
+1994,6506,2025-02-19,Case Study,1,Failed,61.41
+1995,6511,2025-04-22,Technical,1,Failed,88.52
+1996,6512,2025-06-29,HR,2,Passed,61.5
+1997,6514,2025-02-14,HR,2,Failed,65.13
+1998,6517,2025-12-14,Technical,1,Failed,41.38
+1999,6520,2025-09-28,HR,2,Passed,93.46
+2000,6526,2025-09-04,Managerial,2,Passed,58.83
+2001,6529,2025-07-18,Case Study,3,Passed,87.16
+2002,6537,2025-07-02,Technical,2,Failed,75.72
+2003,6539,2025-04-13,Technical,3,Passed,75.63
+2004,6545,2025-09-14,HR,3,Failed,94.54
+2005,6546,2025-03-21,Case Study,3,Passed,71.68
+2006,6547,2025-12-13,Case Study,3,Failed,86.71
+2007,6549,2025-03-23,Technical,1,Failed,79.17
+2008,6563,2025-12-07,Case Study,3,Passed,79.47
+2009,6568,2025-08-23,Managerial,1,Passed,72.38
+2010,6573,2025-05-04,HR,3,Failed,42.47
+2011,6579,2025-07-22,HR,2,Failed,91.43
+2012,6585,2025-01-22,HR,2,Failed,95.7
+2013,6587,2025-02-11,Case Study,1,Failed,63.55
+2014,6588,2025-10-30,HR,3,Passed,87.53
+2015,6590,2025-09-28,Managerial,3,Passed,91.76
+2016,6599,2025-09-12,Managerial,3,Passed,73.79
+2017,6601,2025-03-10,Case Study,3,Failed,69.54
+2018,6602,2025-09-26,Case Study,2,Passed,69.88
+2019,6610,2025-09-26,Case Study,1,Failed,44.54
+2020,6614,2025-08-16,Technical,2,Failed,93.69
+2021,6618,2025-09-04,Managerial,1,Failed,63.37
+2022,6621,2025-09-23,Technical,1,Passed,57.51
+2023,6622,2025-12-03,Case Study,2,Passed,40.54
+2024,6623,2026-01-01,Technical,3,Failed,97.28
+2025,6625,2025-07-26,Managerial,1,Failed,49.6
+2026,6628,2025-08-17,Case Study,2,Failed,86.55
+2027,6630,2025-11-29,HR,3,Passed,84.1
+2028,6638,2025-03-13,Technical,3,Passed,54.14
+2029,6639,2025-10-07,Case Study,2,Passed,85.65
+2030,6645,2025-03-05,Technical,1,Failed,85.73
+2031,6647,2025-02-13,Managerial,3,Failed,98.96
+2032,6648,2025-11-07,Technical,1,Passed,86.55
+2033,6652,2025-06-03,Case Study,3,Passed,49.84
+2034,6654,2025-12-04,Managerial,2,Passed,65.75
+2035,6655,2025-09-09,Managerial,3,Passed,62.21
+2036,6657,2025-05-04,Technical,1,Passed,66.16
+2037,6667,2025-01-18,Case Study,1,Failed,89.2
+2038,6670,2025-04-27,HR,2,Passed,70.79
+2039,6675,2025-06-14,HR,2,Passed,73.01
+2040,6677,2025-04-09,Technical,2,Failed,71.19
+2041,6682,2025-12-03,HR,1,Passed,93.73
+2042,6684,2025-10-02,Managerial,2,Failed,79.02
+2043,6688,2025-12-10,Technical,2,Passed,62.25
+2044,6692,2025-11-16,Technical,3,Failed,59.99
+2045,6697,2025-02-13,Case Study,2,Passed,49.69
+2046,6699,2025-11-07,HR,1,Passed,90.23
+2047,6700,2025-06-18,HR,2,Passed,88.25
+2048,6701,2025-06-09,Technical,2,Failed,85.13
+2049,6706,2025-09-01,Case Study,1,Passed,82.37
+2050,6708,2025-02-04,HR,3,Failed,58.84
+2051,6711,2025-10-13,Case Study,1,Passed,79.98
+2052,6712,2025-12-10,Case Study,1,Passed,43.7
+2053,6713,2025-03-13,Case Study,1,Passed,50.09
+2054,6714,2026-01-15,Case Study,1,Passed,79.52
+2055,6715,2025-01-28,Managerial,1,Failed,49.96
+2056,6721,2025-01-30,HR,1,Failed,50.73
+2057,6723,2025-03-15,Case Study,3,Failed,73.24
+2058,6726,2025-04-15,Case Study,3,Passed,83.77
+2059,6730,2025-04-06,Managerial,2,Passed,98.08
+2060,6733,2025-01-29,HR,1,Passed,51.25
+2061,6737,2025-07-06,Managerial,2,Failed,45.18
+2062,6745,2025-07-10,Technical,1,Passed,88.97
+2063,6747,2025-11-12,Technical,1,Passed,52.27
+2064,6752,2025-03-04,HR,2,Passed,52.22
+2065,6757,2025-05-04,Case Study,3,Failed,80.68
+2066,6758,2025-11-29,Case Study,1,Passed,49.54
+2067,6759,2025-02-03,Technical,3,Passed,40.66
+2068,6764,2025-10-06,Case Study,2,Failed,46.62
+2069,6766,2025-03-10,Case Study,1,Failed,64.09
+2070,6769,2025-02-11,Managerial,2,Passed,92.09
+2071,6773,2025-03-24,HR,1,Passed,78.77
+2072,6775,2025-11-04,Managerial,2,Passed,61.98
+2073,6788,2025-02-19,Managerial,2,Failed,44.96
+2074,6792,2025-07-04,Managerial,3,Failed,94.33
+2075,6796,2025-08-07,Technical,3,Passed,84.05
+2076,6798,2025-06-13,Case Study,1,Passed,55.76
+2077,6807,2025-02-02,Technical,3,Failed,92.68
+2078,6808,2025-06-25,Case Study,1,Failed,87.49
+2079,6809,2025-07-23,Managerial,1,Failed,74.48
+2080,6811,2025-10-02,Case Study,2,Passed,92.2
+2081,6812,2025-01-31,HR,2,Passed,90.57
+2082,6816,2025-11-11,Case Study,3,Failed,91.08
+2083,6818,2025-09-29,Technical,3,Failed,80.03
+2084,6819,2025-08-05,Managerial,2,Passed,47.57
+2085,6821,2025-06-26,HR,3,Passed,71.28
+2086,6827,2025-11-05,Managerial,2,Failed,52.58
+2087,6828,2026-01-03,Managerial,1,Failed,75.62
+2088,6831,2025-03-10,Case Study,1,Failed,94.45
+2089,6834,2026-01-13,Managerial,1,Passed,71.64
+2090,6835,2025-11-16,Technical,1,Passed,99.95
+2091,6837,2025-08-27,Managerial,2,Failed,62.6
+2092,6840,2025-07-02,Managerial,2,Failed,60.06
+2093,6846,2025-03-08,HR,2,Passed,46.24
+2094,6851,2025-09-28,Case Study,2,Passed,63.29
+2095,6852,2025-06-19,Managerial,2,Passed,62.42
+2096,6858,2025-02-16,HR,2,Failed,65.25
+2097,6859,2025-08-07,Case Study,1,Passed,73.06
+2098,6860,2025-12-12,Case Study,3,Failed,85.42
+2099,6862,2025-02-02,Managerial,3,Passed,51.91
+2100,6864,2025-01-20,Managerial,2,Passed,74.35
+2101,6865,2025-02-20,HR,3,Passed,76.67
+2102,6867,2026-01-10,HR,2,Passed,49.08
+2103,6869,2025-04-01,HR,2,Failed,97.57
+2104,6870,2026-01-04,HR,2,Failed,75.46
+2105,6872,2025-07-22,Managerial,3,Passed,75.54
+2106,6873,2025-03-04,Case Study,2,Passed,44.82
+2107,6877,2025-10-07,Managerial,2,Passed,48.68
+2108,6878,2025-08-12,Technical,1,Passed,78.03
+2109,6883,2025-02-10,HR,2,Failed,57.91
+2110,6886,2025-11-09,Managerial,2,Failed,82.47
+2111,6891,2025-11-01,Managerial,3,Failed,52.72
+2112,6900,2025-11-24,Case Study,1,Failed,93.18
+2113,6905,2025-06-16,Managerial,1,Passed,93.06
+2114,6908,2025-03-21,Managerial,2,Passed,45.67
+2115,6913,2025-11-03,HR,3,Passed,52.76
+2116,6914,2025-04-20,Technical,3,Failed,65.76
+2117,6918,2025-03-28,Case Study,2,Passed,70.47
+2118,6919,2025-10-04,Technical,3,Failed,49.42
+2119,6920,2025-08-10,HR,3,Failed,85.42
+2120,6924,2025-07-15,HR,1,Failed,69.06
+2121,6925,2025-04-26,Managerial,1,Passed,70.15
+2122,6927,2025-04-17,Case Study,3,Failed,86.61
+2123,6929,2025-11-12,Technical,2,Passed,51.36
+2124,6930,2025-06-23,HR,2,Passed,90.69
+2125,6931,2025-10-31,Technical,1,Failed,60.33
+2126,6936,2026-01-14,HR,1,Failed,89.64
+2127,6938,2025-05-09,Technical,1,Failed,47.14
+2128,6939,2025-05-15,Case Study,3,Passed,41.74
+2129,6940,2025-08-30,Technical,1,Passed,84.73
+2130,6942,2025-03-12,Managerial,3,Failed,55.18
+2131,6943,2025-12-27,Managerial,1,Passed,94.45
+2132,6944,2025-05-04,Technical,1,Failed,78.93
+2133,6948,2025-09-25,Technical,2,Passed,99.78
+2134,6949,2025-02-06,Managerial,1,Passed,76.96
+2135,6958,2025-05-24,Managerial,2,Passed,46.37
+2136,6959,2025-05-21,Technical,2,Failed,41.97
+2137,6961,2025-04-17,HR,3,Passed,43.44
+2138,6963,2025-10-30,Case Study,3,Passed,82.34
+2139,6964,2025-03-15,HR,3,Passed,88.31
+2140,6966,2025-01-21,Technical,3,Passed,47.26
+2141,6977,2025-09-10,Managerial,1,Failed,52.32
+2142,6981,2025-04-16,HR,1,Failed,71.69
+2143,6988,2025-04-29,Technical,2,Failed,92.61
+2144,6992,2025-03-11,HR,2,Passed,83.18
+2145,6994,2025-07-09,Technical,2,Passed,53.53
+2146,6995,2025-11-11,Technical,3,Failed,70.52
+2147,6999,2025-03-11,Technical,2,Failed,95.21
+2148,7002,2025-04-21,Managerial,3,Passed,67.93
+2149,7006,2025-12-04,Managerial,2,Passed,73.03
+2150,7008,2025-07-21,Case Study,1,Passed,82.59
+2151,7012,2025-02-04,Case Study,1,Passed,82.24
+2152,7014,2025-11-06,Managerial,1,Failed,42.13
+2153,7025,2025-08-07,Managerial,2,Passed,42.04
+2154,7026,2025-01-10,HR,3,Failed,55.66
+2155,7027,2025-08-01,HR,1,Passed,89.45
+2156,7040,2025-05-25,Technical,3,Passed,83.33
+2157,7044,2025-06-30,HR,1,Passed,65.61
+2158,7048,2025-08-08,HR,2,Failed,90.51
+2159,7050,2025-01-20,Managerial,1,Failed,74.3
+2160,7053,2025-01-16,HR,2,Failed,81.09
+2161,7060,2025-08-11,Technical,3,Passed,65.94
+2162,7063,2025-08-17,Technical,1,Failed,74.71
+2163,7065,2025-06-25,HR,1,Passed,46.65
+2164,7073,2025-04-29,HR,2,Passed,83.57
+2165,7077,2026-01-11,HR,3,Passed,85.01
+2166,7080,2025-11-30,Case Study,2,Passed,76.56
+2167,7083,2025-09-26,Technical,2,Passed,57.89
+2168,7085,2025-08-11,Managerial,1,Failed,47.82
+2169,7088,2025-06-30,Technical,2,Passed,68.17
+2170,7090,2025-09-26,Case Study,3,Passed,85.29
+2171,7092,2025-07-23,HR,3,Passed,40.21
+2172,7093,2025-11-05,Managerial,1,Passed,88.87
+2173,7094,2025-12-20,Technical,1,Failed,43.98
+2174,7096,2025-06-12,HR,2,Failed,76.98
+2175,7102,2025-07-04,Case Study,2,Passed,98.23
+2176,7103,2025-10-08,HR,2,Passed,53.87
+2177,7109,2026-01-02,Managerial,3,Failed,82.91
+2178,7110,2025-01-30,Managerial,3,Passed,66.02
+2179,7114,2025-03-14,Technical,2,Failed,65.64
+2180,7117,2025-12-26,HR,2,Passed,66.19
+2181,7120,2025-10-28,Case Study,1,Failed,75.54
+2182,7128,2025-08-03,HR,2,Failed,77.35
+2183,7129,2025-10-03,Case Study,2,Passed,43.16
+2184,7131,2025-03-27,Technical,2,Passed,99.69
+2185,7134,2025-04-20,Case Study,3,Failed,75.06
+2186,7135,2025-12-16,Technical,2,Passed,94.5
+2187,7148,2025-12-01,HR,1,Failed,91.61
+2188,7149,2025-03-20,Technical,2,Failed,50.57
+2189,7158,2025-08-11,Case Study,1,Passed,77.52
+2190,7161,2025-09-12,Managerial,2,Failed,44.71
+2191,7162,2025-09-03,Case Study,3,Passed,58.28
+2192,7167,2025-06-24,Case Study,1,Passed,59.38
+2193,7172,2025-08-22,Case Study,3,Passed,46.75
+2194,7174,2025-06-04,Managerial,2,Failed,83.76
+2195,7182,2025-07-03,Managerial,3,Passed,66.93
+2196,7183,2025-05-21,Case Study,3,Failed,72.47
+2197,7184,2025-03-30,Case Study,3,Passed,76.66
+2198,7186,2025-12-22,Technical,2,Failed,78.34
+2199,7189,2025-07-03,HR,2,Failed,55.36
+2200,7193,2025-12-06,HR,2,Passed,69.11
+2201,7195,2025-12-24,Technical,3,Failed,68.49
+2202,7201,2025-03-23,Managerial,2,Failed,60.42
+2203,7204,2025-09-16,HR,2,Failed,60.93
+2204,7212,2025-09-23,Case Study,3,Failed,65.63
+2205,7213,2025-09-19,Technical,1,Passed,89.07
+2206,7216,2025-07-24,Case Study,2,Passed,93.94
+2207,7225,2025-11-15,HR,1,Failed,92.35
+2208,7231,2025-10-08,Case Study,1,Passed,40.31
+2209,7234,2025-09-22,Managerial,2,Passed,81.61
+2210,7237,2025-04-11,Case Study,2,Passed,60.01
+2211,7238,2025-04-02,Case Study,3,Passed,97.61
+2212,7240,2025-01-24,Technical,3,Passed,78.62
+2213,7242,2025-07-16,HR,3,Passed,43.99
+2214,7246,2025-05-20,Case Study,3,Passed,49.66
+2215,7248,2025-12-04,Managerial,2,Passed,75.07
+2216,7251,2026-01-23,Managerial,3,Failed,87.53
+2217,7261,2025-01-24,Technical,3,Failed,63.09
+2218,7264,2025-08-20,HR,2,Passed,74.79
+2219,7268,2025-03-09,Technical,1,Failed,42.02
+2220,7276,2025-11-15,Technical,2,Passed,43.33
+2221,7277,2025-09-26,Managerial,3,Failed,83.39
+2222,7278,2025-04-18,HR,3,Failed,56.86
+2223,7280,2025-10-10,Managerial,2,Failed,46.38
+2224,7283,2025-07-24,HR,3,Passed,72.4
+2225,7286,2025-11-28,Managerial,1,Passed,79.02
+2226,7291,2025-03-21,Technical,2,Passed,45.8
+2227,7292,2025-06-09,HR,1,Failed,45.61
+2228,7299,2025-05-08,Case Study,1,Failed,91.73
+2229,7301,2025-03-11,HR,1,Failed,61.97
+2230,7303,2025-12-09,Technical,3,Passed,44.64
+2231,7304,2026-01-24,Managerial,3,Passed,99.74
+2232,7305,2025-08-23,HR,3,Passed,77.93
+2233,7309,2025-11-08,HR,3,Failed,75.94
+2234,7310,2025-05-17,Managerial,1,Passed,61.6
+2235,7311,2025-07-16,Case Study,1,Passed,98.76
+2236,7318,2025-06-04,HR,2,Failed,86.36
+2237,7329,2025-03-16,HR,3,Failed,57.12
+2238,7331,2025-12-29,HR,2,Passed,62.51
+2239,7336,2025-10-20,HR,3,Passed,64.38
+2240,7340,2025-03-21,HR,3,Passed,49.72
+2241,7341,2025-03-29,Case Study,1,Passed,76.84
+2242,7345,2025-10-07,Technical,3,Passed,41.61
+2243,7353,2025-05-13,Case Study,3,Passed,80.18
+2244,7358,2025-09-11,HR,3,Passed,82.32
+2245,7361,2025-07-22,Case Study,3,Passed,96.2
+2246,7362,2025-09-11,Technical,3,Passed,88.51
+2247,7364,2025-09-19,Managerial,3,Passed,83.44
+2248,7368,2025-06-08,Case Study,1,Passed,95.43
+2249,7370,2025-07-18,HR,3,Passed,96.67
+2250,7372,2025-06-08,HR,2,Failed,85.35
+2251,7374,2025-08-16,Case Study,1,Failed,76.93
+2252,7379,2025-10-16,HR,3,Passed,61.05
+2253,7387,2025-01-15,Managerial,3,Failed,98.27
+2254,7398,2025-02-13,Technical,2,Failed,43.52
+2255,7402,2025-11-27,Case Study,2,Passed,78.02
+2256,7404,2025-11-13,Technical,1,Failed,67.24
+2257,7406,2025-10-10,Technical,3,Passed,69.59
+2258,7407,2025-12-11,Managerial,2,Failed,70.41
+2259,7410,2025-04-21,Technical,3,Failed,64.77
+2260,7411,2025-03-01,HR,3,Failed,43.44
+2261,7412,2025-04-11,Managerial,1,Passed,66.05
+2262,7413,2025-03-04,Technical,2,Passed,44.97
+2263,7414,2025-08-26,Technical,1,Failed,59.48
+2264,7415,2025-06-10,HR,2,Passed,99.6
+2265,7418,2025-08-15,HR,1,Failed,89.49
+2266,7421,2025-02-26,Technical,1,Failed,88.6
+2267,7423,2025-03-08,Technical,1,Passed,62.42
+2268,7425,2025-10-29,Technical,3,Passed,49.41
+2269,7426,2025-02-17,HR,2,Passed,79.48
+2270,7432,2026-01-17,Managerial,1,Passed,48.15
+2271,7447,2025-09-06,Managerial,2,Passed,40.98
+2272,7455,2025-02-27,Technical,1,Failed,98.04
+2273,7456,2025-05-08,Technical,2,Passed,40.43
+2274,7460,2025-03-11,Technical,3,Passed,94.82
+2275,7461,2025-09-05,Technical,2,Failed,64.66
+2276,7463,2025-05-03,Technical,3,Failed,54.21
+2277,7474,2025-12-28,Case Study,3,Failed,57.73
+2278,7475,2025-06-20,Managerial,2,Passed,99.65
+2279,7481,2025-05-23,Technical,1,Passed,71.99
+2280,7487,2025-09-21,Technical,2,Passed,52.11
+2281,7490,2025-01-25,Managerial,3,Passed,78.54
+2282,7494,2025-08-24,Case Study,1,Failed,65.1
+2283,7497,2025-09-02,Technical,1,Passed,65.33
+2284,7498,2025-06-02,HR,1,Passed,75.07
+2285,7500,2025-12-12,Technical,1,Passed,70.67
+2286,7501,2025-04-22,Technical,1,Passed,68.97
+2287,7508,2025-07-25,HR,1,Failed,45.58
+2288,7512,2025-11-05,HR,2,Passed,53.08
+2289,7513,2025-07-07,HR,2,Passed,80.8
+2290,7525,2025-06-12,Technical,1,Passed,55.78
+2291,7526,2025-10-02,HR,1,Failed,42.35
+2292,7527,2025-04-12,Managerial,3,Passed,59.15
+2293,7529,2025-02-03,Case Study,1,Passed,64.12
+2294,7530,2025-04-24,HR,3,Passed,73.39
+2295,7531,2025-07-24,Case Study,3,Failed,80.93
+2296,7543,2025-02-21,Case Study,2,Failed,54.4
+2297,7544,2025-08-22,HR,3,Passed,83.74
+2298,7550,2025-01-29,Managerial,2,Passed,96.07
+2299,7552,2025-03-08,Technical,2,Failed,49.11
+2300,7553,2025-12-06,Managerial,3,Failed,84.63
+2301,7556,2025-04-13,HR,3,Failed,74.33
+2302,7560,2025-12-09,Case Study,2,Failed,68.02
+2303,7562,2025-06-30,Technical,1,Passed,64.67
+2304,7564,2025-02-01,HR,1,Failed,47.47
+2305,7573,2025-10-18,HR,2,Failed,57.55
+2306,7579,2025-07-02,Case Study,3,Passed,79.01
+2307,7580,2025-07-23,Managerial,2,Failed,52.42
+2308,7583,2025-01-20,Managerial,1,Passed,55.44
+2309,7586,2025-11-12,HR,2,Passed,58.2
+2310,7594,2025-12-21,Managerial,2,Passed,57.5
+2311,7599,2025-12-19,Managerial,2,Failed,68.78
+2312,7611,2025-06-04,Case Study,2,Passed,89.61
+2313,7620,2025-01-28,Case Study,2,Passed,98.71
+2314,7628,2025-11-18,HR,3,Passed,90.77
+2315,7635,2025-11-11,Case Study,2,Failed,59.41
+2316,7639,2025-03-31,HR,1,Passed,55.43
+2317,7644,2025-05-31,Technical,1,Passed,68.46
+2318,7646,2025-02-21,Managerial,2,Passed,85.96
+2319,7647,2025-12-28,Case Study,1,Passed,86.41
+2320,7648,2026-01-03,HR,3,Passed,59.89
+2321,7649,2025-02-20,Technical,2,Failed,60.74
+2322,7650,2025-07-25,Case Study,2,Failed,92.83
+2323,7671,2025-05-11,Technical,2,Passed,51.57
+2324,7676,2025-01-17,Technical,1,Passed,66.41
+2325,7684,2025-08-08,HR,2,Passed,47.82
+2326,7686,2025-05-06,Case Study,2,Passed,80.89
+2327,7688,2025-02-09,Technical,1,Passed,74.61
+2328,7689,2025-06-22,Technical,2,Failed,41.53
+2329,7691,2025-07-26,HR,1,Passed,91.2
+2330,7694,2025-07-02,Case Study,2,Failed,49.65
+2331,7700,2025-10-10,Technical,1,Failed,42.43
+2332,7702,2025-11-13,HR,2,Passed,69.43
+2333,7706,2025-07-12,Technical,2,Passed,83.95
+2334,7708,2025-12-31,HR,2,Failed,47.05
+2335,7710,2025-07-14,Technical,2,Passed,87.96
+2336,7711,2025-04-25,Managerial,3,Passed,42.93
+2337,7716,2025-06-19,Managerial,3,Passed,93.11
+2338,7718,2025-04-13,Technical,2,Passed,81.66
+2339,7725,2025-06-28,Technical,3,Passed,53.31
+2340,7729,2025-11-28,Technical,2,Failed,78.19
+2341,7731,2025-07-24,Technical,3,Passed,76.82
+2342,7732,2025-01-30,Managerial,1,Passed,85.36
+2343,7740,2025-07-24,Technical,3,Failed,41.41
+2344,7742,2025-09-15,Case Study,2,Passed,74.61
+2345,7747,2025-06-05,HR,1,Failed,90.22
+2346,7749,2025-10-18,HR,2,Passed,53.46
+2347,7754,2025-05-19,Technical,1,Passed,46.14
+2348,7756,2025-10-29,Case Study,3,Failed,54.34
+2349,7763,2025-11-09,HR,3,Passed,41.96
+2350,7765,2025-09-30,Technical,2,Passed,90.21
+2351,7767,2025-04-14,Managerial,1,Failed,92.58
+2352,7775,2025-09-21,HR,3,Passed,68.47
+2353,7777,2025-01-26,Managerial,1,Passed,93.86
+2354,7781,2025-06-27,HR,1,Passed,53.14
+2355,7783,2025-08-06,Technical,3,Passed,50.01
+2356,7784,2025-06-13,Managerial,2,Passed,95.69
+2357,7786,2025-06-28,Technical,2,Failed,69.93
+2358,7791,2025-11-28,Technical,2,Failed,53.06
+2359,7793,2025-12-10,Technical,2,Passed,82.12
+2360,7795,2026-01-10,Managerial,3,Passed,68.7
+2361,7799,2025-05-20,Technical,2,Failed,64.47
+2362,7805,2025-06-22,HR,1,Passed,62.62
+2363,7808,2025-11-07,Technical,3,Passed,75.01
+2364,7812,2025-06-14,HR,2,Passed,85.04
+2365,7815,2025-05-06,Case Study,2,Failed,59.86
+2366,7821,2025-09-20,Managerial,1,Passed,52.58
+2367,7824,2025-03-09,Technical,1,Passed,41.08
+2368,7831,2025-06-19,Case Study,2,Passed,59.47
+2369,7836,2025-03-20,Technical,3,Failed,71.47
+2370,7840,2025-12-05,HR,3,Passed,43.92
+2371,7841,2025-02-23,Case Study,3,Failed,46.47
+2372,7842,2025-06-08,Managerial,1,Passed,98.14
+2373,7844,2025-12-26,Technical,3,Passed,50.29
+2374,7845,2025-10-17,HR,1,Passed,80.09
+2375,7856,2025-03-06,HR,2,Passed,94.09
+2376,7857,2025-12-24,Case Study,1,Passed,79.23
+2377,7861,2025-06-24,Technical,2,Passed,48.44
+2378,7862,2025-12-07,Technical,1,Failed,73.48
+2379,7864,2025-03-25,Case Study,2,Failed,70.68
+2380,7867,2025-05-09,Managerial,1,Passed,49.36
+2381,7870,2025-09-01,HR,3,Failed,62.76
+2382,7871,2025-11-25,Technical,1,Failed,73.71
+2383,7873,2025-04-19,Case Study,1,Failed,68.11
+2384,7885,2025-07-26,Managerial,3,Passed,57.22
+2385,7886,2025-04-09,Technical,2,Failed,48.54
+2386,7893,2025-11-21,HR,2,Passed,94.4
+2387,7894,2025-08-08,Case Study,1,Failed,45.6
+2388,7897,2025-08-05,Technical,1,Passed,59.62
+2389,7898,2025-11-30,HR,1,Failed,95.2
+2390,7899,2025-06-21,HR,2,Passed,47.61
+2391,7903,2025-10-13,Technical,3,Passed,64.99
+2392,7905,2025-06-13,Managerial,3,Passed,85.53
+2393,7910,2025-09-14,Managerial,2,Failed,91.05
+2394,7913,2025-08-05,Technical,1,Failed,79.92
+2395,7914,2025-01-25,Managerial,2,Failed,88.1
+2396,7919,2025-05-13,Managerial,2,Passed,90.39
+2397,7920,2025-05-27,HR,2,Passed,56.11
+2398,7921,2025-09-21,HR,3,Failed,73.13
+2399,7924,2025-04-21,Technical,3,Failed,70.55
+2400,7925,2025-02-07,Technical,3,Failed,79.26
+2401,7929,2025-06-13,HR,2,Passed,97.91
+2402,7931,2025-07-23,Managerial,1,Passed,99.14
+2403,7933,2025-10-08,Case Study,2,Failed,72.68
+2404,7934,2025-09-13,Technical,2,Passed,54.76
+2405,7936,2025-11-04,HR,3,Passed,44.23
+2406,7955,2025-12-24,Technical,2,Passed,82.21
+2407,7956,2025-11-01,Technical,1,Failed,72.48
+2408,7960,2025-07-11,Managerial,3,Failed,73.21
+2409,7974,2025-02-18,HR,1,Failed,91.01
+2410,7979,2025-05-13,Case Study,2,Passed,93.91
+2411,7983,2026-01-10,Managerial,1,Passed,47.13
+2412,7987,2025-12-29,Case Study,1,Failed,75.59
+2413,7988,2025-06-25,Case Study,1,Passed,46.39
+2414,7993,2025-04-22,Technical,3,Failed,55.54
+2415,7996,2025-04-13,Case Study,2,Passed,51.77
+2416,7997,2025-01-31,Case Study,2,Passed,78.37
+2417,7998,2025-02-21,Managerial,3,Failed,61.01
+2418,7999,2025-05-16,Technical,2,Passed,46.23
+2419,8000,2025-11-05,Managerial,1,Passed,45.86
+2420,8004,2025-10-11,Case Study,2,Failed,98.29
+2421,8008,2025-08-09,Technical,2,Passed,67.48
+2422,8009,2025-04-27,Managerial,3,Failed,64.16
+2423,8010,2025-12-22,Case Study,1,Passed,67.08
+2424,8014,2025-05-25,Case Study,1,Passed,54.17
+2425,8016,2025-12-10,Technical,3,Failed,74.27
+2426,8017,2025-09-25,Case Study,3,Failed,92.81
+2427,8019,2025-10-01,Case Study,1,Failed,85.98
+2428,8022,2025-03-26,HR,2,Failed,79.85
+2429,8027,2025-09-28,Case Study,1,Passed,43.8
+2430,8033,2025-07-10,HR,1,Passed,75.52
+2431,8035,2025-06-19,HR,3,Failed,42.78
+2432,8040,2025-06-10,HR,1,Passed,63.32
+2433,8041,2025-10-27,Case Study,3,Passed,59.33
+2434,8042,2025-09-05,HR,1,Passed,68.61
+2435,8043,2025-08-15,Technical,1,Failed,63.34
+2436,8044,2025-12-05,Case Study,1,Failed,92.53
+2437,8045,2025-02-02,Technical,3,Passed,61.49
+2438,8055,2025-05-01,Case Study,3,Failed,90.38
+2439,8056,2025-10-06,Case Study,2,Passed,46.4
+2440,8058,2025-03-18,HR,1,Passed,95.17
+2441,8065,2025-09-05,Managerial,3,Passed,92.64
+2442,8069,2025-12-14,Technical,3,Passed,76.63
+2443,8071,2025-09-24,Managerial,2,Passed,40.67
+2444,8073,2025-03-13,Managerial,2,Passed,87.37
+2445,8076,2025-06-20,Case Study,3,Failed,51.99
+2446,8078,2025-11-13,Managerial,2,Passed,53.15
+2447,8079,2025-10-20,Managerial,1,Passed,63.71
+2448,8085,2025-10-02,Case Study,2,Passed,66.82
+2449,8088,2025-09-23,Managerial,3,Passed,61.48
+2450,8090,2025-02-11,HR,3,Passed,74.71
+2451,8093,2025-11-14,HR,1,Failed,44.34
+2452,8094,2026-01-05,Case Study,1,Passed,78.28
+2453,8095,2025-10-27,Managerial,2,Passed,68.52
+2454,8097,2025-05-17,HR,1,Passed,55.81
+2455,8098,2025-03-27,Managerial,3,Failed,51.07
+2456,8108,2025-04-29,Technical,3,Passed,74.07
+2457,8109,2025-10-05,Case Study,2,Passed,98.45
+2458,8111,2026-01-03,Case Study,1,Passed,86.61
+2459,8112,2025-03-24,Technical,3,Passed,61.55
+2460,8113,2025-06-23,HR,1,Passed,94.58
+2461,8114,2025-09-08,Managerial,3,Failed,52.45
+2462,8116,2025-11-03,HR,2,Passed,50.73
+2463,8118,2025-04-28,HR,3,Passed,83.11
+2464,8121,2025-11-29,HR,2,Failed,99.6
+2465,8122,2025-09-16,HR,3,Passed,77.85
+2466,8125,2025-04-30,Technical,2,Failed,52.5
+2467,8131,2025-04-06,Technical,3,Failed,42.04
+2468,8134,2025-03-03,Technical,1,Failed,42.07
+2469,8135,2025-11-05,Managerial,2,Passed,97.69
+2470,8136,2025-03-13,Case Study,3,Passed,97.31
+2471,8148,2025-09-07,Managerial,1,Passed,61.75
+2472,8150,2025-11-12,Technical,3,Passed,83.89
+2473,8151,2025-12-20,Managerial,2,Passed,79.54
+2474,8158,2025-06-25,Case Study,3,Passed,71.01
+2475,8161,2025-05-05,Managerial,2,Passed,90.61
+2476,8163,2025-05-18,Managerial,1,Passed,58.64
+2477,8166,2025-08-15,HR,2,Passed,50.78
+2478,8167,2025-04-29,Case Study,2,Failed,84.36
+2479,8169,2025-03-02,Technical,2,Failed,56.12
+2480,8172,2025-06-11,HR,1,Passed,85.49
+2481,8173,2026-01-12,Case Study,2,Passed,57.23
+2482,8174,2025-03-16,Technical,3,Failed,55.33
+2483,8175,2025-02-13,Managerial,2,Passed,74.26
+2484,8176,2025-10-24,Managerial,1,Passed,42.01
+2485,8178,2025-09-27,Technical,3,Passed,59.78
+2486,8180,2026-01-13,HR,2,Failed,86.39
+2487,8181,2025-04-05,Case Study,2,Passed,77.22
+2488,8183,2025-09-04,Managerial,2,Passed,73.9
+2489,8186,2025-11-01,Technical,2,Passed,75.32
+2490,8197,2025-07-27,Technical,2,Passed,84.25
+2491,8199,2025-10-27,Managerial,3,Passed,72.91
+2492,8201,2025-10-23,HR,1,Failed,83.51
+2493,8214,2025-11-24,Technical,3,Failed,47.1
+2494,8216,2025-12-09,Managerial,2,Failed,90.63
+2495,8217,2025-10-30,Technical,1,Passed,51.03
+2496,8221,2025-02-17,Case Study,1,Passed,72.58
+2497,8222,2025-10-10,Technical,2,Failed,56.67
+2498,8224,2025-06-01,HR,2,Passed,73.82
+2499,8226,2025-03-11,Case Study,1,Failed,61.15
+2500,8230,2025-02-16,Managerial,1,Failed,51.71
+2501,8231,2025-03-04,Technical,1,Failed,84.64
+2502,8233,2025-04-29,Case Study,3,Passed,87.43
+2503,8241,2025-01-26,Managerial,1,Failed,81.06
+2504,8243,2025-11-16,HR,1,Passed,44.36
+2505,8253,2025-07-21,Managerial,2,Passed,84.91
+2506,8256,2025-09-27,Managerial,2,Passed,40.17
+2507,8259,2025-10-15,Case Study,1,Passed,71.28
+2508,8262,2025-07-05,HR,3,Passed,52.88
+2509,8265,2025-05-15,Case Study,3,Passed,89.81
+2510,8270,2025-03-14,HR,3,Passed,73.21
+2511,8278,2025-02-21,Managerial,3,Passed,99.75
+2512,8279,2025-02-28,HR,2,Passed,44.37
+2513,8280,2025-05-19,Case Study,1,Failed,85.07
+2514,8286,2025-08-13,HR,1,Passed,72.51
+2515,8293,2026-01-19,Case Study,1,Failed,40.84
+2516,8295,2025-06-29,Managerial,3,Failed,72.46
+2517,8299,2025-07-23,Case Study,3,Failed,77.53
+2518,8302,2025-12-22,Technical,1,Passed,92.03
+2519,8304,2025-04-03,Case Study,1,Passed,79.67
+2520,8305,2025-09-20,Managerial,2,Failed,41.96
+2521,8306,2025-06-08,HR,3,Passed,89.31
+2522,8309,2025-07-24,Managerial,3,Passed,93.06
+2523,8312,2025-02-18,Case Study,3,Passed,86.05
+2524,8317,2025-02-12,HR,3,Failed,74.11
+2525,8324,2025-01-09,Technical,3,Passed,74.01
+2526,8327,2025-11-16,HR,3,Failed,93.67
+2527,8330,2025-05-24,Technical,1,Failed,89.92
+2528,8333,2025-09-12,Managerial,1,Failed,85.97
+2529,8337,2025-08-12,HR,3,Failed,60.13
+2530,8346,2025-07-13,Case Study,3,Passed,95.37
+2531,8347,2025-11-29,Case Study,3,Passed,56.22
+2532,8353,2025-04-03,Technical,2,Passed,80.91
+2533,8362,2025-12-20,HR,1,Passed,61.22
+2534,8364,2025-08-18,HR,2,Passed,52.13
+2535,8365,2025-03-10,Case Study,3,Failed,48.55
+2536,8366,2025-02-08,Case Study,2,Passed,83.04
+2537,8367,2025-10-15,HR,1,Failed,40.89
+2538,8370,2025-06-07,Case Study,2,Failed,73.16
+2539,8372,2025-10-05,HR,1,Failed,97.44
+2540,8374,2025-02-26,Technical,1,Failed,43.18
+2541,8375,2025-02-15,Managerial,2,Failed,49.93
+2542,8378,2025-09-09,HR,3,Passed,53.29
+2543,8379,2025-10-10,Case Study,1,Passed,54.48
+2544,8386,2026-01-22,Managerial,3,Passed,74.64
+2545,8390,2025-10-19,Case Study,2,Passed,76.35
+2546,8392,2025-11-21,Case Study,3,Failed,44.29
+2547,8396,2025-11-30,Case Study,1,Passed,61.98
+2548,8399,2025-05-06,HR,2,Passed,81.98
+2549,8406,2025-12-18,HR,1,Passed,79.2
+2550,8409,2025-09-14,Technical,3,Passed,74.89
+2551,8410,2025-11-21,Technical,2,Passed,83.7
+2552,8417,2025-03-07,HR,2,Failed,93.45
+2553,8420,2025-07-18,Technical,1,Passed,40.81
+2554,8421,2025-09-19,Technical,3,Passed,98.06
+2555,8422,2025-05-18,HR,3,Passed,92.04
+2556,8423,2025-03-09,HR,1,Failed,42.61
+2557,8428,2025-05-23,Technical,2,Failed,41.2
+2558,8432,2025-02-01,Technical,2,Passed,96.58
+2559,8434,2025-04-01,Case Study,3,Failed,70.61
+2560,8438,2025-05-23,Technical,3,Failed,96.51
+2561,8440,2025-06-26,Case Study,2,Passed,82.3
+2562,8442,2025-10-12,Technical,3,Passed,61.5
+2563,8449,2025-06-18,HR,2,Passed,55.92
+2564,8453,2025-02-21,HR,1,Failed,82.38
+2565,8454,2025-10-01,Technical,2,Passed,52.02
+2566,8455,2025-09-30,Managerial,1,Passed,62.35
+2567,8459,2025-12-20,Managerial,2,Passed,65.99
+2568,8462,2026-01-04,Technical,3,Passed,62.68
+2569,8467,2025-04-22,Managerial,1,Failed,95.74
+2570,8468,2025-06-04,Case Study,1,Passed,54.88
+2571,8474,2025-02-01,Case Study,1,Passed,43.4
+2572,8478,2025-01-19,HR,2,Passed,70.87
+2573,8482,2025-03-09,HR,1,Failed,40.55
+2574,8487,2025-12-21,Technical,3,Passed,77.05
+2575,8496,2025-02-01,Managerial,1,Passed,71.0
+2576,8497,2025-03-24,HR,2,Passed,79.43
+2577,8498,2025-12-21,Managerial,1,Failed,43.43
+2578,8501,2025-10-18,Technical,2,Passed,62.05
+2579,8502,2026-01-13,HR,2,Passed,71.05
+2580,8505,2025-10-19,Case Study,1,Failed,76.34
+2581,8507,2025-02-17,Technical,3,Passed,78.29
+2582,8514,2025-04-07,Case Study,2,Failed,89.81
+2583,8515,2025-02-14,Case Study,3,Passed,71.75
+2584,8519,2025-08-02,Managerial,1,Passed,65.05
+2585,8523,2025-11-21,Case Study,3,Failed,98.36
+2586,8526,2025-06-07,Case Study,1,Failed,62.99
+2587,8529,2025-06-02,Case Study,3,Passed,71.26
+2588,8530,2025-06-16,Case Study,3,Passed,47.07
+2589,8534,2025-01-24,Managerial,3,Passed,46.0
+2590,8537,2025-07-03,Managerial,3,Passed,52.69
+2591,8541,2025-08-09,Technical,1,Passed,61.01
+2592,8542,2025-09-01,HR,2,Passed,95.04
+2593,8545,2025-12-10,Technical,1,Failed,88.24
+2594,8546,2025-09-26,Managerial,3,Failed,51.56
+2595,8553,2025-06-16,Case Study,1,Passed,41.77
+2596,8555,2025-09-18,Technical,2,Failed,79.79
+2597,8556,2025-05-07,Case Study,2,Passed,93.16
+2598,8566,2026-01-11,Case Study,1,Failed,59.19
+2599,8572,2025-04-13,Technical,3,Passed,49.67
+2600,8575,2025-09-02,Technical,3,Failed,46.54
+2601,8577,2025-09-03,Technical,1,Passed,59.66
+2602,8590,2025-03-06,Technical,1,Passed,57.35
+2603,8592,2025-03-27,Technical,3,Passed,99.09
+2604,8594,2025-12-28,Managerial,1,Passed,90.92
+2605,8599,2025-08-01,HR,1,Failed,86.38
+2606,8600,2025-04-18,HR,2,Passed,53.41
+2607,8603,2025-04-29,Technical,1,Passed,40.91
+2608,8607,2025-10-12,Case Study,2,Passed,56.84
+2609,8608,2025-03-09,Technical,2,Passed,75.74
+2610,8610,2025-07-29,Technical,3,Passed,44.91
+2611,8613,2025-06-30,HR,3,Passed,80.29
+2612,8617,2025-06-08,Case Study,1,Passed,64.56
+2613,8620,2025-09-10,Managerial,2,Passed,53.41
+2614,8623,2025-03-27,HR,2,Failed,78.14
+2615,8626,2025-05-29,Case Study,3,Passed,53.16
+2616,8627,2025-04-23,Technical,1,Passed,45.98
+2617,8630,2025-04-15,Managerial,1,Failed,78.44
+2618,8631,2025-10-20,Managerial,2,Passed,71.45
+2619,8636,2025-10-16,HR,3,Failed,50.78
+2620,8637,2025-07-09,Technical,3,Passed,59.65
+2621,8651,2025-01-29,Managerial,1,Failed,52.58
+2622,8652,2025-08-07,Case Study,3,Failed,82.25
+2623,8653,2025-03-15,Case Study,1,Failed,80.71
+2624,8657,2025-12-09,HR,2,Failed,75.38
+2625,8663,2025-04-06,Technical,2,Passed,98.34
+2626,8664,2025-11-27,Technical,3,Failed,49.48
+2627,8665,2025-10-12,Technical,3,Failed,50.1
+2628,8668,2025-12-02,HR,2,Failed,59.01
+2629,8670,2025-05-10,Managerial,1,Failed,53.51
+2630,8673,2025-12-18,Technical,2,Passed,56.0
+2631,8682,2025-09-04,Managerial,2,Passed,51.06
+2632,8683,2025-01-15,HR,1,Failed,67.51
+2633,8686,2025-05-14,Managerial,3,Passed,87.69
+2634,8690,2025-09-23,HR,2,Passed,60.38
+2635,8692,2025-05-12,Technical,1,Failed,64.01
+2636,8693,2025-02-13,Managerial,1,Passed,90.93
+2637,8697,2025-02-18,Case Study,1,Passed,71.17
+2638,8711,2025-11-16,Case Study,2,Passed,68.83
+2639,8714,2025-07-16,HR,2,Failed,51.02
+2640,8717,2025-08-22,Case Study,1,Failed,90.04
+2641,8718,2025-02-07,Case Study,2,Failed,84.44
+2642,8719,2025-03-15,Case Study,2,Passed,44.17
+2643,8726,2025-03-31,Case Study,1,Failed,93.65
+2644,8727,2025-05-22,Managerial,3,Passed,82.15
+2645,8729,2025-01-22,Technical,1,Passed,43.77
+2646,8740,2025-03-19,Technical,1,Failed,66.1
+2647,8742,2025-10-24,HR,1,Passed,89.84
+2648,8743,2025-08-01,Case Study,1,Passed,71.39
+2649,8746,2025-04-20,Managerial,2,Passed,49.53
+2650,8753,2025-09-02,Technical,3,Failed,48.65
+2651,8757,2025-08-17,Case Study,1,Passed,74.13
+2652,8758,2025-03-07,Technical,2,Failed,96.05
+2653,8762,2025-09-11,Managerial,2,Failed,95.96
+2654,8763,2025-04-12,HR,3,Failed,51.04
+2655,8764,2025-02-18,Technical,2,Failed,48.39
+2656,8765,2025-09-05,Case Study,1,Passed,75.81
+2657,8766,2025-03-08,HR,2,Passed,52.26
+2658,8774,2025-06-24,Technical,2,Failed,79.35
+2659,8776,2025-07-20,HR,2,Failed,72.41
+2660,8777,2025-11-03,Case Study,3,Passed,86.37
+2661,8779,2026-01-14,Technical,2,Passed,74.38
+2662,8781,2025-02-15,Technical,3,Failed,66.88
+2663,8782,2025-04-12,Case Study,2,Passed,45.83
+2664,8792,2025-05-06,HR,2,Passed,77.2
+2665,8796,2025-09-27,Case Study,1,Passed,80.27
+2666,8797,2025-06-03,Managerial,2,Passed,51.99
+2667,8798,2025-09-18,HR,1,Failed,95.18
+2668,8800,2025-07-05,Technical,3,Passed,94.28
+2669,8801,2025-04-09,Case Study,2,Passed,74.87
+2670,8807,2025-05-08,Case Study,1,Failed,94.06
+2671,8808,2025-02-01,Case Study,3,Passed,52.93
+2672,8809,2025-08-25,HR,3,Passed,42.04
+2673,8811,2025-02-21,Managerial,3,Failed,90.71
+2674,8812,2025-11-14,Managerial,3,Passed,83.28
+2675,8818,2025-08-18,HR,1,Passed,68.28
+2676,8821,2025-05-17,Managerial,3,Failed,79.62
+2677,8822,2025-09-28,Technical,1,Failed,82.28
+2678,8825,2025-05-03,Case Study,1,Passed,59.25
+2679,8826,2025-05-21,Technical,3,Passed,93.7
+2680,8832,2025-12-10,Technical,1,Passed,94.75
+2681,8834,2025-10-19,Managerial,1,Failed,59.29
+2682,8836,2025-12-27,Managerial,2,Failed,44.9
+2683,8837,2025-09-03,Technical,1,Passed,74.9
+2684,8839,2025-09-04,Case Study,1,Passed,51.27
+2685,8847,2025-05-23,Case Study,1,Passed,43.73
+2686,8851,2025-09-29,Technical,1,Failed,72.79
+2687,8857,2025-04-13,Managerial,1,Passed,96.59
+2688,8861,2025-10-28,Case Study,2,Failed,97.28
+2689,8871,2025-10-17,Technical,2,Failed,55.6
+2690,8874,2025-08-18,HR,1,Passed,79.7
+2691,8877,2025-05-23,Technical,2,Passed,45.14
+2692,8878,2025-10-03,Technical,1,Failed,97.7
+2693,8881,2025-01-27,Technical,1,Failed,91.94
+2694,8888,2025-08-18,HR,3,Failed,87.83
+2695,8892,2025-05-01,HR,3,Passed,83.2
+2696,8893,2025-11-03,Case Study,3,Failed,73.45
+2697,8896,2025-09-25,Case Study,2,Passed,94.35
+2698,8897,2026-01-03,Technical,3,Failed,77.86
+2699,8900,2025-06-09,Technical,2,Passed,63.94
+2700,8908,2025-04-15,Technical,3,Passed,88.03
+2701,8911,2025-05-01,Managerial,2,Passed,80.6
+2702,8914,2025-06-30,Managerial,1,Passed,69.41
+2703,8918,2025-04-28,HR,3,Failed,85.75
+2704,8923,2025-12-30,Managerial,1,Failed,75.29
+2705,8924,2025-06-17,Technical,3,Failed,65.47
+2706,8926,2025-12-13,Case Study,2,Passed,91.17
+2707,8939,2025-12-01,Case Study,1,Failed,77.85
+2708,8940,2026-01-24,Technical,2,Passed,72.49
+2709,8941,2025-09-17,Managerial,1,Failed,63.34
+2710,8943,2025-12-11,HR,2,Failed,44.31
+2711,8945,2025-08-16,Technical,3,Failed,46.19
+2712,8949,2025-03-08,HR,3,Passed,43.59
+2713,8950,2025-01-08,Case Study,2,Passed,47.38
+2714,8951,2025-05-25,Managerial,2,Passed,41.24
+2715,8953,2025-09-10,HR,2,Failed,61.87
+2716,8955,2025-05-31,Case Study,3,Failed,56.44
+2717,8960,2025-05-27,HR,2,Passed,59.97
+2718,8970,2025-05-07,Managerial,2,Failed,71.69
+2719,8971,2025-05-25,Managerial,1,Failed,59.1
+2720,8972,2025-09-18,Technical,3,Passed,66.55
+2721,8975,2025-02-10,HR,3,Passed,68.84
+2722,8979,2025-11-03,HR,3,Passed,98.21
+2723,8984,2025-07-02,Managerial,3,Passed,74.03
+2724,8991,2025-03-31,Case Study,1,Passed,87.98
+2725,8994,2025-03-02,Case Study,1,Passed,72.5
+2726,8998,2025-05-30,Technical,1,Passed,85.31
+2727,9006,2025-12-25,Technical,3,Passed,99.35
+2728,9009,2025-03-06,Case Study,3,Passed,79.87
+2729,9010,2025-12-24,Managerial,1,Failed,78.46
+2730,9015,2025-08-25,HR,2,Passed,94.32
+2731,9017,2025-10-22,HR,3,Passed,48.17
+2732,9019,2025-04-30,Managerial,1,Failed,45.45
+2733,9021,2025-06-12,HR,2,Passed,70.11
+2734,9022,2025-10-31,Case Study,3,Passed,59.42
+2735,9025,2025-04-04,Case Study,2,Failed,68.28
+2736,9026,2025-04-19,Technical,3,Failed,75.04
+2737,9028,2025-04-04,Technical,2,Passed,83.84
+2738,9031,2025-11-16,Case Study,3,Passed,65.01
+2739,9034,2025-08-04,HR,2,Passed,70.23
+2740,9041,2026-01-18,Technical,3,Failed,90.25
+2741,9042,2025-08-28,HR,1,Failed,65.59
+2742,9043,2025-05-30,HR,1,Passed,98.28
+2743,9045,2025-02-13,Case Study,2,Passed,48.36
+2744,9050,2025-03-19,Managerial,3,Passed,43.76
+2745,9052,2025-12-15,HR,1,Failed,71.54
+2746,9054,2025-07-30,Case Study,1,Failed,50.91
+2747,9057,2026-01-01,Technical,3,Passed,59.39
+2748,9058,2025-04-03,HR,3,Passed,79.36
+2749,9059,2025-10-26,Managerial,1,Failed,71.11
+2750,9062,2025-09-23,Case Study,3,Passed,60.14
+2751,9064,2025-12-03,HR,1,Passed,71.89
+2752,9072,2025-03-24,Managerial,2,Passed,40.28
+2753,9076,2025-05-07,Managerial,2,Passed,73.42
+2754,9077,2025-02-20,Technical,3,Failed,43.44
+2755,9078,2025-10-25,Managerial,1,Failed,99.59
+2756,9081,2025-04-28,HR,1,Passed,99.44
+2757,9085,2025-04-10,Case Study,1,Passed,48.42
+2758,9089,2025-03-07,Technical,1,Failed,71.34
+2759,9093,2025-02-16,Managerial,1,Failed,69.37
+2760,9096,2025-05-31,Technical,2,Failed,67.68
+2761,9097,2025-11-07,HR,2,Failed,73.12
+2762,9105,2025-03-18,Technical,3,Passed,76.24
+2763,9109,2025-02-10,HR,2,Passed,77.43
+2764,9112,2025-08-06,Technical,3,Failed,70.11
+2765,9116,2025-05-17,Case Study,3,Passed,51.17
+2766,9119,2025-11-09,Case Study,2,Passed,92.71
+2767,9122,2025-12-25,Managerial,2,Passed,66.19
+2768,9124,2025-01-07,Case Study,1,Passed,99.84
+2769,9130,2025-01-13,Technical,3,Failed,59.14
+2770,9131,2025-12-31,HR,2,Failed,60.98
+2771,9134,2025-09-16,Managerial,3,Passed,82.04
+2772,9137,2025-02-20,Managerial,1,Passed,44.81
+2773,9140,2025-05-26,Technical,1,Failed,53.3
+2774,9149,2025-11-22,Case Study,2,Failed,72.82
+2775,9152,2025-05-20,Case Study,2,Failed,57.99
+2776,9154,2025-05-09,HR,3,Failed,76.86
+2777,9159,2025-07-12,Managerial,2,Failed,99.27
+2778,9162,2025-05-05,Case Study,2,Passed,84.75
+2779,9163,2025-02-22,Case Study,3,Passed,53.98
+2780,9164,2025-12-24,Technical,1,Failed,45.13
+2781,9169,2025-04-05,Managerial,3,Failed,59.8
+2782,9170,2025-11-26,Technical,2,Passed,43.28
+2783,9171,2025-06-13,Case Study,2,Passed,48.88
+2784,9172,2025-02-01,Case Study,2,Failed,78.51
+2785,9175,2025-02-09,HR,1,Passed,57.37
+2786,9176,2025-03-28,Case Study,3,Passed,93.65
+2787,9178,2025-03-27,HR,2,Passed,91.83
+2788,9179,2025-10-18,Technical,3,Passed,84.17
+2789,9194,2025-02-24,Managerial,2,Passed,82.64
+2790,9200,2025-10-05,HR,2,Passed,81.07
+2791,9201,2025-07-13,HR,1,Passed,95.24
+2792,9203,2026-01-09,Case Study,3,Failed,54.07
+2793,9210,2025-12-19,Managerial,3,Passed,55.05
+2794,9212,2025-02-11,Technical,2,Passed,59.26
+2795,9216,2025-05-29,HR,2,Passed,74.88
+2796,9218,2025-05-10,Managerial,2,Failed,54.32
+2797,9223,2025-12-08,Case Study,2,Passed,78.43
+2798,9224,2025-05-20,Case Study,3,Passed,82.31
+2799,9225,2025-05-13,HR,2,Failed,87.61
+2800,9226,2025-11-08,HR,3,Passed,54.29
+2801,9227,2025-09-05,Managerial,2,Passed,95.06
+2802,9230,2025-04-10,Technical,1,Passed,59.63
+2803,9234,2025-04-02,HR,2,Failed,56.73
+2804,9236,2025-01-29,Technical,3,Passed,74.51
+2805,9238,2025-06-13,HR,2,Failed,49.13
+2806,9240,2025-03-11,HR,2,Passed,81.72
+2807,9250,2025-10-19,HR,2,Passed,78.04
+2808,9253,2026-01-02,Case Study,1,Passed,94.12
+2809,9255,2025-10-27,Case Study,2,Passed,80.69
+2810,9263,2025-12-28,Managerial,2,Failed,74.6
+2811,9264,2025-03-20,Case Study,3,Failed,61.52
+2812,9267,2025-03-07,Case Study,2,Passed,98.83
+2813,9270,2025-05-25,Managerial,3,Passed,57.6
+2814,9272,2025-06-10,Case Study,2,Passed,91.51
+2815,9284,2025-01-27,Managerial,3,Failed,82.73
+2816,9285,2025-12-26,Case Study,2,Passed,91.0
+2817,9287,2025-07-22,HR,1,Passed,84.63
+2818,9290,2025-04-04,Technical,1,Passed,61.76
+2819,9293,2025-12-31,HR,3,Passed,53.69
+2820,9295,2025-08-29,Technical,2,Failed,76.21
+2821,9300,2025-11-03,Case Study,3,Passed,99.54
+2822,9306,2025-03-29,HR,2,Passed,58.12
+2823,9313,2025-04-08,Managerial,2,Passed,66.18
+2824,9316,2025-10-25,Case Study,3,Passed,63.7
+2825,9319,2025-06-26,HR,3,Passed,79.65
+2826,9321,2025-09-23,HR,1,Passed,58.21
+2827,9325,2025-08-04,HR,3,Passed,97.92
+2828,9329,2025-05-04,HR,1,Passed,90.44
+2829,9332,2026-01-23,HR,2,Passed,88.98
+2830,9334,2025-02-04,HR,2,Failed,64.55
+2831,9336,2025-01-30,HR,2,Passed,82.03
+2832,9337,2025-09-15,Case Study,3,Passed,93.53
+2833,9338,2025-08-25,HR,1,Passed,43.27
+2834,9342,2025-08-13,Managerial,2,Passed,56.96
+2835,9349,2025-02-12,Technical,3,Passed,94.85
+2836,9354,2025-12-13,Case Study,3,Passed,90.25
+2837,9357,2025-05-29,Technical,3,Passed,80.8
+2838,9361,2025-05-23,HR,3,Failed,50.77
+2839,9363,2025-03-18,HR,1,Failed,42.65
+2840,9364,2025-02-05,Technical,1,Passed,65.26
+2841,9367,2025-07-05,Case Study,3,Passed,74.94
+2842,9374,2025-10-15,Technical,3,Failed,45.95
+2843,9376,2025-11-11,Managerial,3,Failed,49.34
+2844,9381,2025-03-06,Managerial,2,Passed,62.79
+2845,9385,2025-12-10,Technical,1,Passed,66.73
+2846,9386,2025-08-03,Technical,3,Passed,74.84
+2847,9389,2025-11-23,Case Study,3,Passed,69.13
+2848,9401,2025-02-07,HR,1,Passed,51.17
+2849,9406,2025-04-10,Case Study,1,Failed,61.9
+2850,9407,2025-06-24,HR,3,Passed,59.7
+2851,9412,2025-06-22,Case Study,1,Failed,65.34
+2852,9413,2025-05-05,HR,1,Failed,48.72
+2853,9417,2025-12-30,Case Study,1,Failed,81.02
+2854,9419,2025-08-29,Managerial,2,Failed,89.12
+2855,9420,2025-12-15,HR,3,Passed,97.64
+2856,9421,2025-10-28,HR,3,Failed,91.68
+2857,9423,2025-07-31,Technical,1,Passed,47.4
+2858,9424,2025-05-22,HR,2,Failed,99.73
+2859,9426,2025-04-07,HR,3,Passed,72.88
+2860,9427,2025-11-06,Case Study,3,Failed,78.25
+2861,9428,2025-05-18,Case Study,2,Failed,72.24
+2862,9429,2025-11-03,Case Study,1,Passed,52.7
+2863,9432,2025-03-25,Case Study,1,Failed,47.23
+2864,9434,2025-10-03,HR,2,Passed,52.69
+2865,9435,2025-09-09,HR,1,Failed,44.33
+2866,9441,2025-12-09,HR,3,Passed,98.65
+2867,9444,2025-06-25,Managerial,3,Failed,82.35
+2868,9445,2025-03-31,HR,2,Passed,53.16
+2869,9448,2025-08-21,HR,2,Passed,46.25
+2870,9452,2025-06-10,Case Study,1,Failed,89.56
+2871,9454,2025-12-18,Technical,1,Passed,63.89
+2872,9455,2025-05-20,Managerial,3,Passed,73.8
+2873,9457,2025-09-27,Technical,1,Failed,90.43
+2874,9468,2025-11-25,Managerial,3,Failed,81.6
+2875,9469,2025-12-05,Technical,3,Passed,44.99
+2876,9476,2025-11-16,Technical,1,Passed,97.32
+2877,9477,2025-03-21,HR,2,Passed,98.23
+2878,9478,2025-02-14,HR,1,Passed,59.16
+2879,9484,2025-08-13,Case Study,1,Passed,47.28
+2880,9485,2025-01-24,Technical,2,Passed,59.65
+2881,9489,2025-02-05,HR,2,Failed,90.91
+2882,9491,2025-02-07,Managerial,2,Passed,49.66
+2883,9493,2025-03-15,Managerial,2,Passed,68.45
+2884,9494,2025-05-24,Technical,1,Passed,99.44
+2885,9495,2025-09-30,HR,3,Passed,68.98
+2886,9496,2025-01-31,Technical,2,Passed,99.27
+2887,9497,2025-01-22,Case Study,1,Passed,41.93
+2888,9498,2025-05-27,Managerial,2,Passed,90.99
+2889,9499,2025-01-25,HR,2,Failed,96.73
+2890,9502,2025-02-08,HR,2,Passed,87.63
+2891,9504,2025-08-21,HR,2,Passed,69.61
+2892,9506,2025-02-02,Managerial,2,Passed,97.64
+2893,9508,2025-03-26,Case Study,1,Passed,42.04
+2894,9509,2025-11-26,Case Study,2,Failed,63.37
+2895,9512,2025-08-25,Technical,2,Passed,46.14
+2896,9514,2025-08-06,Case Study,3,Failed,81.41
+2897,9515,2025-07-16,HR,3,Passed,95.01
+2898,9516,2025-09-09,Technical,2,Passed,54.68
+2899,9520,2026-01-02,Managerial,1,Passed,94.65
+2900,9529,2025-09-02,HR,1,Failed,40.33
+2901,9531,2025-01-30,HR,3,Passed,69.86
+2902,9532,2025-09-16,HR,2,Passed,81.04
+2903,9535,2025-12-29,Managerial,1,Failed,66.36
+2904,9538,2026-01-03,HR,1,Passed,76.93
+2905,9548,2025-07-22,Managerial,1,Passed,87.18
+2906,9552,2025-10-31,Managerial,1,Passed,87.02
+2907,9555,2025-03-24,HR,1,Passed,88.93
+2908,9556,2025-09-09,Technical,1,Failed,66.98
+2909,9559,2025-04-09,Technical,2,Passed,86.71
+2910,9561,2025-04-08,Managerial,3,Passed,81.11
+2911,9563,2025-10-01,Technical,2,Passed,57.03
+2912,9569,2025-05-13,Managerial,1,Passed,73.14
+2913,9570,2026-01-07,HR,1,Passed,59.9
+2914,9578,2025-02-25,HR,3,Passed,81.61
+2915,9579,2025-02-13,Case Study,1,Passed,45.49
+2916,9580,2025-12-08,Managerial,3,Failed,59.37
+2917,9582,2025-11-11,Technical,2,Passed,76.58
+2918,9585,2025-06-18,Technical,2,Passed,80.06
+2919,9587,2025-10-30,HR,3,Passed,95.24
+2920,9588,2025-04-11,Case Study,3,Failed,99.46
+2921,9589,2025-04-03,Managerial,2,Failed,75.67
+2922,9606,2025-12-17,Managerial,3,Failed,50.14
+2923,9607,2025-12-22,Managerial,1,Passed,61.34
+2924,9612,2025-04-01,Managerial,2,Passed,80.48
+2925,9614,2025-06-17,Technical,3,Failed,48.22
+2926,9616,2025-12-29,HR,2,Passed,82.06
+2927,9625,2025-09-16,Managerial,3,Failed,96.54
+2928,9626,2025-09-14,HR,1,Failed,81.85
+2929,9631,2025-07-08,Case Study,2,Failed,47.48
+2930,9635,2025-02-09,Case Study,1,Passed,41.89
+2931,9639,2025-09-27,Technical,2,Failed,66.46
+2932,9640,2025-04-26,Managerial,3,Failed,68.71
+2933,9642,2025-02-03,Technical,3,Failed,50.88
+2934,9647,2025-12-28,Managerial,3,Passed,54.14
+2935,9649,2025-10-18,HR,3,Passed,81.94
+2936,9650,2025-11-17,Managerial,2,Failed,92.1
+2937,9651,2025-05-18,Case Study,1,Failed,78.65
+2938,9654,2025-02-26,Case Study,1,Passed,64.91
+2939,9660,2025-06-15,Technical,2,Failed,45.51
+2940,9663,2025-11-04,HR,1,Passed,45.29
+2941,9664,2025-09-09,Case Study,1,Passed,71.51
+2942,9666,2025-10-25,HR,2,Failed,74.62
+2943,9671,2025-09-10,Case Study,3,Passed,63.39
+2944,9672,2025-10-28,Managerial,3,Passed,90.77
+2945,9682,2025-02-09,HR,2,Failed,86.16
+2946,9686,2025-10-07,Case Study,2,Passed,40.08
+2947,9693,2025-08-26,Technical,1,Passed,96.58
+2948,9699,2025-05-02,Managerial,1,Passed,88.11
+2949,9703,2025-05-31,HR,1,Failed,75.96
+2950,9708,2025-02-06,Managerial,2,Failed,73.77
+2951,9712,2025-12-09,HR,2,Failed,50.49
+2952,9715,2025-12-15,Technical,2,Failed,75.54
+2953,9716,2025-10-23,Technical,1,Failed,48.54
+2954,9720,2025-09-11,Case Study,3,Passed,72.07
+2955,9722,2025-06-07,Case Study,1,Failed,91.73
+2956,9725,2025-04-05,HR,1,Failed,72.92
+2957,9727,2025-02-15,Technical,2,Passed,94.89
+2958,9731,2025-05-02,Managerial,1,Passed,71.7
+2959,9734,2025-09-02,Case Study,3,Passed,87.12
+2960,9735,2025-10-05,Technical,3,Passed,70.97
+2961,9736,2025-05-01,Technical,1,Passed,95.55
+2962,9737,2025-02-07,Case Study,3,Failed,46.23
+2963,9738,2025-12-07,Managerial,1,Failed,59.43
+2964,9741,2025-01-25,Case Study,1,Passed,46.6
+2965,9744,2025-11-17,HR,2,Failed,54.14
+2966,9745,2025-02-27,Case Study,2,Passed,69.89
+2967,9750,2025-02-05,HR,2,Failed,73.71
+2968,9753,2025-05-14,Case Study,1,Failed,61.84
+2969,9755,2025-02-13,HR,1,Passed,92.41
+2970,9756,2025-06-18,Case Study,2,Passed,87.92
+2971,9757,2025-09-27,HR,1,Failed,88.07
+2972,9759,2025-02-06,Case Study,3,Passed,95.69
+2973,9762,2025-09-02,Case Study,2,Passed,89.05
+2974,9764,2026-01-26,Technical,3,Failed,91.26
+2975,9768,2025-09-22,Technical,2,Failed,85.89
+2976,9769,2025-06-11,Technical,2,Failed,66.92
+2977,9770,2025-08-15,HR,1,Failed,61.16
+2978,9771,2026-01-19,Case Study,2,Passed,42.89
+2979,9774,2025-10-13,Case Study,3,Failed,54.56
+2980,9775,2025-03-01,Technical,3,Failed,92.65
+2981,9777,2025-11-02,Case Study,1,Failed,54.57
+2982,9778,2025-04-19,Case Study,2,Failed,50.72
+2983,9781,2025-09-17,Managerial,3,Passed,49.14
+2984,9785,2025-08-03,HR,2,Failed,51.78
+2985,9786,2025-11-30,HR,1,Failed,75.43
+2986,9789,2025-12-24,HR,3,Passed,68.44
+2987,9792,2025-10-10,Technical,3,Passed,84.04
+2988,9796,2025-05-07,Technical,2,Failed,79.85
+2989,9798,2025-02-02,Managerial,2,Failed,56.96
+2990,9800,2025-01-17,HR,2,Passed,58.38
+2991,9802,2025-10-12,HR,3,Passed,95.53
+2992,9804,2025-07-27,HR,3,Passed,87.4
+2993,9807,2025-11-12,Managerial,1,Passed,64.84
+2994,9809,2025-03-29,Case Study,3,Passed,98.37
+2995,9810,2025-08-29,Case Study,2,Failed,80.47
+2996,9811,2025-01-20,HR,2,Passed,60.38
+2997,9812,2025-07-02,Case Study,2,Passed,46.36
+2998,9820,2025-09-26,Case Study,3,Passed,86.73
+2999,9822,2025-02-10,HR,1,Passed,55.57
+3000,9825,2025-10-07,Technical,2,Failed,87.49
+3001,9827,2025-07-27,Technical,3,Failed,76.53
+3002,9833,2025-09-06,Managerial,3,Failed,51.53
+3003,9840,2025-03-03,Managerial,1,Passed,72.97
+3004,9841,2025-03-06,HR,3,Passed,72.01
+3005,9842,2025-09-19,Managerial,2,Failed,40.46
+3006,9849,2025-11-25,Case Study,1,Passed,68.22
+3007,9850,2025-05-18,HR,2,Passed,58.28
+3008,9851,2025-08-28,Managerial,1,Failed,41.14
+3009,9852,2025-12-05,Technical,1,Passed,90.48
+3010,9859,2025-05-11,Case Study,1,Passed,80.37
+3011,9860,2025-12-06,HR,3,Failed,40.84
+3012,9861,2025-02-14,Technical,1,Passed,99.92
+3013,9866,2025-12-03,Managerial,3,Passed,42.32
+3014,9869,2025-01-30,Managerial,2,Passed,81.6
+3015,9870,2025-11-14,HR,3,Passed,63.56
+3016,9873,2025-03-02,HR,1,Passed,87.81
+3017,9874,2025-03-30,HR,2,Passed,99.06
+3018,9879,2025-04-05,Case Study,2,Failed,55.44
+3019,9883,2025-06-11,HR,2,Passed,85.25
+3020,9888,2025-02-14,Technical,1,Passed,57.76
+3021,9893,2025-01-25,Case Study,2,Passed,45.17
+3022,9903,2025-06-15,HR,2,Failed,75.19
+3023,9904,2025-10-23,Technical,2,Failed,65.47
+3024,9905,2025-04-03,Managerial,3,Failed,65.99
+3025,9906,2025-05-30,Case Study,2,Passed,77.13
+3026,9909,2025-05-13,Managerial,3,Passed,82.35
+3027,9910,2025-06-20,HR,3,Passed,94.18
+3028,9911,2025-08-04,Case Study,2,Passed,72.5
+3029,9912,2025-08-26,Managerial,2,Passed,59.37
+3030,9913,2025-06-04,HR,1,Failed,88.73
+3031,9918,2025-08-11,Case Study,2,Passed,96.71
+3032,9921,2025-10-17,Case Study,2,Passed,55.25
+3033,9926,2025-08-03,Technical,3,Failed,61.47
+3034,9928,2025-05-16,Managerial,1,Failed,97.85
+3035,9934,2025-08-28,Case Study,3,Failed,68.28
+3036,9937,2025-05-17,Case Study,1,Passed,69.92
+3037,9946,2025-09-14,HR,3,Failed,67.74
+3038,9950,2025-10-08,Case Study,1,Passed,77.9
+3039,9952,2025-05-26,Managerial,3,Passed,63.58
+3040,9962,2025-11-24,Managerial,3,Passed,60.37
+3041,9967,2025-02-12,Case Study,3,Passed,75.7
+3042,9972,2025-01-11,Technical,1,Passed,89.6
+3043,9973,2025-03-01,HR,1,Passed,96.62
+3044,9981,2025-04-18,Technical,3,Passed,93.56
+3045,9987,2025-05-30,Technical,2,Passed,77.01
+3046,9990,2025-12-26,Managerial,2,Passed,40.1
+3047,9991,2025-07-06,Technical,2,Passed,46.82
+3048,9999,2025-08-21,Technical,1,Passed,66.17
+3049,10000,2025-02-26,Technical,2,Passed,97.99
