@@ -158,3 +158,17 @@ Understanding role-level hiring patterns
 Monitoring hiring costs and salary trends
 Identifying valuable candidate skill patterns
 Supporting data-driven recruitment decisions
+
+## Power BI Dashboard
+
+### Executive Overview
+
+![Executive Overview](powerbi/Page%201%20-%20Executive%20Overview.png)
+
+### Hiring Performance
+
+![Hiring Performance](powerbi/Page%202-Hiring%20Performance.png)
+
+### Source & Recruitment Analysis
+
+![Source & Recruitment Analysis](powerbi/Page%203-Source%20%26%20Recruitment%20Analysis.png)
