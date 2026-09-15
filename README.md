@@ -113,22 +113,28 @@ The cloud architecture is designed to support future migration of the PostgreSQL
 
 ```text
 Recruitment-Hiring-Analytics/
-│
+├── aws/
+│   ├── architecture.md
+│   └── iam_policy.json
 ├── data/
 │   └── Raw recruitment datasets
-│
 ├── ml/
 │   └── Machine learning and analysis outputs
-│
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_ml_model.ipynb
 │   └── 03_nlp_analysis.ipynb
-│
+├── powerbi/
+│   └── Power BI dashboard screenshots
 ├── sql/
 │   └── analysis.sql
-│
-└── LICENSE
+├── src/
+│   ├── generate_data.py
+│   └── load_data.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
 PROJECT WORKFLOW
 
 Raw Recruitment Data
@@ -158,6 +164,13 @@ Understanding role-level hiring patterns
 Monitoring hiring costs and salary trends
 Identifying valuable candidate skill patterns
 Supporting data-driven recruitment decisions
+
+📊 Power BI Dashboard
+Executive Overview
+
+Hiring Performance
+
+Source & Recruitment Analysis
 
 ## Power BI Dashboard
 
